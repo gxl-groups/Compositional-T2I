@@ -1,0 +1,300 @@
+a giraffe next to a lamp::::{'giraffe-0': [45, 45, 165, 215], 'lamp-0': [175, 45, 245, 115]}
+a girl on the top of a frog::::{'girl-0': [50, 10, 180, 120], 'frog-0': [80, 150, 200, 220]}
+a mouse on side of a key::::{'mouse-0': [20, 40, 100, 120], 'key-0': [130, 40, 200, 120]}
+a bee on the right of a refrigerator::::{'bee-0': [160, 80, 200, 130], 'refrigerator-0': [20, 50, 130, 200]}
+a balloon on the right of a person::::{'person-0': [20, 30, 140, 240], 'balloon-0': [160, 70, 230, 150]}
+a cat on the top of a sofa::::{'cat-0': [30, 30, 120, 120], 'sofa-0': [20, 130, 200, 220]}
+a desk on the right of a horse::::{'horse-0': [20, 30, 120, 200], 'desk-0': [180, 50, 250, 180]}
+a bicycle on the bottom of a girl::::{'bicycle-0': [20, 180, 120, 250], 'girl-0': [70, 20, 200, 150]}
+a sheep on the left of a lamp::::{'sheep': [20, 20, 100, 180], 'lamp': [110, 50, 180, 200]}
+a suitcase on the right of a mouse::::{'mouse': [30, 40, 70, 100], 'suitcase': [150, 30, 220, 120]}
+a bird on side of a airplane::::{'bird-0': [20, 20, 80, 100], 'airplane-0': [120, 50, 240, 180]}
+a pig on the bottom of a train::::{'pig-0': [50, 150, 120, 220], 'train-0': [10, 10, 200, 140]}
+a mouse on the bottom of a vase::::{'vase-0': [50, 50, 150, 200], 'mouse-0': [75, 210, 125, 250]}
+a fish on side of a sofa::::{'fish-0': [20, 20, 70, 70], 'sofa-0': [100, 30, 220, 150]}
+a girl on the top of a refrigerator::::{'girl-0': [50, 20, 150, 200], 'refrigerator-0': [10, 180, 200, 250]}
+a boy on the bottom of a bee::::{'boy-0': [50, 150, 150, 250], 'bee-0': [25, 25, 100, 100]}
+a chicken on the left of a girl::::{'chicken': [10, 50, 90, 170], 'girl': [100, 30, 200, 200]}
+a woman on the left of a balloon::::{'woman-0': [10, 10, 100, 200], 'balloon-0': [110, 50, 200, 180]}
+a table on the bottom of a dog::::{'table-0': [20, 150, 150, 220], 'dog-0': [50, 30, 130, 140]}
+a horse on side of a bicycle::::{'horse-0': [10, 30, 138, 200], 'bicycle-0': [150, 50, 250, 180]}
+a plate on the bottom of a fish::::{'plate-0': [50, 180, 150, 230], 'fish-0': [80, 50, 200, 150]}
+a boy next to a bowl::::{'boy-0': [10, 10, 100, 200], 'bowl-0': [110, 30, 200, 120]}
+a man on the left of a giraffe::::{'man-0': [10, 40, 85, 200], 'giraffe-0': [100, 20, 220, 220]}
+a mouse near a bowl::::{'mouse': [30, 30, 80, 100], 'bowl': [120, 120, 200, 200]}
+a woman on the right of a wallet::::{'woman-0': [140, 80, 238, 220], 'wallet-0': [10, 80, 80, 150]}
+a frog on the left of a book::::{'frog-0': [30, 30, 100, 200], 'book-0': [110, 40, 220, 220]}
+a mouse near a bag::::{'mouse-0': [50, 50, 100, 100], 'bag-0': [150, 150, 200, 200]}
+a bicycle on the top of a turtle::::{'bicycle-0': [30, 25, 180, 102], 'turtle-0': [70, 150, 200, 230]}
+a bicycle on the bottom of a chicken::::{'bicycle-0': [30, 180, 200, 250], 'chicken-0': [70, 30, 180, 150]}
+a sheep on side of a chair::::{'sheep-0': [20, 20, 100, 150], 'chair-0': [120, 30, 220, 190]}
+a boy on the left of a balloon::::{'boy-0': [25, 30, 103, 208], 'balloon-0': [120, 29, 230, 150]}
+a bee on the top of a bicycle::::{'bee-0': [90, 20, 130, 60], 'bicycle-0': [50, 70, 200, 190]}
+a painting on the top of a rabbit::::{'painting': [30, 10, 200, 100], 'rabbit': [70, 120, 180, 220]}
+a bird on the top of a person::::{'bird-0': [50, 20, 120, 80], 'person-0': [30, 90, 226, 250]}
+a key on the top of a chicken::::{'key': [20, 30, 80, 120], 'chicken': [50, 130, 200, 250]}
+a rabbit next to a table::::{'rabbit-0': [10, 80, 100, 190], 'table-0': [120, 40, 240, 120]}
+a bee on side of a couch::::{'bee-0': [20, 20, 60, 60], 'couch-0': [100, 80, 220, 200]}
+a giraffe on the left of a table::::{'giraffe-0': [10, 20, 100, 220], 'table-0': [120, 30, 240, 210]}
+a rabbit near a bicycle::::{'rabbit-0': [20, 20, 100, 150], 'bicycle-0': [120, 50, 240, 180]}
+a cup on the right of a dog::::{'dog-0': [25, 25, 160, 220], 'cup-0': [180, 70, 230, 120]}
+a book on the top of a butterfly::::{'book': [50, 10, 120, 70], 'butterfly': [70, 80, 130, 150]}
+a key on the left of a butterfly::::{'key': [20, 20, 80, 200], 'butterfly': [90, 50, 210, 190]}
+a bird on the left of a clock::::{'bird-0': [10, 50, 100, 150], 'clock-0': [120, 50, 200, 150]}
+a frog on the top of a bowl::::{'frog-0': [50, 30, 120, 100], 'bowl-0': [80, 120, 180, 200]}
+a person on side of a cow::::{'person': [20, 40, 100, 200], 'cow': [130, 30, 240, 180]}
+a chicken on the right of a suitcase::::{'suitcase-0': [20, 20, 110, 180], 'chicken-0': [150, 20, 240, 140]}
+a sofa on the left of a frog::::{'sofa-0': [10, 30, 120, 200], 'frog-0': [130, 50, 180, 180]}
+a pig on the left of a lamp::::{'pig-0': [10, 50, 90, 180], 'lamp-0': [100, 70, 200, 200]}
+a horse on side of a car::::{'horse': [10, 10, 100, 200], 'car': [120, 10, 230, 200]}
+a man on the right of a lamp::::{'man-0': [130, 30, 220, 220], 'lamp-0': [20, 20, 100, 200]}
+a horse on the left of a car::::{'horse-0': [10, 30, 100, 200], 'car-0': [120, 30, 220, 200]}
+a wallet on the left of a giraffe::::{'wallet-0': [10, 80, 70, 180], 'giraffe-0': [100, 10, 240, 220]}
+a clock on the top of a sheep::::{'clock-0': [50, 20, 100, 100], 'sheep-0': [75, 120, 175, 220]}
+a cat on side of a suitcase::::{'cat-0': [20, 20, 120, 200], 'suitcase-0': [130, 40, 220, 180]}
+a cat next to a suitcase::::{'cat-0': [25, 25, 115, 190], 'suitcase-0': [125, 35, 220, 185]}
+a bird on the left of a microwave::::{'bird-0': [10, 80, 80, 150], 'microwave-0': [90, 30, 200, 200]}
+a bird on the left of a phone::::{'bird': [10, 10, 80, 120], 'phone': [90, 30, 160, 150]}
+a computer on the top of a rabbit::::{'computer': [50, 20, 200, 120], 'rabbit': [80, 140, 170, 220]}
+a rabbit on side of a wallet::::{'rabbit-0': [10, 60, 80, 150], 'wallet-0': [100, 70, 220, 130]}
+a dog on the bottom of a refrigerator::::{'dog-0': [50, 200, 150, 256], 'refrigerator-0': [10, 10, 220, 120]}
+a couch on the right of a chicken::::{'chicken-0': [20, 30, 80, 120], 'couch-0': [120, 30, 230, 200]}
+a phone on the right of a chicken::::{'chicken-0': [20, 30, 90, 150], 'phone-0': [160, 40, 220, 200]}
+a bee on the top of a boy::::{'bee-0': [80, 20, 120, 60], 'boy-0': [60, 70, 200, 200]}
+a phone on the right of a rabbit::::{'phone': [170, 30, 240, 180], 'rabbit': [20, 20, 100, 150]}
+a bird on the left of a woman::::{'bird-0': [10, 50, 80, 130], 'woman-0': [100, 10, 230, 240]}
+a candle on the left of a mouse::::{'candle-0': [25, 30, 80, 200], 'mouse-0': [90, 50, 180, 180]}
+a man on the left of a lamp::::{'man-0': [10, 50, 100, 200], 'lamp-0': [120, 80, 180, 160]}
+a bee on the left of a refrigerator::::{'bee-0': [20, 50, 70, 100], 'refrigerator-0': [100, 40, 200, 200]}
+a frog on the bottom of a bowl::::{'frog': [50, 180, 150, 230], 'bowl': [20, 20, 200, 150]}
+a cup on the left of a pig::::{'cup-0': [10, 70, 70, 130], 'pig-0': [80, 50, 190, 150]}
+a cow on the bottom of a bag::::{'cow': [50, 150, 150, 250], 'bag': [20, 20, 100, 120]}
+a butterfly on side of a cup::::{'butterfly-0': [10, 10, 90, 90], 'cup-0': [120, 20, 200, 100]}
+a butterfly on the left of a candle::::{'butterfly-0': [20, 40, 110, 190], 'candle-0': [130, 80, 220, 220]}
+a desk on the top of a butterfly::::{'desk-0': [20, 20, 200, 40], 'butterfly-0': [80, 60, 120, 100]}
+a dog on the top of a sofa::::{'dog-0': [30, 30, 150, 150], 'sofa-0': [50, 160, 200, 220]}
+a turtle next to a bowl::::{'turtle-0': [20, 20, 100, 150], 'bowl-0': [120, 20, 200, 100]}
+a cow on the top of a chair::::{'cow-0': [50, 10, 200, 120], 'chair-0': [70, 140, 200, 250]}
+a painting on the bottom of a chicken::::{'painting-0': [20, 180, 120, 250], 'chicken-0': [80, 30, 200, 150]}
+a vase on the right of a cat::::{'cat-0': [25, 30, 103, 208], 'vase-0': [150, 30, 200, 80]}
+a girl on the bottom of a bag::::{'girl': [20, 150, 160, 250], 'bag': [60, 20, 200, 120]}
+a giraffe on the left of a balloon::::{'giraffe-0': [10, 20, 100, 200], 'balloon-0': [110, 50, 180, 150]}
+a phone on the right of a butterfly::::{'butterfly-0': [40, 30, 120, 150], 'phone-0': [140, 40, 220, 140]}
+a giraffe next to a suitcase::::{'giraffe-0': [30, 30, 150, 220], 'suitcase-0': [170, 40, 240, 180]}
+a dog on the right of a wallet::::{'wallet-0': [15, 20, 90, 100], 'dog-0': [150, 50, 240, 200]}
+a woman on the left of a cup::::{'woman-0': [20, 30, 120, 220], 'cup-0': [130, 30, 180, 90]}
+a airplane on the right of a person::::{'airplane-0': [150, 20, 230, 100], 'person-0': [20, 30, 100, 210]}
+a microwave on the right of a pig::::{'pig': [20, 40, 120, 180], 'microwave': [160, 80, 240, 180]}
+a backpack on the top of a chicken::::{'backpack-0': [50, 20, 150, 100], 'chicken-0': [80, 120, 200, 250]}
+a frog near a phone::::{'frog': [20, 20, 100, 150], 'phone': [120, 50, 200, 150]}
+a cat on side of a wallet::::{'cat-0': [30, 30, 120, 200], 'wallet-0': [140, 40, 240, 220]}
+a woman on the top of a painting::::{'woman-0': [20, 20, 100, 200], 'painting-0': [50, 0, 200, 150]}
+a sheep on side of a sofa::::{'sheep-0': [10, 10, 90, 150], 'sofa-0': [100, 10, 220, 180]}
+a boy on the top of a wallet::::{'boy-0': [60, 10, 200, 130], 'wallet-0': [30, 150, 226, 200]}
+a cow on side of a train::::{'cow-0': [30, 30, 120, 200], 'train-0': [140, 40, 250, 220]}
+a chair on the bottom of a turtle::::{'chair-0': [20, 180, 100, 240], 'turtle-0': [80, 20, 200, 160]}
+a turtle on the left of a man::::{'turtle-0': [10, 30, 100, 150], 'man-0': [120, 40, 220, 220]}
+a bird on the top of a balloon::::{'bird-0': [50, 10, 100, 70], 'balloon-0': [30, 80, 170, 230]}
+a horse on the left of a book::::{'horse-0': [25, 30, 103, 208], 'book-0': [111, 29, 230, 113]}
+a table on the top of a pig::::{'table-0': [20, 10, 150, 70], 'pig-0': [60, 80, 120, 200]}
+a boy on side of a bee::::{'boy': [20, 40, 110, 180], 'bee': [140, 80, 200, 140]}
+a turtle next to a television::::{'turtle-0': [20, 20, 100, 150], 'television-0': [120, 20, 220, 150]}
+a pig near a cup::::{'pig-0': [30, 30, 120, 180], 'cup-0': [150, 100, 200, 150]}
+a rabbit on the bottom of a chair::::{'rabbit-0': [30, 180, 100, 240], 'chair-0': [90, 30, 200, 120]}
+a painting on the bottom of a horse::::{'painting-0': [50, 160, 206, 240], 'horse-0': [25, 10, 190, 150]}
+a bowl on the right of a butterfly::::{'butterfly-0': [20, 20, 100, 100], 'bowl-0': [140, 30, 230, 120]}
+a frog near a chair::::{'frog-0': [50, 50, 100, 100], 'chair-0': [150, 150, 200, 200]}
+a dog on the top of a desk::::{'dog-0': [50, 10, 150, 100], 'desk-0': [20, 100, 230, 120]}
+a girl on side of a desk::::{'girl': [20, 40, 130, 220], 'desk': [140, 30, 230, 200]}
+a television on the right of a woman::::{'woman': [20, 30, 150, 220], 'television': [160, 30, 250, 180]}
+a pig near a wallet::::{'pig-0': [50, 50, 120, 150], 'wallet-0': [140, 100, 180, 130]}
+a man near a pig::::{'man-0': [40, 30, 150, 230], 'pig-0': [170, 50, 250, 180]}
+a pig on the top of a boy::::{'pig-0': [50, 30, 200, 150], 'boy-0': [75, 160, 180, 240]}
+a giraffe near a wallet::::{'giraffe-0': [50, 50, 150, 200], 'wallet-0': [170, 170, 200, 200]}
+a pig near a clock::::{'pig': [50, 50, 120, 150], 'clock': [140, 40, 200, 120]}
+a dog on the bottom of a balloon::::{'dog-0': [100, 180, 190, 256], 'loon-0': [45, 50, 210, 170]}
+a fish near a cup::::{'fish-0': [40, 60, 110, 130], 'cup-0': [120, 120, 180, 180]}
+a bag on the right of a dog::::{'bag-0': [150, 50, 200, 180], 'dog-0': [30, 30, 120, 200]}
+a cup on the top of a butterfly::::{'cup': [50, 20, 120, 100], 'butterfly': [70, 120, 160, 200]}
+a airplane on the right of a girl::::{'airplane-0': [150, 50, 230, 180], 'girl-0': [20, 30, 120, 200]}
+a frog next to a desk::::{'frog-0': [30, 30, 100, 150], 'desk-0': [120, 80, 220, 180]}
+a woman near a bag::::{'woman-0': [40, 40, 120, 220], 'bag-0': [140, 60, 200, 180]}
+a woman on the right of a television::::{'television-0': [10, 10, 130, 180], 'woman-0': [150, 20, 250, 220]}
+a cup on the bottom of a dog::::{'cup-0': [60, 190, 130, 230], 'dog-0': [10, 10, 200, 180]}
+a woman on the left of a plate::::{'woman-0': [20, 20, 130, 250], 'plate-0': [150, 60, 230, 130]}
+a frog near a refrigerator::::{'frog-0': [50, 50, 120, 150], 'refrigerator-0': [150, 50, 250, 200]}
+a pig on the top of a man::::{'pig-0': [80, 20, 150, 100], 'man-0': [70, 110, 180, 240]}
+a rabbit on the right of a wallet::::{'rabbit-0': [150, 50, 230, 180], 'wallet-0': [20, 30, 100, 100]}
+a girl next to a cow::::{'girl': [40, 30, 120, 200], 'cow': [140, 20, 230, 220]}
+a man on the top of a sofa::::{'man-0': [50, 10, 150, 200], 'sofa-0': [20, 180, 230, 250]}
+a cat on the right of a person::::{'person': [40, 30, 140, 220], 'cat': [160, 40, 240, 180]}
+a bee on the bottom of a airplane::::{'bee-0': [90, 180, 140, 230], 'airplane-0': [50, 50, 200, 150]}
+a bird on the right of a cup::::{'bird-0': [150, 30, 220, 120], 'cup-0': [30, 30, 100, 100]}
+a woman on the top of a pig::::{'woman-0': [40, 20, 220, 180], 'pig-0': [80, 190, 180, 250]}
+a airplane on the right of a turtle::::{'airplane-0': [140, 30, 240, 150], 'turtle-0': [20, 20, 100, 100]}
+a television on the top of a bird::::{'television-0': [50, 30, 206, 120], 'bird-0': [90, 140, 160, 210]}
+a cow next to a couch::::{'cow-0': [20, 20, 110, 180], 'couch-0': [130, 50, 230, 160]}
+a bird on the right of a man::::{'man': [30, 40, 150, 220], 'bird': [170, 80, 240, 160]}
+a table on the left of a girl::::{'table': [10, 20, 90, 150], 'girl': [100, 30, 200, 200]}
+a giraffe near a computer::::{'giraffe-0': [20, 20, 160, 240], 'computer-0': [180, 50, 250, 180]}
+a frog on the left of a refrigerator::::{'frog-0': [20, 40, 100, 200], 'refrigerator-0': [110, 30, 230, 220]}
+a giraffe on the right of a wallet::::{'giraffe-0': [150, 30, 230, 200], 'wallet-0': [30, 30, 100, 100]}
+a girl near a bag::::{'girl-0': [20, 20, 100, 200], 'bag-0': [120, 40, 200, 180]}
+a cow on side of a clock::::{'cow': [10, 20, 100, 150], 'clock': [120, 30, 200, 120]}
+a train on the top of a cow::::{'train': [60, 20, 190, 80], 'cow': [50, 100, 150, 220]}
+a giraffe on the top of a airplane::::{'giraffe-0': [50, 50, 150, 200], 'airplane-0': [100, 100, 200, 150]}
+a plate on the left of a girl::::{'plate-0': [25, 25, 120, 120], 'girl-0': [130, 30, 230, 210]}
+a woman on side of a cup::::{'woman': [20, 20, 100, 200], 'cup': [120, 50, 200, 150]}
+a man next to a mouse::::{'man-0': [40, 40, 200, 220], 'mouse-0': [210, 60, 230, 80]}
+a chicken near a suitcase::::{'chicken-0': [30, 30, 100, 150], 'suitcase-0': [120, 40, 220, 160]}
+a girl on the bottom of a horse::::{'girl-0': [25, 180, 125, 255], 'horse-0': [60, 30, 200, 175]}
+a key on the right of a dog::::{'dog-0': [20, 30, 110, 200], 'key-0': [150, 30, 200, 100]}
+a horse near a sofa::::{'horse-0': [20, 20, 120, 180], 'sofa-0': [140, 40, 240, 200]}
+a turtle on the bottom of a phone::::{'turtle': [50, 180, 150, 230], 'phone': [80, 30, 200, 150]}
+a butterfly on the right of a balloon::::{'butterfly-0': [150, 30, 200, 150], 'balloon-0': [30, 30, 120, 180]}
+a horse on the bottom of a plate::::{'horse-0': [50, 170, 200, 250], 'plate-0': [80, 30, 180, 60]}
+a turtle next to a airplane::::{'turtle-0': [30, 30, 100, 100], 'airplane-0': [120, 30, 220, 100]}
+a woman on the top of a butterfly::::{'woman-0': [50, 10, 200, 150], 'butterfly-0': [90, 160, 120, 190]}
+a mouse on the bottom of a phone::::{'mouse-0': [60, 190, 150, 250], 'phone-0': [50, 20, 200, 100]}
+a dog on the bottom of a desk::::{'desk-0': [0, 150, 256, 256], 'dog-0': [80, 180, 176, 253]}
+a frog on the right of a bag::::{'frog-0': [130, 30, 220, 200], 'bag-0': [20, 30, 120, 150]}
+a person on side of a table::::{'person-0': [10, 20, 80, 200], 'table-0': [90, 40, 220, 150]}
+a chair on the right of a frog::::{'chair-0': [150, 30, 230, 160], '-0': [20, 40, 100, 180]}
+a suitcase on the right of a cow::::{'suitcase-0': [150, 30, 230, 180], 'cow-0': [20, 20, 120, 150]}
+a rabbit near a train::::{'rabbit': [30, 30, 100, 100], 'train': [120, 40, 240, 200]}
+a candle on the top of a chicken::::{'candle': [80, 20, 130, 100], 'chicken': [60, 110, 180, 220]}
+a television on the right of a person::::{'person-0': [45, 30, 215, 240], 'television-0': [220, 40, 250, 80]}
+a fish next to a train::::{'fish-0': [50, 50, 120, 120], 'train-0': [150, 150, 230, 230]}
+a train on the bottom of a giraffe::::{'train-0': [25, 180, 200, 240], 'giraffe-0': [50, 20, 200, 175]}
+a train on the bottom of a girl::::{'train-0': [20, 180, 200, 250], 'girl-0': [50, 20, 150, 175]}
+a rabbit on the top of a clock::::{'rabbit': [20, 10, 100, 80], 'clock': [80, 100, 180, 200]}
+a man on side of a cow::::{'man-0': [10, 10, 80, 200], 'cow-0': [100, 30, 210, 220]}
+a man next to a airplane::::{'man-0': [30, 30, 130, 210], 'airplane-0': [150, 50, 250, 150]}
+a woman on the left of a microwave::::{'woman-0': [25, 30, 103, 208], 'microwave-0': [120, 30, 220, 200]}
+a candle on the right of a bird::::{'bird-0': [35, 30, 110, 150], 'candle-0': [160, 80, 230, 180]}
+a bird on side of a balloon::::{'bird-0': [10, 100, 90, 180], 'balloon-0': [100, 50, 200, 150]}
+a giraffe on the bottom of a suitcase::::{'giraffe-0': [50, 150, 150, 250], 'suitcase-0': [20, 20, 200, 120]}
+a chair on the right of a giraffe::::{'giraffe-0': [10, 20, 120, 220], 'chair-0': [150, 50, 240, 180]}
+a frog on side of a wallet::::{'frog': [20, 20, 100, 180], 'wallet': [120, 50, 200, 150]}
+a balloon on the right of a butterfly::::{'butterfly': [20, 20, 120, 120], 'balloon': [140, 40, 220, 180]}
+a butterfly next to a train::::{'butterfly-0': [20, 30, 80, 150], 'train-0': [100, 50, 230, 200]}
+a table on the right of a man::::{'man-0': [25, 30, 103, 208], 'table-0': [150, 30, 250, 200]}
+a desk on the bottom of a giraffe::::{'giraffe-0': [30, 30, 200, 220], 'desk-0': [20, 230, 150, 256]}
+a cat on the bottom of a man::::{'cat-0': [20, 150, 100, 240], 'man-0': [80, 20, 180, 140]}
+a airplane on the top of a mouse::::{'airplane-0': [20, 20, 100, 100], 'mouse-0': [120, 120, 200, 200]}
+a bee near a desk::::{'bee-0': [120, 120, 160, 160], 'desk-0': [20, 20, 200, 230]}
+a woman on the right of a phone::::{'phone-0': [10, 50, 110, 200], 'woman-0': [150, 50, 250, 200]}
+a bowl on the bottom of a frog::::{'frog': [60, 40, 180, 200], 'bowl': [50, 210, 100, 240]}
+a balloon on the bottom of a chicken::::{'balloon-0': [70, 180, 120, 240], 'chicken-0': [90, 30, 200, 150]}
+a balloon on the bottom of a person::::{'person': [50, 30, 200, 220], 'balloon': [100, 200, 150, 250]}
+a person on the right of a train::::{'person-0': [130, 30, 220, 220], 'train-0': [10, 30, 120, 200]}
+a airplane on the top of a horse::::{'airplane-0': [50, 10, 180, 70], 'horse-0': [40, 80, 220, 200]}
+a fish on side of a bag::::{'fish-0': [20, 20, 100, 100], 'bag-0': [150, 50, 250, 180]}
+a television on the top of a woman::::{'television': [50, 10, 120, 70], 'woman': [30, 80, 180, 220]}
+a person on the left of a vase::::{'person-0': [10, 20, 80, 220], 'vase-0': [100, 50, 200, 180]}
+a couch on the bottom of a pig::::{'couch-0': [25, 190, 231, 250], 'pig-0': [25, 5, 120, 180]}
+a rabbit next to a train::::{'rabbit-0': [20, 20, 80, 120], 'train-0': [100, 40, 220, 180]}
+a bee next to a microwave::::{'bee-0': [30, 30, 90, 90], 'microwave-0': [130, 30, 230, 180]}
+a horse on the top of a wallet::::{'horse-0': [50, 50, 150, 200], 'wallet-0': [100, 100, 200, 150]}
+a girl on the right of a sofa::::{'sofa-0': [5, 30, 200, 150], 'girl-0': [210, 10, 250, 150]}
+a person on the left of a couch::::{'person-0': [10, 50, 70, 200], 'couch-0': [100, 30, 240, 220]}
+a chicken on side of a candle::::{'chicken-0': [20, 20, 100, 80], 'candle-0': [150, 150, 220, 230]}
+a cup on the right of a bee::::{'bee-0': [20, 40, 100, 120], 'cup-0': [150, 20, 230, 100]}
+a giraffe on the right of a candle::::{'giraffe-0': [150, 30, 240, 220], 'candle-0': [10, 80, 80, 140]}
+a woman on the top of a airplane::::{'woman-0': [25, 25, 150, 200], 'airplane-0': [50, 150, 200, 250]}
+a rabbit on side of a suitcase::::{'rabbit': [20, 20, 100, 150], 'suitcase': [110, 20, 230, 160]}
+a phone on the bottom of a fish::::{'phone-0': [75, 175, 180, 245], 'fish-0': [85, 20, 160, 150]}
+a man on the top of a turtle::::{'man-0': [40, 10, 150, 130], 'turtle-0': [60, 140, 190, 250]}
+a wallet on the bottom of a bird::::{'wallet-0': [30, 180, 100, 220], 'bird-0': [90, 30, 150, 100]}
+a woman next to a turtle::::{'woman-0': [30, 30, 130, 200], 'turtle-0': [150, 50, 220, 120]}
+a vase on the bottom of a person::::{'person-0': [10, 10, 150, 250], 'vase-0': [50, 230, 100, 256]}
+a butterfly on the right of a wallet::::{'butterfly-0': [150, 50, 220, 120], 'wallet-0': [20, 80, 100, 160]}
+a woman on the top of a desk::::{'woman-0': [50, 10, 200, 150], 'desk-0': [10, 160, 246, 250]}
+a airplane on the right of a mouse::::{'airplane-0': [150, 50, 230, 180], 'mouse-0': [30, 30, 100, 100]}
+a boy on the left of a computer::::{'boy': [10, 50, 100, 200], 'computer': [120, 30, 220, 180]}
+a chicken on side of a cup::::{'chicken-0': [0, 50, 100, 200], 'cup-0': [220, 75, 256, 150]}
+a horse near a wallet::::{'horse-0': [5, 5, 200, 240], 'wallet-0': [220, 10, 250, 50]}
+a cow on the top of a painting::::{'cow-0': [50, 10, 200, 130], 'painting-0': [60, 140, 200, 220]}
+a girl on the left of a pig::::{'girl': [10, 20, 100, 200], 'pig': [120, 30, 200, 180]}
+a fish near a car::::{'fish': [50, 50, 100, 100], 'car': [120, 80, 200, 150]}
+a bee on side of a airplane::::{'bee-0': [25, 30, 103, 208], 'airplane-0': [111, 29, 230, 113]}
+a boy near a airplane::::{'boy-0': [50, 50, 150, 200], 'airplane-0': [170, 50, 250, 150]}
+a woman on the bottom of a frog::::{'woman': [50, 180, 150, 250], 'frog': [80, 20, 200, 100]}
+a woman on the top of a microwave::::{'woman-0': [50, 20, 200, 180], 'microwave-0': [100, 190, 230, 250]}
+a giraffe next to a television::::{'giraffe-0': [30, 70, 150, 220], 'television-0': [160, 30, 230, 110]}
+a bee on the left of a key::::{'bee-0': [30, 30, 90, 90], 'key-0': [100, 30, 200, 150]}
+a cat on the top of a microwave::::{'cat-0': [50, 30, 160, 100], 'microwave-0': [70, 130, 190, 230]}
+a giraffe on the bottom of a bicycle::::{'giraffe-0': [25, 160, 150, 250], 'bicycle-0': [50, 30, 200, 140]}
+a balloon on the bottom of a dog::::{'balloon-0': [50, 180, 120, 230], 'dog-0': [20, 30, 100, 200]}
+a bee on the left of a clock::::{'bee-0': [25, 30, 103, 208], 'clock-0': [111, 29, 230, 113]}
+a bird next to a refrigerator::::{'bird-0': [0, 70, 100, 180], 'refrigerator-0': [150, 40, 250, 200]}
+a suitcase on the bottom of a turtle::::{'suitcase-0': [50, 180, 150, 250], 'turtle-0': [80, 30, 200, 160]}
+a frog on the top of a cup::::{'frog-0': [100, 10, 170, 80], 'cup-0': [80, 90, 180, 190]}
+a cat on the right of a table::::{'cat-0': [140, 30, 220, 200], 'table-0': [10, 10, 110, 150]}
+a computer on the bottom of a boy::::{'boy': [20, 20, 150, 200], 'computer': [50, 210, 180, 250]}
+a mouse on the top of a bowl::::{'mouse-0': [50, 50, 100, 100], 'bowl-0': [80, 150, 180, 250]}
+a sheep on the left of a clock::::{'sheep-0': [5, 25, 120, 200], 'clock-0': [140, 50, 220, 150]}
+a woman on the right of a bowl::::{'woman-0': [130, 30, 230, 220], 'bowl-0': [20, 20, 120, 120]}
+a wallet on the top of a man::::{'wallet-0': [50, 10, 90, 50], 'man-0': [30, 60, 120, 200]}
+a butterfly on the right of a couch::::{'butterfly-0': [160, 60, 210, 110], 'couch-0': [20, 30, 140, 180]}
+a key on the bottom of a horse::::{'key-0': [50, 180, 90, 220], 'horse-0': [30, 30, 200, 200]}
+a turtle on the bottom of a chair::::{'turtle-0': [50, 180, 150, 230], 'chair-0': [80, 30, 200, 150]}
+a turtle on the bottom of a microwave::::{'turtle-0': [25, 180, 90, 240], 'microwave-0': [100, 30, 200, 150]}
+a boy on the right of a chicken::::{'boy-0': [130, 30, 230, 220], 'chicken-0': [30, 30, 120, 150]}
+a bicycle on the left of a man::::{'bicycle-0': [25, 30, 108, 206], 'man-0': [120, 30, 210, 200]}
+a woman next to a airplane::::{'woman': [20, 20, 100, 200], 'airplane': [110, 30, 240, 180]}
+a man on side of a candle::::{'man-0': [25, 30, 120, 220], 'candle-0': [140, 30, 230, 200]}
+a woman on the left of a horse::::{'woman-0': [10, 20, 100, 220], 'horse-0': [120, 30, 250, 220]}
+a giraffe on the bottom of a bag::::{'giraffe-0': [50, 150, 180, 250], 'bag-0': [20, 20, 120, 120]}
+a person on side of a lamp::::{'person-0': [30, 30, 170, 226], 'lamp-0': [180, 80, 250, 200]}
+a plate on the bottom of a man::::{'plate-0': [50, 180, 150, 230], 'man-0': [80, 30, 200, 250]}
+a cow next to a airplane::::{'cow-0': [20, 20, 100, 180], 'airplane-0': [120, 50, 240, 150]}
+a mouse on the left of a train::::{'mouse-0': [20, 20, 70, 70], 'train-0': [100, 20, 230, 160]}
+a cat on the right of a sofa::::{'cat-0': [150, 80, 220, 200], 'sofa-0': [20, 30, 130, 200]}
+a train on the bottom of a horse::::{'train-0': [50, 180, 200, 250], 'horse-0': [80, 30, 180, 150]}
+a girl on the top of a cow::::{'girl-0': [50, 10, 200, 180], 'cow-0': [25, 190, 230, 250]}
+a mouse on the left of a airplane::::{'mouse-0': [20, 20, 80, 120], 'airplane-0': [100, 40, 220, 180]}
+a giraffe on the left of a car::::{'giraffe': [10, 20, 100, 200], 'car': [110, 50, 230, 180]}
+a person on the top of a painting::::{'person-0': [30, 30, 100, 200], 'painting-0': [80, 10, 200, 160]}
+a cat on the top of a candle::::{'cat-0': [50, 30, 160, 130], 'candle-0': [80, 140, 180, 230]}
+a bee on side of a table::::{'bee': [10, 80, 60, 120], 'table': [100, 30, 220, 200]}
+a butterfly on side of a desk::::{'butterfly-0': [10, 100, 80, 180], 'desk-0': [150, 50, 240, 150]}
+a bird on side of a key::::{'bird-0': [20, 40, 95, 100], 'key-0': [120, 30, 200, 180]}
+a suitcase on the left of a girl::::{'suitcase': [10, 80, 80, 200], 'girl': [100, 50, 220, 220]}
+a horse on the top of a man::::{'horse-0': [25, 30, 103, 208], 'man-0': [111, 29, 230, 113]}
+a dog on side of a computer::::{'dog-0': [20, 20, 100, 150], 'computer-0': [110, 20, 220, 150]}
+a horse on the bottom of a wallet::::{'horse-0': [50, 180, 200, 250], 'wallet-0': [25, 25, 150, 150]}
+a fish next to a desk::::{'fish-0': [20, 20, 70, 100], 'desk-0': [100, 50, 220, 200]}
+a cat on the left of a lamp::::{'cat-0': [15, 20, 90, 190], 'lamp-0': [110, 50, 220, 200]}
+a fish on the left of a table::::{'fish-0': [20, 80, 100, 150], 'table-0': [120, 30, 220, 180]}
+a mouse on side of a phone::::{'mouse-0': [20, 20, 70, 100], 'phone-0': [100, 20, 200, 200]}
+a frog on the left of a table::::{'frog-0': [25, 30, 103, 208], 'table-0': [111, 29, 230, 113]}
+a pig on the right of a vase::::{'pig': [150, 50, 230, 200], 'vase': [20, 80, 100, 180]}
+a dog on the bottom of a train::::{'dog-0': [40, 190, 200, 250], 'train-0': [20, 20, 235, 150]}
+a rabbit on the top of a candle::::{'rabbit-0': [50, 30, 150, 120], 'candle-0': [80, 140, 120, 220]}
+a frog on the left of a phone::::{'frog-0': [20, 20, 100, 150], 'phone-0': [110, 50, 200, 200]}
+a mouse on the bottom of a backpack::::{'mouse-0': [50, 180, 100, 230], 'backpack-0': [20, 20, 150, 200]}
+a desk on the top of a cat::::{'desk-0': [20, 20, 150, 50], 'cat-0': [70, 60, 130, 120]}
+a cow near a plate::::{'cow-0': [30, 40, 120, 180], 'plate-0': [140, 50, 200, 110]}
+a vase on the right of a man::::{'vase-0': [150, 50, 200, 180], 'man-0': [30, 30, 120, 220]}
+a couch on the left of a dog::::{'couch-0': [10, 20, 150, 180], 'dog-0': [170, 50, 250, 170]}
+a chicken on the top of a plate::::{'chicken-0': [50, 30, 150, 130], 'plate-0': [80, 140, 200, 180]}
+a frog on the right of a couch::::{'frog-0': [140, 40, 220, 180], 'couch-0': [20, 20, 120, 200]}
+a sheep on the bottom of a painting::::{'sheep-0': [50, 180, 200, 250], 'painting-0': [20, 20, 236, 176]}
+a boy on the right of a pig::::{'boy': [150, 30, 230, 200], 'pig': [20, 30, 100, 200]}
+a pig on the left of a desk::::{'pig-0': [20, 50, 120, 200], 'desk-0': [130, 60, 250, 180]}
+a woman on side of a frog::::{'woman-0': [10, 10, 100, 200], 'frog-0': [120, 30, 200, 120]}
+a girl near a book::::{'girl': [30, 30, 120, 200], 'book': [140, 50, 200, 180]}
+a boy next to a couch::::{'boy-0': [20, 20, 100, 220], 'couch-0': [120, 20, 240, 220]}
+a giraffe on the left of a train::::{'giraffe-0': [10, 10, 100, 200], 'train-0': [110, 10, 250, 200]}
+a book on the top of a woman::::{'book-0': [50, 10, 150, 80], 'woman-0': [50, 90, 200, 250]}
+a car on the right of a man::::{'man-0': [25, 30, 103, 208], 'car-0': [150, 30, 230, 150]}
+a sheep on the top of a table::::{'sheep-0': [60, 10, 180, 100], 'table-0': [40, 110, 200, 220]}
+a giraffe on the right of a bowl::::{'giraffe-0': [130, 30, 230, 220], 'bowl-0': [10, 10, 80, 80]}
+a cow on the top of a boy::::{'cow-0': [50, 10, 150, 100], 'boy-0': [80, 120, 180, 240]}
+a mouse on side of a bag::::{'mouse-0': [20, 20, 70, 120], 'bag-0': [100, 20, 200, 150]}
+a pig on side of a phone::::{'pig': [20, 20, 100, 150], 'phone': [120, 30, 200, 150]}
+a book on the left of a bird::::{'book-0': [25, 30, 103, 208], 'bird-0': [111, 29, 230, 113]}
+a man on the bottom of a sofa::::{'man-0': [25, 180, 100, 250], 'sofa-0': [50, 10, 200, 170]}
+a painting on the right of a pig::::{'pig-0': [20, 30, 80, 180], 'painting-0': [120, 30, 230, 220]}
+a pig on the bottom of a wallet::::{'pig-0': [50, 180, 150, 250], 'wallet-0': [70, 30, 200, 150]}

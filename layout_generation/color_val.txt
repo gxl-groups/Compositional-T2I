@@ -1,0 +1,301 @@
+a green bench and a blue bowl::::{'green bench-0': [25, 25, 150, 150], 'blue bowl-0': [100, 100, 200, 200]}
+a blue bench and a green bowl::::{'blue bench-0': [30, 30, 150, 100], 'green bowl-0': [180, 150, 230, 200]}
+a green bench and a blue cake::::{'green bench-0': [25, 30, 150, 60], 'blue cake-0': [100, 100, 200, 200]}
+a blue bench and a green cake::::{'blue bench-0': [20, 20, 120, 150], 'green cake-0': [130, 50, 230, 180]}
+a brown horse and a blue vase::::{'brown horse-0': [25, 30, 150, 200], 'blue vase-0': [180, 30, 230, 100]}
+a blue horse and a brown vase::::{'blue horse-0': [20, 20, 120, 200], 'brown vase-0': [140, 40, 220, 180]}
+a blue backpack and a brown cow::::{'blue backpack-0': [20, 20, 100, 150], 'brown cow-0': [120, 50, 230, 200]}
+a brown backpack and a blue cow::::{'brown backpack-0': [30, 30, 100, 150], 'blue cow-0': [130, 50, 240, 200]}
+a blue backpack and a red book::::{'blue backpack-0': [30, 30, 100, 150], 'red book-0': [130, 30, 220, 180]}
+a red backpack and a blue book::::{'red backpack-0': [30, 30, 100, 180], 'blue book-0': [130, 40, 220, 200]}
+a brown bear and a red book::::{'brown bear-0': [30, 30, 120, 200], 'red book-0': [140, 40, 220, 180]}
+a red bear and a brown book::::{'red bear-0': [30, 30, 120, 200], 'brown book-0': [140, 40, 230, 210]}
+a red orange and a brown sheep::::{"red orange-0": (45, 45, 120, 120), "brown sheep-0": (140, 30, 220, 220)}
+a brown orange and a red sheep::::{"brown orange-0": (50, 50, 206, 206), "red sheep-0": (100, 100, 230, 230)}
+a green banana and a brown dog::::{'green banana-0': [30, 30, 80, 200], 'brown dog-0': [100, 50, 230, 220]}
+a brown banana and a green dog::::{'brown banana-0': [30, 30, 90, 150], 'green dog-0': [150, 30, 220, 200]}
+a green banana and a brown horse::::{'green banana-0': [20, 30, 70, 150], 'brown horse-0': [100, 40, 220, 220]}
+a brown banana and a green horse::::{'brown banana-0': [25, 30, 85, 150], 'green horse-0': [100, 30, 230, 220]}
+a blue cake and a red suitcase::::{'blue cake-0': [30, 30, 130, 200], 'red suitcase-0': [140, 40, 240, 210]}
+a red cake and a blue suitcase::::{'red cake-0': [25, 25, 120, 180], 'blue suitcase-0': [136, 30, 240, 200]}
+a brown elephant and a red suitcase::::{'brown elephant-0': [50, 50, 150, 200], 'red suitcase-0': [170, 50, 250, 150]}
+a red elephant and a brown suitcase::::{'red elephant-0': [20, 30, 120, 200], 'brown suitcase-0': [140, 40, 240, 180]}
+a green apple and a brown horse::::{'green apple-0': [25, 30, 80, 130], 'brown horse-0': [100, 30, 220, 200]}
+a brown apple and a green horse::::{'brown apple-0': [50, 50, 100, 100], 'green horse-0': [150, 150, 200, 200]}
+a green banana and a blue vase::::{'green banana-0': [20, 30, 60, 150], 'blue vase-0': [180, 40, 240, 180]}
+a blue banana and a green vase::::{'blue banana-0': [30, 30, 80, 150], 'green vase-0': [150, 30, 220, 200]}
+a blue backpack and a brown bear::::{'blue backpack-0': [20, 20, 100, 150], 'brown bear-0': [130, 30, 230, 200]}
+a brown backpack and a blue bear::::{'brown backpack-0': [30, 30, 110, 180], 'blue bear-0': [140, 40, 220, 200]}
+a green apple and a blue vase::::{'green apple-0': [30, 30, 80, 80], 'blue vase-0': [150, 150, 200, 250]}
+a blue apple and a green vase::::{'blue apple-0': [25, 30, 90, 90], 'green vase-0': [140, 140, 200, 220]}
+a green banana and a red suitcase::::{'green banana-0': [30, 30, 70, 150], 'red suitcase-0': [100, 80, 200, 200]}
+a red banana and a green suitcase::::{'red banana-0': [30, 30, 80, 150], 'green suitcase-0': [120, 50, 200, 180]}
+a blue bowl and a brown elephant::::{'blue bowl-0': [20, 20, 100, 100], 'brown elephant-0': [120, 30, 220, 180]}
+a brown bowl and a blue elephant::::{'brown bowl-0': [40, 40, 120, 120], 'blue elephant-0': [140, 140, 220, 220]}
+a blue backpack and a red orange::::{'blue backpack-0': [30, 30, 120, 200], 'red orange-0': [140, 40, 220, 160]}
+a red backpack and a blue orange::::{'red backpack-0': [30, 30, 100, 180], 'blue orange-0': [130, 50, 200, 150]}
+a blue backpack and a red chair::::{'blue backpack-0': [20, 20, 100, 150], 'red chair-0': [130, 30, 230, 180]}
+a red backpack and a blue chair::::{'red backpack-0': [20, 20, 100, 150], 'blue chair-0': [120, 20, 220, 150]}
+a blue cup and a brown horse::::{'blue cup-0': [30, 30, 100, 100], 'brown horse-0': [130, 130, 220, 220]}
+a brown cup and a blue horse::::{'brown cup-0': [20, 20, 100, 100], 'blue horse-0': [130, 130, 220, 220]}
+a brown sheep and a blue vase::::{'brown sheep-0': (50, 50, 150, 150),'blue vase-0': (170, 50, 230, 150)}
+a blue sheep and a brown vase::::{'blue sheep-0': [25, 30, 103, 208], 'brown vase-0': [150, 50, 200, 150]}
+a brown cat and a gold clock::::{'brown cat-0': [30, 30, 110, 200], 'gold clock-0': [120, 40, 200, 120]}
+a gold cat and a brown clock::::{'gold cat-0': [30, 30, 120, 200], 'brown clock-0': [140, 30, 240, 200]}
+a blue backpack and a green banana::::{'blue backpack-0': [20, 20, 120, 200], 'green banana-0': [140, 40, 180, 160]}
+a green backpack and a blue banana::::{'green backpack-0': [30, 30, 120, 180], 'blue banana-0': [140, 60, 200, 150]}
+a brown horse and a red orange::::{'brown horse-0': (50, 50, 150, 150),'red orange-0': (170, 50, 230, 150)}
+a red horse and a brown orange::::{'red horse-0': [20, 30, 120, 200], 'brown orange-0': [130, 40, 240, 180]}
+a red chair and a brown elephant::::{'red chair-0': [30, 30, 120, 180], 'brown elephant-0': [140, 30, 250, 220]}
+a brown chair and a red elephant::::{'brown chair-0': [20, 20, 100, 120], 'red elephant-0': [120, 130, 220, 230]}
+a green apple and a blue backpack::::{'green apple-0': [20, 20, 80, 80], 'blue backpack-0': [100, 100, 200, 200]}
+a blue apple and a green backpack::::{'blue apple-0': [30, 30, 80, 80], 'green backpack-0': [150, 150, 200, 200]}
+a blue backpack and a gold clock::::{'blue backpack-0': [30, 30, 120, 180], 'gold clock-0': [140, 50, 220, 160]}
+a gold backpack and a blue clock::::{'gold backpack-0': [20, 20, 100, 180], 'blue clock-0': [120, 40, 200, 200]}
+a brown dog and a red orange::::{'brown dog-0': (50, 50, 150, 150),'red orange-0': (170, 50, 230, 150)}
+a red dog and a brown orange::::{'red dog-0': (50, 50, 150, 150),'brown orange-0': (170, 50, 230, 150)}
+a blue backpack and a brown sheep::::{'blue backpack-0': [30, 30, 120, 200], 'brown sheep-0': [140, 40, 220, 180]}
+a brown backpack and a blue sheep::::{'brown backpack-0': [30, 30, 100, 150], 'blue sheep-0': [130, 40, 220, 180]}
+a blue backpack and a brown giraffe::::{'blue backpack-0': [30, 30, 110, 180], 'brown giraffe-0': [130, 30, 250, 220]}
+a brown backpack and a blue giraffe::::{'brown backpack-0': [30, 30, 130, 200], 'blue giraffe-0': [140, 40, 240, 210]}
+a red book and a blue cake::::{'red book-0': [25, 25, 120, 200], 'blue cake-0': [136, 25, 250, 200]}
+a blue book and a red cake::::{'blue book-0': [25, 25, 100, 200], 'red cake-0': [130, 30, 220, 200]}
+a red suitcase and a blue vase::::{'red suitcase-0': [30, 30, 120, 180], 'blue vase-0': [140, 40, 220, 200]}
+a blue suitcase and a red vase::::{'blue suitcase-0': [30, 30, 120, 180], 'red vase-0': [140, 40, 220, 160]}
+a blue cup and a brown sheep::::{'blue cup-0': [25, 30, 100, 130], 'brown sheep-0': [130, 30, 220, 180]}
+a brown cup and a blue sheep::::{'brown cup-0': [25, 25, 100, 100], 'blue sheep-0': [125, 125, 200, 200]}
+a brown bear and a red train::::{'brown bear-0': [30, 30, 120, 180], 'red train-0': [140, 50, 240, 160]}
+a blue cup and a red orange::::{'blue cup-0': [30, 30, 100, 120], 'red orange-0': [150, 40, 220, 110]}
+a red cup and a blue orange::::{'red cup-0': [30, 30, 100, 150], 'blue orange-0': [130, 30, 200, 150]}
+a green apple and a red suitcase::::{'green apple-0': [30, 30, 100, 100], 'red suitcase-0': [130, 130, 200, 200]}
+a red apple and a green suitcase::::{'red apple-0': [25, 30, 80, 80], 'green suitcase-0': [100, 100, 180, 200]}
+a blue bowl and a red train::::{'blue bowl-0': [30, 30, 120, 120], 'red train-0': [140, 140, 220, 220]}
+a red bowl and a blue train::::{'red bowl-0': [30, 30, 100, 100], 'blue train-0': [120, 120, 200, 200]}
+a green bench and a red orange::::{'green bench-0': [20, 20, 120, 150], 'red orange-0': [140, 20, 240, 150]}
+a red bench and a green orange::::{'red bench-0': [30, 30, 150, 60], 'green orange-0': [170, 70, 220, 120]}
+a brown cat and a red orange::::{'brown cat-0': (50, 50, 150, 150),'red orange-0': (170, 50, 230, 150)}
+a red cat and a brown orange::::{'red cat-0': (50, 50, 150, 150),'brown orange-0': (170, 50, 230, 150)}
+a green apple and a red train::::{'green apple-0': [30, 30, 100, 100], 'red train-0': [130, 130, 200, 200]}
+a red apple and a green train::::{'red apple-0': [30, 30, 100, 100], 'green train-0': [130, 130, 230, 200]}
+a brown giraffe and a red train::::{'brown giraffe-0': [20, 20, 120, 220], 'red train-0': [136, 40, 236, 180]}
+a red giraffe and a brown train::::{'red giraffe-0': [25, 25, 150, 200], 'brown train-0': [106, 30, 220, 150]}
+a blue boat and a red suitcase::::{'blue boat-0': [20, 20, 120, 150], 'red suitcase-0': [130, 30, 230, 130]}
+a red boat and a blue suitcase::::{'red boat-0': [30, 30, 120, 150], 'blue suitcase-0': [130, 40, 220, 120]}
+a blue bowl and a brown horse::::{'blue bowl-0': [20, 20, 100, 100], 'brown horse-0': [130, 30, 250, 200]}
+a brown bowl and a blue horse::::{'brown bowl-0': [30, 30, 100, 100], 'blue horse-0': [130, 130, 200, 230]}
+a blue backpack and a red train::::{'blue backpack-0': [30, 30, 120, 200], 'red train-0': [140, 40, 240, 180]}
+a red backpack and a blue train::::{'red backpack-0': [30, 30, 120, 200], 'blue train-0': [140, 40, 250, 180]}
+a gold clock and a red orange::::{'gold clock-0': [25, 30, 103, 208], 'red orange-0': [120, 140, 180, 200]}
+a red clock and a gold orange::::{'red clock-0': [25, 30, 120, 120], 'gold orange-0': [130, 30, 230, 160]}
+a brown bear and a blue vase::::{'brown bear-0': [30, 30, 120, 200], 'blue vase-0': [140, 40, 200, 160]}
+a blue bear and a brown vase::::{'blue bear-0': [20, 20, 120, 150], 'brown vase-0': [140, 30, 220, 180]}
+a green apple and a brown elephant::::{'green apple-0': [30, 30, 80, 80], 'brown elephant-0': [120, 120, 220, 220]}
+a brown apple and a green elephant::::{'brown apple-0': (50, 50, 150, 150),'green elephant-0': (170, 50, 230, 150)}
+a green banana and a brown bear::::{'green banana-0': [30, 30, 70, 150], 'brown bear-0': [100, 50, 220, 200]}
+a brown banana and a green bear::::{'brown banana-0': [30, 30, 80, 150], 'green bear-0': [150, 30, 220, 150]}
+a blue boat and a brown cat::::{'blue boat-0': [20, 20, 120, 150], 'brown cat-0': [130, 30, 230, 160]}
+a brown boat and a blue cat::::{'brown boat-0': [30, 30, 120, 150], 'blue cat-0': [150, 80, 230, 200]}
+a green banana and a blue boat::::{'green banana-0': [25, 30, 80, 180], 'blue boat-0': [100, 30, 220, 150]}
+a blue banana and a green boat::::{'blue banana-0': [30, 30, 100, 200], 'green boat-0': [130, 30, 230, 180]}
+a red car and a blue cup::::{'red car-0': [20, 30, 120, 80], 'blue cup-0': [140, 120, 200, 180]}
+a blue car and a red cup::::{'blue car-0': [30, 30, 130, 100], 'red cup-0': [140, 140, 200, 200]}
+a blue backpack and a red car::::{'blue backpack-0': [30, 30, 120, 200], 'red car-0': [130, 50, 240, 180]}
+a red backpack and a blue car::::{'red backpack-0': [30, 30, 100, 150], 'blue car-0': [130, 30, 230, 120]}
+a brown cow and a blue cup::::{'brown cow-0': [30, 30, 150, 200], 'blue cup-0': [170, 30, 230, 100]}
+a blue cow and a brown cup::::{'blue cow-0': [30, 30, 120, 200], 'brown cup-0': [140, 50, 200, 120]}
+a red train and a blue vase::::{'red train-0': [30, 30, 120, 120], 'blue vase-0': [140, 140, 200, 220]}
+a blue train and a red vase::::{'blue train-0': [25, 30, 103, 208], 'red vase-0': [150, 30, 200, 150]}
+a brown giraffe and a red orange::::{'brown giraffe-0': (50, 50, 150, 150),'red orange-0': (170, 50, 230, 150)}
+a red giraffe and a brown orange::::{'red giraffe-0': (50, 50, 150, 150),'brown orange-0': (170, 50, 230, 150)}
+a green banana and a brown cow::::{'green banana-0': [30, 30, 70, 150], 'brown cow-0': [120, 40, 220, 200]}
+a brown banana and a green cow::::{'brown banana-0': [30, 30, 70, 200], 'green cow-0': [100, 50, 200, 150]}
+a brown giraffe and a blue vase::::{'brown giraffe-0': [25, 25, 125, 225], 'blue vase-0': [140, 30, 200, 150]}
+a blue giraffe and a brown vase::::{'blue giraffe-0': [25, 30, 120, 220], 'brown vase-0': [140, 40, 200, 180]}
+a brown cow and a red suitcase::::{'brown cow-0': [30, 30, 150, 200], 'red suitcase-0': [180, 40, 240, 120]}
+a red cow and a brown suitcase::::{'red cow-0': [30, 30, 130, 200], 'brown suitcase-0': [150, 50, 220, 150]}
+a green apple and a blue cup::::{'green apple-0': [30, 30, 110, 150], 'blue cup-0': [130, 30, 210, 150]}
+a blue apple and a green cup::::{'blue apple-0': [30, 30, 100, 100], 'green cup-0': [130, 130, 200, 200]}
+a red book and a brown sheep::::{'red book-0': [25, 25, 100, 200], 'brown sheep-0': [150, 50, 250, 200]}
+a brown book and a red sheep::::{'brown book-0': [30, 30, 120, 200], 'red sheep-0': [140, 40, 220, 180]}
+a green banana and a brown giraffe::::{'green banana-0': [30, 30, 80, 180], 'brown giraffe-0': [120, 50, 220, 220]}
+a brown banana and a green giraffe::::{'brown banana-0': [30, 30, 80, 150], 'green giraffe-0': [150, 30, 250, 200]}
+a blue boat and a red book::::{'blue boat-0': [20, 20, 120, 150], 'red book-0': [140, 20, 240, 150]}
+a red boat and a blue book::::{'red boat-0': [25, 30, 125, 180], 'blue book-0': [131, 30, 231, 180]}
+a blue cup and a brown elephant::::{'blue cup-0': [25, 30, 100, 120], 'brown elephant-0': [130, 30, 230, 200]}
+a brown cup and a blue elephant::::{'brown cup-0': [50, 50, 120, 120], 'blue elephant-0': [140, 140, 220, 220]}
+a red chair and a brown sheep::::{'red chair-0': [30, 30, 100, 150], 'brown sheep-0': [130, 50, 220, 180]}
+a brown chair and a red sheep::::{'brown chair-0': [30, 30, 120, 150], 'red sheep-0': [140, 40, 220, 180]}
+a brown bear and a blue boat::::{'brown bear-0': [20, 20, 100, 150], 'blue boat-0': [130, 30, 230, 120]}
+a blue bear and a brown boat::::{'blue bear-0': [30, 30, 120, 180], 'brown boat-0': [140, 30, 240, 180]}
+a red car and a white sheep::::{'red car-0': [30, 30, 120, 100], 'white sheep-0': [140, 140, 220, 220]}
+a blue bird and a brown bear::::{'blue bird-0': [30, 30, 100, 100], 'brown bear-0': [130, 130, 200, 200]}
+a green apple and a black backpack::::{'green apple-0': [30, 30, 80, 80], 'black backpack-0': [150, 150, 200, 200]}
+a green cup and a blue cell phone::::{'green cup-0': [25, 25, 100, 130], 'blue cell phone-0': [130, 25, 220, 180]}
+a yellow book and a red vase::::{'yellow book-0': [30, 30, 100, 180], 'red vase-0': [130, 40, 200, 180]}
+a white car and a red sheep::::{'white car-0': [30, 30, 120, 100], 'red sheep-0': [140, 140, 200, 230]}
+a brown bird and a blue bear::::{'brown bird-0': [30, 30, 100, 150], 'blue bear-0': [130, 80, 220, 200]}
+a black apple and a green backpack::::{'black apple-0': [50, 50, 100, 100], 'green backpack-0': [150, 150, 200, 200]}
+a blue cup and a green cell phone::::{'blue cup-0': [20, 20, 100, 150], 'green cell phone-0': [120, 20, 220, 180]}
+a red book and a yellow vase::::{'red book-0': [25, 30, 103, 208], 'yellow vase-0': [150, 50, 200, 180]}
+a red apple and yellow bananas::::{'red apple-0': [30, 30, 90, 90], 'yellow bananas-0': [100, 30, 160, 90], 'yellow bananas-1': [170, 30, 230, 90]}
+a yellow apple and red bananas::::{'yellow apple-0': [30, 30, 90, 90], 'red bananas-0': [110, 30, 190, 90], 'red bananas-1': [110, 110, 190, 170]}
+a black hat and a red scarf::::{'black hat-0': [50, 50, 120, 120], 'red scarf-0': [140, 140, 200, 200]}
+a red hat and a black scarf::::{'red hat-0': [30, 30, 90, 90], 'black scarf-0': [120, 120, 180, 180]}
+a silver spoon and a blue plate::::{'silver spoon-0': [30, 30, 80, 180], 'blue plate-0': [100, 50, 200, 150]}
+a yellow bus and a green tree::::{'yellow bus-0': [20, 20, 150, 100], 'green tree-0': [180, 50, 250, 200]}
+a green bus and a yellow tree::::{'green bus-0': [20, 20, 120, 100], 'yellow tree-0': [140, 30, 240, 180]}
+a red apple and a purple grape::::{'red apple-0': [30, 30, 100, 100], 'purple grape-0': [130, 130, 190, 190]}
+a purple apple and a red grape::::{'purple apple-0': [50, 50, 100, 150], 'red grape-0': [120, 50, 170, 100]}
+a white dove and a black feather::::{'white dove-0': [30, 30, 120, 180], 'black feather-0': [140, 60, 200, 120]}
+a black dove and a white feather::::{'black dove-0': [30, 30, 100, 150], 'white feather-0': [120, 80, 180, 120]}
+a brown acorn and a green leaf::::{'brown acorn-0': [50, 50, 100, 100], 'green leaf-0': [150, 150, 200, 200]}
+a green acorn and a brown leaf::::{'green acorn-0': [50, 50, 100, 100], 'brown leaf-0': [120, 120, 180, 180]}
+a red stop sign and a white line::::{'red stop sign-0': [50, 50, 150, 150], 'white line-0': [100, 180, 200, 185]}
+a stop sign and red white line::::{'stop sign-0': [25, 30, 120, 200], 'red white line-0': [140, 30, 240, 35]}
+a black cat and a brown mouse::::{'black cat-0': [25, 30, 103, 208], 'brown mouse-0': [120, 140, 180, 200]}
+a brown cat and a black mouse::::{'brown cat-0': [30, 30, 100, 150], 'black mouse-0': [120, 100, 180, 160]}
+a blue pen and a yellow highlighter::::{'blue pen-0': [30, 30, 100, 200], 'yellow highlighter-0': [130, 30, 220, 200]}
+a yellow pen and a blue highlighter::::{'yellow pen-0': [30, 30, 80, 180], 'blue highlighter-0': [100, 30, 150, 180]}
+a black moon and a white sky::::{'black moon-0': [50, 50, 150, 150], 'white sky-0': [0, 0, 256, 256]}
+a yellow pencil and a blue notebook::::{'yellow pencil-0': [30, 30, 70, 200], 'blue notebook-0': [100, 40, 200, 220]}
+a green leaf and a yellow flower::::{'green leaf-0': [20, 30, 80, 150], 'yellow flower-0': [100, 40, 200, 180]}
+a yellow leaf and a green flower::::{'yellow leaf-0': [30, 30, 100, 150], 'green flower-0': [130, 50, 200, 180]}
+a black cat and a white paw::::{'black cat-0': [30, 30, 120, 200], 'white paw-0': [140, 40, 220, 160]}
+a white cat and a black paw::::{'white cat-0': [30, 30, 110, 200], 'black paw-0': [130, 40, 190, 100]}
+a yellow duck and a blue pond::::{'yellow duck-0': [20, 20, 100, 150], 'blue pond-0': [120, 100, 220, 200]}
+a green frog and a brown pond::::{'green frog-0': [30, 30, 100, 100], 'brown pond-0': [130, 130, 230, 230]}
+a brown frog and a green pond::::{'brown frog-0': [60, 80, 120, 150], 'green pond-0': [10, 160, 200, 250]}
+a yellow sun and a red sunset::::{'yellow sun-0': [30, 30, 100, 100], 'red sunset-0': [120, 120, 200, 200]}
+a red sun and a yellow sunset::::{'red sun-0': (50, 50, 150, 150),'yellow sunset-0': (170, 50, 230, 150)}
+a blue pen and a black ink::::{'blue pen-0': [25, 30, 80, 200], 'black ink-0': [100, 30, 180, 200]}
+a black pen and a blue ink::::{'black pen-0': [30, 30, 100, 200], 'blue ink-0': [130, 30, 200, 200]}
+a green grass and a yellow dandelion::::{'green grass-0': [10, 180, 246, 256], 'yellow dandelion-0': [100, 50, 150, 100]}
+a yellow grass and a green dandelion::::{'yellow grass-0': [20, 20, 150, 200], 'green dandelion-0': [180, 50, 220, 90]}
+a black cat and a gray mouse::::{'black cat-0': [25, 30, 103, 208], 'gray mouse-0': [150, 40, 200, 90]}
+a gray cat and a black mouse::::{'gray cat-0': [25, 30, 103, 208], 'black mouse-0': [120, 140, 180, 200]}
+a red apple and a yellow pear::::{'red apple-0': [30, 30, 110, 110], 'yellow pear-0': [140, 140, 220, 220]}
+a yellow apple and a red pear::::{'yellow apple-0': [30, 30, 100, 100], 'red pear-0': [130, 130, 200, 200]}
+a white snow and a blue sled::::{'white snow-0': (50, 50, 150, 150),'blue sled-0': (170, 50, 230, 150}
+a blue snow and a white sled::::{'blue snow-0': (50, 50, 150, 150),'white sled-0': (170, 50, 230, 150)}
+a green frog and a yellow fly::::{'green frog-0': [30, 30, 100, 150], 'yellow fly-0': [130, 130, 180, 180]}
+a yellow frog and a green fly::::{'yellow frog-0': [20, 20, 100, 150], 'green fly-0': [120, 50, 160, 90]}
+a yellow pencil and a red eraser::::{'yellow pencil-0': [30, 30, 100, 200], 'red eraser-0': [130, 40, 200, 160]}
+a red pencil and a yellow eraser::::{'red pencil-0': [30, 30, 90, 200], 'yellow eraser-0': [120, 40, 180, 190]}
+a black cat and a white whisker::::{'black cat-0': (50, 50, 150, 150),'white whisker-0': (170, 50, 230, 150)}
+a white cat and a black whisker::::{'white cat-0': [20, 20, 100, 200], 'black whisker-0': [120, 30, 200, 210]}
+a brown tree and a green grass::::{'brown tree-0': [30, 30, 120, 220], 'green grass-0': [130, 150, 256, 256]}
+a green tree and a brown grass::::{'green tree-0': [20, 20, 120, 200], 'brown grass-0': [140, 40, 250, 220]}
+a red rose and a white carnation::::{'red rose-0': [30, 30, 100, 160], 'white carnation-0': [130, 50, 200, 180]}
+a white rose and a red carnation::::{'white rose-0': [30, 30, 100, 150], 'red carnation-0': [130, 50, 200, 180]}
+a white cloud and a black sky::::{'white cloud-0': [20, 20, 120, 80], 'black sky-0': [0, 0, 256, 256]}
+a black cloud and a white sky::::{'black cloud-0': [50, 50, 150, 120], 'white sky-0': [0, 0, 256, 256]}
+a green leaf and a yellow butterfly::::{'green leaf-0': [30, 40, 90, 120], 'yellow butterfly-0': [150, 150, 200, 200]}
+a yellow leaf and a green butterfly::::{'yellow leaf-0': [50, 50, 100, 150], 'green butterfly-0': [150, 100, 200, 200]}
+a red tomato and a yellow pepper::::{'red tomato-0': [25, 25, 90, 90], 'yellow pepper-0': [150, 150, 210, 210]}
+a yellow tomato and a red pepper::::{'yellow tomato-0': [30, 30, 90, 90], 'red pepper-0': [120, 120, 180, 180]}
+a red apple and a green kiwi::::{'red apple-0': [25, 30, 103, 108], 'green kiwi-0': [120, 140, 200, 220]}
+a green apple and a red kiwi::::{'green apple-0': [20, 20, 100, 150], 'red kiwi-0': [120, 50, 200, 180]}
+a white piano and a black bench::::{'white piano-0': [30, 30, 180, 220], 'black bench-0': [50, 200, 160, 240]}
+a black piano and a white bench::::{'black piano-0': [25, 30, 180, 200], 'white bench-0': [70, 210, 200, 240]}
+a brown jacket and a black hat::::{'brown jacket-0': [30, 30, 120, 200], 'black hat-0': [140, 40, 220, 120]}
+a red bear and a brown train::::{'red bear-0': [25, 25, 125, 175], 'brown train-0': [131, 25, 231, 175]}
+a red cylinder and a blue cube::::{'red cylinder-0': [20, 20, 80, 200], 'blue cube-0': [100, 30, 200, 170]}
+a blue cylinder and a red cube::::{'blue cylinder-0': [25, 25, 100, 200], 'red cube-0': [130, 50, 230, 180]}
+a blue spoon and a silver plate::::{'blue spoon-0': [30, 30, 80, 150], 'silver plate-0': [120, 70, 220, 170]}
+a blue bird and a yellow canary::::{'blue bird': [20, 20, 100, 100], 'yellow canary': [120, 120, 200, 200]}
+a canary and a yellow bluebird::::{'canary': [20, 20, 100, 150], 'yellow bluebird': [120, 30, 200, 130]}
+a yellow taxi and a black tire::::{'yellow taxi-0': [30, 30, 130, 150], 'black tire-0': [150, 100, 200, 200]}
+a black taxi and a yellow tire::::{'black taxi-0': [30, 30, 130, 130], 'yellow tire-0': [150, 150, 200, 200]}
+a green snake and a brown log::::{'green snake-0': [20, 20, 100, 200], 'brown log-0': [120, 30, 200, 60]}
+a brown snake and a green log::::{'brown snake-0': [50, 50, 150, 200], 'green log-0': [160, 100, 240, 150]}
+a white moon and a black sky::::{'white moon': [50, 50, 150, 150], 'black sky': [0, 0, 256, 256]}
+a blue pencil and a yellow notebook::::{'blue pencil-0': [20, 20, 60, 200], 'yellow notebook-0': [80, 40, 180, 220]}
+a blue duck and a yellow pond::::{'blue duck-0': [30, 30, 120, 120], 'yellow pond-0': [140, 140, 240, 240]}
+a blue jay and a green parrot::::{'blue jay': [20, 20, 100, 130], 'green parrot': [140, 140, 220, 240]}
+a green jay and a blue parrot::::{'green jay': [20, 20, 100, 150], 'blue parrot': [120, 30, 200, 170]}
+a brown squirrel and a black nut::::{'brown squirrel-0': [20, 20, 100, 120], 'black nut-0': [130, 60, 180, 110]}
+a black squirrel and a brown nut::::{'black squirrel-0': [20, 20, 100, 150], 'brown nut-0': [150, 100, 180, 130]}
+a white swan and a black lake::::{'white swan-0': [20, 20, 120, 200], 'black lake-0': [130, 30, 236, 236]}
+a black swan and a white lake::::{'black swan-0': [20, 20, 100, 200], 'white lake-0': [110, 50, 236, 236]}
+a brown log and a green moss::::{'brown log': [20, 20, 120, 150], 'green moss': [130, 30, 230, 130]}
+a green log and a brown moss::::{'green log': [20, 20, 120, 80], 'brown moss': [140, 140, 220, 200]}
+a brown guitar and a black amplifier::::{'brown guitar-0': [25, 25, 140, 200], 'black amplifier-0': [150, 25, 250, 200]}
+a black guitar and a brown amplifier::::{'black guitar-0': [25, 30, 150, 200], 'brown amplifier-0': [100, 50, 200, 150]}
+a white envelope and a blue stamp::::{'white envelope-0': [30, 30, 120, 180], 'blue stamp-0': [140, 40, 200, 100]}
+a blue envelope and a white stamp::::{'blue envelope-0': [25, 30, 130, 180], 'white stamp-0': [150, 30, 220, 100]}
+a blue bicycle and a red helmet::::{'blue bicycle-0': [20, 20, 150, 100], 'red helmet-0': [180, 40, 230, 90]}
+a red bicycle and a blue helmet::::{'red bicycle-0': [30, 30, 150, 180], 'blue helmet-0': [160, 60, 220, 120]}
+a yellow taxi and a black tire::::{'yellow taxi-0': [30, 30, 120, 150], 'black tire-0': [140, 30, 220, 110]}
+a black taxi and a yellow tire::::{'black taxi-0': [30, 30, 150, 100], 'yellow tire-0': [170, 120, 220, 170]}
+a black jacket and a brown hat::::{'black jacket-0': [30, 30, 120, 200], 'brown hat-0': [140, 40, 220, 120]}
+a blue rose and a green tulip::::{'blue rose-0': [20, 20, 100, 150], 'green tulip-0': [120, 30, 200, 180]}
+a green rose and a blue tulip::::{'green rose-0': [20, 20, 100, 150], 'blue tulip-0': [130, 50, 200, 180]}
+a red school bus and a green bag::::{'red school bus-0': [30, 30, 200, 150], 'green bag-0': [50, 170, 120, 220]}
+a green school bus and a red bag::::{'green school bus-0': [30, 30, 180, 150], 'red bag-0': [50, 170, 100, 220]}
+a yellow rabbit and a red rat::::{'yellow rabbit-0': [25, 25, 120, 180], 'red rat-0': [140, 40, 230, 200]}
+a red rabbit and a yellow rat::::{'red rabbit-0': [30, 30, 120, 200], 'yellow rat-0': [140, 40, 230, 190]}
+a red lipstick and a pink blush::::{'red lipstick-0': [20, 20, 70, 150], 'pink blush-0': [90, 20, 160, 120]}
+a pink lipstick and a red blush::::{'pink lipstick': [20, 20, 70, 150], 'red blush': [100, 20, 170, 150]}
+a blue bag and a green water bottle::::{'blue bag-0': [20, 20, 100, 180], 'green water bottle-0': [140, 50, 200, 160]}
+a green bag and a blue water bottle::::{'green bag-0': [20, 20, 100, 150], 'blue water bottle-0': [130, 50, 200, 180]}
+A bathroom with white tile and a beige toilet::::{'white tile-0': [0, 0, 256, 256], 'beige toilet-0': [100, 100, 180, 200]}
+A bathroom with beige tile and a white toilet::::{'beige tile': [0, 0, 256, 256], 'white toilet': [100, 100, 180, 200]}
+A green bathroom with a mirror and a pink sink::::{'green bathroom': [0, 0, 256, 256], 'mirror': [180, 30, 240, 130], 'pink sink': [30, 150, 120, 220]}
+A pink bathroom with a mirror and a green sink::::{'pink bathroom': [10, 10, 200, 200], 'mirror': [50, 50, 150, 150], 'green sink': [160, 100, 190, 160]}
+a black gold and white vase sitting on a counter::::{'black gold and white vase': [60, 40, 200, 170]}
+a black white and gold vase sitting on a counter::::{'black white and gold vase-0': [50, 50, 150, 200]}
+A small white kitchen with brown wood floor::::{'small white kitchen-0': [20, 20, 236, 200], 'brown wood floor-0': [0, 200, 256, 256]}
+A small brown kitchen with white wood floor::::{'small brown kitchen': [10, 10, 200, 200], 'white wood floor': [0, 200, 256, 256]}
+Kitchen scene, grey counter top on one side, whitish on the other and black sink with long neck faucet::::{'grey counter top': [10, 10, 130, 256], 'whitish counter top': [150, 10, 250, 256], 'black sink with long neck faucet': [120, 100, 180, 200]}
+Kitchen scene, black counter top on one side, whitish on the other and grey sink with long neck faucet::::{'black counter top': [5, 5, 100, 250], 'whitish counter top': [156, 5, 251, 250], 'grey sink': [110, 100, 150, 200]}
+Kitchen scene, black counter top on one side, whitish on the other and grey sink with long neck faucet::::{'black counter top': [0, 0, 128, 256], 'whitish counter top': [128, 0, 256, 256], 'grey sink': [90, 90, 166, 166]}
+Two toilet stall, one blue and the other orange::::{'blue toilet stall': [20, 20, 100, 200], 'orange toilet stall': [140, 20, 220, 200]}
+Two toilet stall, one orange and the other blue::::{'orange toilet stall-0': [20, 20, 128, 236], 'blue toilet stall-0': [128, 20, 236, 236]}
+A long, narrow yellow kitchen with black and white floor tiles::::{'long, narrow yellow kitchen': [10, 10, 246, 100], 'black and white floor tiles': [10, 110, 246, 246]}
+A long, narrow black kitchen with yellow and white floor tiles::::{'black kitchen-0': [0, 0, 256, 256], 'yellow and white floor tiles-0': [10, 10, 246, 236]}
+Two hot dogs sit on a white paper plate near a soda cup which are sitting on a green picnic table while a bike and a silver car are parked nearby::::{'hot dogs-0': [40, 50, 80, 90], 'hot dogs-1': [90, 50, 130, 90], 'white paper plate': [60, 30, 160, 130], 'soda cup': [180, 50, 220, 90], 'green picnic table': [0, 150, 256, 200], 'bike': [100, 210, 150, 240], 'silver car': [180, 210, 230, 240]}
+Two hot dogs sit on a green paper plate near a soda cup which are sitting on a white picnic table while a bike and a silver car are parked nearby::::{'hot dogs-0': [50, 50, 100, 150], 'hot dogs-1': [150, 50, 200, 150], 'green paper plate': [100, 100, 200, 150], 'soda cup': [200, 100, 250, 150], 'white picnic table': [0, 200, 256, 256], 'bike': [0, 0, 50, 100], 'silver car': [200, 0, 256, 100]}
+A restroom features black and white checkered flooring and two toilets of which has a black seat and lid and the other a white seat and lid::::{'black and white checkered flooring': [0, 0, 256, 256], 'toilet-0 [black seat and lid]': [50, 50, 125, 125], 'toilet-1 [white seat and lid]': [150, 150, 225, 225]}
+A restroom features white and white checkered flooring and two toilets of which has a black seat and lid and the other a black seat and lid::::{'white and white checkered flooring': [0, 0, 256, 256], 'toilet-0': [30, 30, 100, 150], 'toilet-1': [150, 80, 220, 200]}
+Bathroom scene with white background and tan accents::::{'white background': [0, 0, 256, 256], 'tan accents-0': [50, 50, 100, 100], 'tan accents-1': [150, 150, 200, 200]}
+Bathroom scene with tan background and white accents::::{'background': [0, 0, 256, 256], 'tan': [0, 0, 256, 256], 'white accents': [0, 0, 256, 256]}
+A stainless steel oven sits between white cupboards with black counter tops while sun shines through the kitchen windows::::{'stainless steel oven-0': [50, 50, 150, 200], 'white cupboards-0': [10, 10, 100, 150], 'black counter tops-0': [160, 100, 250, 150], 'kitchen windows-0': [10, 160, 100, 250], 'sun': [150, 10, 200, 60]}
+A stainless steel oven sits between black cupboards with white counter tops while sun shines through the kitchen windows::::{'stainless steel oven': [50, 50, 150, 200], 'black cupboards': [10, 10, 40, 220], 'white counter tops': [160, 10, 240, 220], 'kitchen windows': [200, 10, 240, 50]}
+A kitchen with white tile floor and blue sloped ceiling::::{'white tile floor': [0, 200, 256, 256], 'blue sloped ceiling': [0, 0, 256, 50]}
+A kitchen with blue tile floor and white sloped ceiling::::{'blue tile floor': [0, 200, 256, 256], 'white sloped ceiling': [0, 0, 256, 50], 'kitchen': [0, 50, 256, 200]}
+A bathroom with green tile and a red shower curtain::::{'bathroom': [0, 0, 256, 256], 'green tile': [10, 10, 246, 246], 'red shower curtain': [100, 100, 220, 220]}
+A bathroom with red tile and a green shower curtain::::{'red tile': [10, 10, 150, 150], 'green shower curtain': [160, 10, 250, 200]}
+A white bath tub sits empty in a tan, clean bathroom::::{'white bath tub': [30, 80, 200, 160], 'tan, clean bathroom': [0, 0, 256, 256]}
+A tan bath tub sits empty in a white, clean bathroom::::{'tan bath tub-0': [30, 100, 180, 200]}
+two white sheep, a black goat and a white goat in a field::::{'white sheep-0': [20, 20, 100, 120], 'white sheep-1': [120, 30, 200, 130], 'black goat': [30, 140, 110, 240], 'white goat': [120, 150, 200, 250]}
+two black sheep, a white goat and a white goat in a field::::{'black sheep-0': [50, 50, 150, 150], 'black sheep-1': [160, 50, 260, 150], 'white goat-0': [50, 160, 150, 260], 'white goat-1': [160, 160, 260, 260]}
+A black and white cat sits in a white sink::::{'black and white cat': [50, 50, 150, 150], 'white sink': [10, 10, 200, 180]}
+A black and white cat sits in a white sink::::{'black and white cat-0': [30, 30, 110, 110], 'white sink-0': [10, 10, 150, 150]}
+A woman in a white shirt and jeans holds a pink umbrella in the rain::::{'woman': [60, 20, 180, 230], 'pink umbrella': [100, 10, 150, 100], 'rain': [0, 0, 256, 256]}
+A woman in a pink shirt and jeans holds a white umbrella in the rain::::{'woman': [70, 50, 150, 220], 'pink shirt': [85, 70, 140, 110], 'jeans': [85, 110, 140, 180], 'white umbrella': [120, 30, 180, 100]}
+A small bathroom with a small brown toilet next to a white sink::::{'small bathroom': [20, 20, 236, 236], 'small brown toilet': [30, 100, 90, 180], 'white sink': [150, 120, 210, 180]}
+A small bathroom with a small white toilet next to a brown sink::::{'small white toilet-0': [50, 50, 100, 150], 'brown sink-0': [150, 50, 220, 150]}
+A black and green tile bathroom with a black toilet and a yellow bucket on the floor::::{'black and green tile bathroom': [0, 0, 256, 256], 'black toilet': [160, 80, 220, 180], 'yellow bucket': [40, 160, 100, 220]}
+A black and green tile bathroom with a yellow toilet and a black bucket on the floor::::{'black and green tile bathroom': [0, 0, 256, 256], 'yellow toilet': [160, 120, 200, 180], 'black bucket': [80, 200, 120, 240]}
+A red carpet in a bathroom with white fixtures::::{'red carpet-0': [0, 200, 256, 256], 'white fixtures-0': [100, 0, 200, 100]}
+A white carpet in a bathroom with red fixtures::::{'white carpet-0': [30, 30, 200, 180], 'red fixtures-0': [210, 30, 250, 100], 'red fixtures-1': [210, 120, 250, 190]}
+Many stoplights flash yellow on a snow covered street::::{'stoplight-0': [30, 40, 70, 160], 'stoplight-1': [90, 30, 130, 150], 'stoplight-2': [150, 50, 190, 170], 'snow covered street': [0, 180, 256, 256]}
+Many stoplights flash snow on a yellow covered street::::{'stoplight-0': [20, 30, 70, 120], 'stoplight-1': [90, 40, 140, 140], 'stoplight-2': [160, 50, 210, 150], 'snow': [0, 160, 256, 256], 'yellow covered street': [0, 200, 256, 256]}
+A blue scooter is parked near a curb in front of a green vintage car::::{'blue scooter': [50, 120, 130, 200], 'curb': [160, 180, 180, 200], 'green vintage car': [190, 120, 250, 200]}
+A green scooter is parked near a curb in front of a blue vintage car::::{'green scooter': [15, 120, 85, 180], 'curb': [90, 150, 110, 160], 'blue vintage car': [120, 30, 220, 100]}
+A dining area features a wood table and chairs, a silver refrigerator and light brown cabinets::::{'wood table': [20, 50, 180, 120], 'chairs-0': [10, 130, 60, 200], 'chairs-1': [140, 130, 190, 200], 'silver refrigerator': [200, 70, 250, 200], 'light brown cabinets': [10, 10, 80, 40]}
+A dining area features a wood table and chairs, a brown refrigerator and light silver cabinets::::{'wood table': [30, 30, 180, 180], 'chairs': [190, 30, 240, 180], 'brown refrigerator': [30, 190, 100, 250], 'light silver cabinets': [110, 190, 240, 250]}
+Bathroom scene, white commode and matching white sink on light brown tone tiled floor::::{'commode-0': [50, 50, 150, 150], 'sink-0': [160, 50, 260, 150]}
+Bathroom scene, white commode and matching white sink on light brown tone tiled floor::::{'white commode': [50, 50, 150, 150], 'white sink': [170, 50, 270, 150], 'floor': [0, 160, 256, 256]}
+A traffic light with a smile green light above a red sign::::{'traffic light': [50, 30, 200, 200], 'smile green light': [90, 30, 160, 70], 'red sign': [120, 150, 170, 200]}
+A traffic light with a smile red light above a green sign::::{'traffic light-0': [60, 20, 195, 230], 'smile red light-0': [70, 25, 130, 75], 'green sign-0': [140, 130, 190, 170]}
+The man on the large black motorcycle has pink chaps::::{'man': [50, 20, 150, 180], 'large black motorcycle': [10, 50, 200, 120], 'pink chaps': [70, 180, 130, 230]}
+The man on the large pink motorcycle has black chaps::::{'man': [70, 40, 180, 200], 'large pink motorcycle': [10, 20, 250, 160], 'black chaps': [120, 200, 180, 240]}
+A black motorcycle is parked on grey cobblestones::::{'black motorcycle-0': [50, 50, 206, 150]}
+A grey motorcycle is parked on black cobblestones::::{'grey motorcycle-0': [50, 80, 150, 130]}
+The white and yellow clock with a red roof reads 11:44::::{'white and yellow clock with a red roof-0': [50, 50, 150, 150]}
+The white and red clock with a yellow roof reads 11:44::::{'white and red clock': [20, 30, 100, 120], 'yellow roof': [110, 130, 190, 160]}
+A man in a gray jacket standing in a kitchen next to a black dog::::{'man-0': [40, 30, 120, 220], 'gray jacket-0': [55, 80, 105, 160], 'kitchen-0': [0, 0, 256, 150], 'black dog-0': [150, 30, 230, 200]}
+A man in a black jacket standing in a kitchen next to a gray dog::::{'man in a black jacket': [20, 20, 100, 200], 'gray dog': [120, 30, 200, 180]}
+a white bathroom with a black and white shower curtain::::{'white bathroom': [0, 0, 256, 256], 'black and white shower curtain': [100, 50, 200, 200]}
+a white bathroom with a black and white shower curtain::::{'white bathroom': [10, 10, 246, 200], 'black and white shower curtain': [100, 50, 200, 200]}

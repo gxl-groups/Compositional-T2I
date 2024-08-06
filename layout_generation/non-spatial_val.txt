@@ -1,0 +1,300 @@
+A person is looking at a rainbow and marveling at its beauty::::{'person': [50, 30, 200, 220], 'rainbow': [10, 10, 246, 100]}
+A woman is speaking on the phone and making plans with a friend::::{'woman': [50, 50, 150, 200], 'phone': [180, 100, 220, 150], 'friend': [230, 50, 280, 150]}
+A woman is holding a yoga mat and heading to a class::::{'woman': [50, 30, 200, 220], 'yoga mat': [100, 150, 150, 200]}
+The woodcarver is creating a sculpture of a bird from a block of wood::::{'woodcarver': [50, 50, 200, 200], 'sculpture of a bird': [100, 100, 150, 150], 'block of wood': [30, 30, 220, 220]}
+A cat is lazily lounging in a sunny windowsill::::{'cat-0': [10, 10, 150, 220]}
+A dog is playing with a chew toy on the carpet::::{'dog-0': [20, 20, 100, 150], 'chew toy-0': [120, 90, 150, 120], 'carpet-0': [0, 0, 256, 256]}
+A child is running around a playground and playing with friends::::{'child': [50, 50, 100, 150], 'friend-0': [150, 50, 200, 100], 'friend-1': [175, 125, 225, 175], 'friend-2': [125, 125, 175, 175], 'playground': [0, 0, 256, 256]}
+A person is looking at a waterfall and feeling awestruck::::{'person': [50, 100, 206, 230], 'waterfall': [0, 0, 256, 256]}
+A group of people are enjoying a barbecue in the backyard::::{'people-0': [50, 50, 100, 150], 'people-1': [120, 50, 170, 150], 'people-2': [190, 50, 240, 150], 'people-3': [50, 170, 100, 270], 'people-4': [120, 170, 170, 250], 'people-5': [190, 170, 240, 250], 'barbecue': [120, 290, 170, 240], 'backyard': [0, 0, 256, 256]}
+A scientist is conducting experiments in a high-tech lab::::{'scientist-0': [40, 30, 150, 220]}
+A person is wearing a backpack and hiking up a mountain trail::::{'person-0': [50, 30, 150, 200], 'backpack-0': [120, 160, 160, 200], 'mountain trail-0': [0, 220, 256, 256]}
+A group of activists are marching in protest, chanting slogans and waving signs::::{'activists-0': [20, 30, 90, 220], 'marching in protest': [100, 30, 200, 220], 'chanting slogans': [210, 30, 240, 220], 'waving signs': [250, 50, 250, 18]}
+A couple is walking their dog and chatting along the way::::{'couple': [20, 20, 120, 200], 'dog': [130, 50, 180, 150]}
+A painter is adding the final touches to a beautiful masterpiece::::{'painter': [50, 50, 200, 200], 'masterpiece': [10, 10, 240, 240]}
+The baker kneaded the dough before placing it in the oven to bake::::{'baker': [0, 0, 100, 256], 'dough': [110, 0, 200, 100], 'oven': [210, 0, 256, 256]}
+A person is getting a relaxing massage, feeling tension melt away from their muscles::::{'person-0': (50, 50, 150, 150),'massage table-0': (170, 50, 330, 150),'muscles-0': (50, 170, 330, 250)}
+A woman is holding a camera and taking photos of a beautiful landscape::::{'woman': [20, 20, 100, 220], 'camera': [110, 80, 150, 120], 'landscape': [160, 20, 250, 220]}
+A person is laughing in the crowd::::{'person-0': [120, 70, 160, 140], 'crowd-0': [20, 20, 240, 240]}
+The science fiction writer is creating a futuristic world in their book::::{'science fiction writer': [20, 20, 150, 200]}
+A man is holding a book and reading on a park bench::::{'man-0': [20, 40, 100, 220], 'book-0': [130, 70, 180, 130], 'park bench-0': [60, 20, 200, 35]}
+The baby is crawling towards the toy::::{'baby': [50, 100, 150, 200], 'toy': [200, 150, 250, 200]}
+A woman is holding a paint can and redecorating a room::::{'woman': [50, 30, 200, 220], 'paint can': [10, 100, 40, 150]}
+A person is walking with a friend and catching up on their lives::::{'person': [30, 40, 100, 200], 'friend': [120, 30, 200, 200]}
+A person is wearing gloves and holding a snowball::::{'person': [50, 50, 200, 250], 'gloves': [70, 150, 110, 190], 'snowball': [115, 180, 135, 200]}
+A river is flowing through a canyon::::{'river-0': [0, 90, 256, 120], 'canyon-0': [0, 0, 256, 90]}
+A man is mowing the lawn with a push mower::::{'man': [20, 20, 80, 200], 'push mower': [100, 80, 200, 160]}
+A surfer is waxing their board before heading out into the water::::{'surfer': [20, 50, 200, 220], 'board': [10, 10, 180, 40]}
+A dog is standing on its hind legs and trying to catch a frisbee::::{'dog': [50, 30, 150, 200], 'frisbee': [120, 10, 180, 70]}
+A person is practicing their juggling skills at the circus::::{'person-0': [80, 90, 176, 250]}
+A man is holding a briefcase and rushing to catch a train::::{'man-0': [50, 50, 150, 200], 'briefcase-0': [160, 100, 200, 150], 'train-0': [210, 50, 250, 150]}
+A person is wearing a hat and sunglasses while fishing::::{'person-0': [40, 30, 150, 200], 'hat-0': [60, 40, 100, 80], 'sunglasses-0': [85, 50, 120, 75]}
+A man is holding a soldering iron and repairing a broken electronic device::::{'man': [50, 30, 200, 220], 'soldering iron': [180, 100, 220, 150], 'broken electronic device': [20, 100, 120, 180]}
+A group of people are cheering at a sports game::::{'people-0': [10, 10, 80, 200], 'people-1': [90, 30, 160, 210], 'people-2': [170, 10, 240, 200]}
+A person is shaking their head in disagreement::::{'person-0': [60, 70, 196, 193]}
+A child is playing with a toy drum set and making a joyful noise::::{'child': [50, 30, 150, 200], 'toy drum set': [120, 50, 220, 150]}
+A woman is doing dishes in the kitchen::::{'woman': [50, 30, 200, 220], 'kitchen': [0, 0, 256, 256]}
+A group of friends is having a picnic under a big oak tree::::{'group of friends': [50, 50, 150, 150], 'big oak tree': [200, 50, 250, 150]}
+A child is playing with a toy airplane and pretending to fly::::{'child': [40, 40, 140, 140], 'toy airplane': [160, 60, 220, 120]}
+A woman is shopping for fresh produce at the farmer's market::::{'woman-0': [35, 45, 125, 200], 'fresh produce-0': [140, 30, 210, 150], "farmer's market-0": [50, 180, 220, 240]}
+A man is holding a compass and navigating through the wilderness::::{'man': [50, 50, 150, 200], 'compass': [160, 100, 190, 130]}
+The textile artist is weaving a tapestry on a loom::::{'textile artist': [10, 10, 150, 240], 'tapestry': [160, 10, 250, 240], 'loom': [90, 0, 170, 10]}
+A woman is speaking in sign language and communicating with a deaf friend::::{'woman': [50, 30, 150, 200], 'sign language': [10, 10, 40, 80], 'deaf friend': [160, 30, 250, 200]}
+A parent is comforting their child after a bad dream, holding them close and soothing their fears::::{'parent': [70, 20, 180, 190], 'child': [100, 100, 150, 150]}
+A person is standing on a skateboard and performing tricks::::{'person': [60, 40, 190, 220], 'skateboard': [30, 180, 90, 220]}
+A person is jumping over a hurdle and competing in a track and field event::::{'person-0': [50, 100, 150, 250], 'hurdle-0': [100, 50, 200, 150], 'track': [0, 200, 256, 256]}
+A child is playing with a yo-yo and performing tricks::::{'child-0': [50, 120, 150, 220], 'yo-yo-0': [160, 100, 200, 140]}
+A dog is playing with a chew toy and happily wagging its tail::::{'dog': [20, 30, 150, 200], 'chew toy': [100, 100, 130, 130]}
+A man is holding a map and navigating a boat on a lake::::{'man': [50, 50, 100, 200], 'map': [110, 60, 150, 100], 'boat': [160, 150, 240, 200], 'lake': [0, 0, 256, 256]}
+A dog is playing fetch with its owner and bringing back a ball::::{'dog-0': [100, 100, 150, 150], 'owner-0': [200, 100, 250, 150], 'ball-0': [125, 50, 175, 100]}
+The singer is performing a duet with a partner on stage::::{'singer': [0, 0, 256, 256], 'partner': [0, 0, 256, 256]}
+A person is walking with a guidebook and taking a tour of a historic site::::{'person': [60, 60, 150, 230], 'guidebook': [170, 100, 220, 150]}
+A man is standing on a street corner and waiting for a bus::::{'man': [80, 40, 160, 220], 'bus': [180, 100, 240, 200]}
+A person is holding a basketball and playing a game with friends::::{'person-0': [40, 50, 170, 200], 'basketball-0': [160, 130, 220, 190]}
+A dog is wagging its tail and playing fetch with its owner::::{'dog-0': [50, 50, 150, 200], 'owner-0': [180, 100, 250, 200]}
+A dog is chasing its tail and having a playful moment::::{'dog': [90, 90, 166, 166], 'tail': [150, 130, 170, 150]}
+A man is sitting on a park bench feeding pigeons::::{'man-0': [10, 40, 90, 200], 'park bench-0': [0, 100, 256, 220], 'pigeons-0': [130, 30, 160, 60], 'pigeons-1': [170, 70, 200, 100], 'pigeons-2': [90, 120, 120, 150], 'pigeons-3': [200, 150, 230, 180]}
+A person is standing on a ladder and fixing a leaky roof::::{'person-0': [40, 50, 150, 240], 'ladder-0': [20, 20, 70, 240], 'roof-0': [100, 10, 200, 100]}
+A man is holding a basketball and practicing his jump shot::::{'man': [50, 30, 200, 220], 'basketball': [180, 100, 220, 140]}
+A man is holding a microphone and performing at a karaoke bar::::{'man': [50, 50, 150, 200], 'microphone': [120, 180, 150, 210]}
+A woman is holding a cup of coffee while waiting for the bus::::{'woman': [100, 80, 180, 220], 'cup of coffee': [130, 120, 160, 150], 'bus': [200, 100, 240, 180]}
+A student is typing on a laptop at a coffee shop::::{'student-0': [30, 70, 120, 220], 'laptop-0': [80, 120, 160, 180], 'coffee shop': [0, 0, 256, 256]}
+A couple is holding hands and walking through a park::::{'couple': [70, 110, 180, 240]}
+A chef is carefully seasoning a dish, tasting it over and over until it's just right::::{'chef': [50, 50, 150, 200], 'dish': [160, 50, 240, 120]}
+A man is playing the drums in his garage band::::{'man-0': [10, 10, 100, 240], 'drums-0': [120, 10, 240, 200]}
+A person is playing guitar on the beach::::{'person-0': [50, 100, 150, 220], 'guitar-0': [120, 150, 200, 190], 'beach': [0, 0, 256, 256]}
+The sushi chef is slicing fresh fish for sashimi::::{'sushi chef': [80, 25, 176, 146], 'fresh fish': [30, 80, 130, 190]}
+A woman is holding a bouquet of flowers and smiling with happiness::::{'woman-0': [50, 50, 150, 250], 'bouquet of flowers-0': [120, 100, 180, 200]}
+A child is playing with a hula hoop and perfecting their moves::::{'child-0': [50, 50, 150, 200], 'hula hoop-0': [100, 75, 200, 150]}
+A dog is chasing after a ball and wagging its tail::::{'dog': [50, 50, 150, 200], 'ball': [160, 100, 180, 120]}
+A person is looking at a map and planning a road trip::::{'person-0': [20, 20, 110, 240], 'map-0': [140, 20, 250, 240]}
+A person is holding a glass of wine and enjoying a sunset::::{'person-0': [50, 50, 150, 250], 'glass of wine-0': [130, 160, 190, 220], 'sun-0': [5, 5, 256, 100]}
+A dog is panting and resting after a long walk::::{'dog-0': [50, 50, 150, 200]}
+A person is looking at a work of art and analyzing its meaning::::{'person': [50, 50, 200, 220], 'work of art': [100, 100, 150, 150]}
+A woman is holding a slice of pizza and taking a bite::::{'woman': [50, 50, 200, 250], 'slice of pizza': [140, 80, 220, 150]}
+A person is holding a calculator and working on a math problem::::{'person': [40, 20, 190, 230], 'calculator': [100, 80, 150, 120]}
+A person is clapping in applause::::{'person': [50, 50, 200, 220]}
+A woman is holding a basket of fruit and smiling at the farmer's market::::{'woman': [50, 30, 200, 220], 'basket of fruit': [90, 90, 150, 150]}
+A horse is galloping in a meadow::::{'horse-0': [50, 50, 200, 200]}
+A child is carefully planting a seed in the garden, hoping it will grow into a beautiful flower::::{'child': [50, 30, 100, 160], 'seed': [105, 100, 120, 120], 'garden': [0, 0, 256, 256]}
+A person is walking with a friend and enjoying a conversation::::{'person-0': [50, 50, 150, 220], 'friend-0': [170, 50, 270, 220]}
+A bartender is mixing drinks behind the bar::::{'bartender': [50, 50, 200, 220], 'bar': [0, 0, 256, 40], 'drinks': [120, 100, 160, 200]}
+A person is looking at a display of vintage clothing and admiring the fashion::::{'person': [20, 30, 80, 200], 'display of vintage clothing': [100, 20, 230, 220]}
+A person is holding a phone and scrolling through social media::::{'person': [50, 30, 200, 230], 'phone': [100, 80, 160, 150]}
+A child is playing in the sandbox::::{'child': [40, 50, 120, 180], 'sandbox': [10, 10, 200, 200]}
+A woman is holding a rolling pin and making pie crust::::{'woman': [20, 20, 150, 240], 'rolling pin': [160, 100, 200, 180], 'pie crust': [50, 200, 200, 250]}
+A bride is walking down the aisle towards her groom::::{'bride': [50, 30, 150, 230], 'groom': [100, 30, 200, 230]}
+A couple is stargazing in a field::::{'couple-0': [50, 50, 200, 200], 'field-0': [0, 0, 256, 256]}
+A person is looking at a full moon and feeling inspired::::{'person': [90, 20, 160, 200], 'full moon': [30, 30, 70, 70]}
+A group of friends is playing frisbee on the beach::::{'group of friends-0': [10, 10, 100, 100], 'frisbee-0': [120, 120, 180, 180], 'beach': [0, 200, 256, 256]}
+The scientist observed the behavior of the animals in their natural habitat::::{'scientist': [20, 20, 80, 220], 'animal-0': [100, 30, 180, 150], 'animal-1': [190, 40, 240, 120]}
+A boat is sailing on a lake::::{'boat-0': [50, 50, 200, 150], 'lake-0': [0, 0, 256, 256]}
+A chef is preparing a fancy meal for a special occasion, carefully plating each dish::::{'chef-0': [20, 20, 135, 240], 'dish-0': [170, 30, 240, 100], 'dish-1': [170, 120, 240, 190], 'dish-2': [170, 210, 240, 280]}
+A woman is holding a microphone and singing at a concert::::{'woman': [30, 30, 100, 200], 'microphone': [120, 120, 150, 160], 'concert': [0, 0, 256, 256]}
+A person is standing on a rooftop and enjoying the view::::{'person-0': [100, 50, 156, 200], 'rooftop': [0, 0, 256, 20]}
+A person is gazing up at the stars through a telescope::::{'person-0': [90, 40, 180, 180], 'stars-0': [20, 10, 100, 100], 'telescope-0': [140, 40, 220, 120]}
+A couple is cuddled up together on a park bench::::{'couple-0': [50, 80, 180, 220], 'park bench-0': [10, 10, 246, 75]}
+A person is jumping on a trampoline and feeling exhilarated::::{'person-0': [50, 100, 150, 250], 'trampoline-0': [100, 50, 200, 150]}
+A person is looking at a work of art and admiring its beauty::::{'person': [100, 100, 150, 200], 'work of art': [50, 50, 200, 200]}
+A child is blowing bubbles in the park::::{'child': [50, 50, 100, 150], 'bubbles-0': [80, 120, 110, 150], 'bubbles-1': [90, 130, 120, 160]}
+A person is sighing in relief::::{'person': [80, 60, 176, 220]}
+A group of friends is playing soccer in a park::::{'group of friends-0': [20, 20, 80, 100], 'group of friends-1': [90, 30, 150, 110], 'group of friends-2': [160, 20, 220, 100], 'group of friends-3': [50, 120, 110, 200], 'group of friends-4': [120, 130, 180, 210], 'soccer': [200, 150, 250, 200]}
+A man is running his hand over a smooth rock at the beach::::{'man-0': [50, 50, 100, 150], 'rock-0': [150, 100, 200, 150]}
+A baby is holding onto their mother's finger::::{'baby-0': [50, 50, 100, 150], "mother's finger-0": [90, 150, 110, 170]}
+A gymnast is performing a perfect routine on the balance beam::::{'gymnast-0': [50, 100, 200, 220], 'balance beam-0': [30, 200, 220, 210]}
+A person is looking at the menu and deciding what to order::::{'person': [70, 20, 190, 220], 'menu': [20, 30, 60, 200]}
+A man is holding a leash and taking his dog for a walk::::{'man': [80, 10, 140, 200], 'leash': [140, 100, 160, 180], 'dog': [160, 100, 240, 200]}
+A person is running in a marathon and striving for a personal best::::{'person-0': [20, 50, 80, 200]}
+A man is building a birdhouse in his workshop::::{'man-0': [40, 40, 150, 220], 'birdhouse-0': [180, 80, 230, 160], 'workshop-0': [10, 10, 250, 250]}
+A person is wearing a chef's hat and cooking a meal::::{'person-0': [50, 50, 200, 220], "chef's hat-0": [130, 20, 190, 100]}
+A person is running on a treadmill and working up a sweat::::{'person-0': [50, 50, 200, 200], 'treadmill-0': [10, 10, 240, 240]}
+A person is taking a hot air balloon ride over the countryside::::{'person': [50, 40, 80, 160], 'hot air balloon': [90, 10, 200, 100], 'countryside': [0, 100, 256, 256]}
+A child is playing with a yo-yo and trying to make it go up and down::::{'child': [50, 50, 150, 200], 'yo-yo': [120, 180, 150, 210]}
+A storm is brewing in the distance::::{'storm': [0, 0, 256, 50]}
+A group of people are hiking through a forest trail::::{'people-0': [10, 10, 60, 100], 'people-1': [70, 30, 120, 120], 'people-2': [130, 10, 180, 100], 'people-3': [50, 130, 100, 220], 'people-4': [110, 150, 160, 240]}
+A couple is enjoying a picnic in the park::::{'couple-0': (50, 50, 150, 150),'picnic-0': (170, 50, 250, 150)}
+The athlete stretched before the big game, hoping to avoid any injuries::::{'athlete': [40, 80, 150, 200]}
+The wind is whistling through the trees::::{'trees-0': [20, 30, 80, 200], 'trees-1': [100, 10, 200, 180], 'trees-2': [180, 40, 250, 220]}
+A group of friends are sitting around a campfire and roasting marshmallows::::{'group of friends-0': [50, 80, 150, 200], 'campfire-0': [130, 150, 180, 200], 'marshmallows-0': [160, 160, 170, 170]}
+The model is posing for a fashion photoshoot::::{'model': [50, 50, 200, 200]}
+A child is blowing bubbles in the park, giggling as they float through the air::::{'child': [20, 20, 100, 180], 'bubble-0': [110, 30, 130, 50], 'bubble-1': [140, 60, 160, 80]}
+A woman is holding a cup of coffee and chatting with a friend::::{'woman': [30, 25, 130, 230], 'cup of coffee': [145, 50, 200, 150], 'friend': [160, 160, 260, 260]}
+A child is playing with a toy train and creating a miniature world::::{'child': [30, 30, 100, 150], 'toy train': [120, 90, 200, 140], 'miniature world': [50, 160, 200, 250]}
+A couple is watching a movie on the couch::::{'couple': [50, 50, 200, 200], 'couch': [0, 150, 256, 256]}
+A man is holding a telescope and stargazing in the middle of the night::::{'man': [80, 80, 160, 200], 'telescope': [130, 40, 190, 100]}
+The skater gracefully glided across the ice, performing intricate moves and jumps::::{'skater': [50, 50, 200, 200]}
+A dancer is practicing their routine, perfecting each step and movement::::{'dancer-0': [20, 20, 100, 220], 'dancer-1': [130, 20, 210, 220], 'dancer-2': [75, 100, 175, 180], 'dancer-3': [0, 130, 256, 180]}
+A child is playing with a toy kitchen and making imaginary meals::::{'child': [20, 20, 150, 200], 'toy kitchen': [170, 20, 250, 120]}
+A child is holding a book and reading it in bed::::{'child': [50, 30, 130, 180], 'book': [80, 100, 180, 150], 'bed': [0, 200, 256, 256]}
+A dog is licking its owner's face and showing affection::::{'dog': [70, 70, 170, 170], "owner's face": [120, 120, 150, 150]}
+A firefly is lighting up the night sky::::{'firefly-0': [100, 50, 150, 100]}
+A woman is holding a bouquet of balloons and celebrating a birthday::::{'woman': [50, 50, 150, 250], 'bouquet of balloons': [170, 100, 230, 200]}
+A woman is practicing her painting skills in an art studio::::{'woman-0': [50, 50, 200, 200]}
+A writer is brainstorming ideas for their next novel, scribbling notes in a notebook::::{'writer': [10, 20, 180, 220], 'notebook': [40, 40, 220, 200]}
+The writer is brainstorming ideas for a new book::::{'writer-0': [30, 30, 130, 210], 'book-0': [170, 30, 250, 120]}
+A woman is sipping coffee while looking out a window::::{'woman-0': (50, 50, 150, 150),'window-0': (50, 170, 206, 245),'coffee-0': (170, 170, 206, 206)}
+A couple is relaxing in a hammock under the shade of a tree::::{'couple': [30, 30, 160, 200], 'hammock': [20, 20, 200, 160], 'tree': [140, 10, 250, 220]}
+A boy is playing basketball in the driveway::::{'boy-0': [50, 50, 150, 200], 'basketball-0': [120, 180, 160, 220], 'driveway-0': [0, 220, 256, 256]}
+A couple is taking a romantic bike ride through the countryside::::{'couple-0': [25, 30, 103, 208], 'bike-0': [111, 29, 230, 113], 'coun-0': [120, 140, 241, 250]}
+A woman is practicing archery in a field::::{'woman-0': [60, 60, 120, 220], '-0': [0, 0, 256, 256]}
+A child is playing with a jump ball and bouncing it up and down::::{'child': [10, 10, 100, 200], 'jump ball': [110, 50, 160, 100]}
+A person is nodding in agreement::::{'person-0': [100, 100, 156, 200]}
+A woman is talking to her doctor about her health::::{'woman': [50, 50, 150, 200], 'doctor': [170, 50, 270, 200]}
+A performer is rehearsing for a big show, going over their lines and moves again and again::::{'performer-0': [20, 20, 120, 240]}
+A man is holding a baseball bat and practicing his swing::::{'man': [80, 20, 200, 220], 'baseball bat': [180, 110, 240, 180]}
+A bird is nesting in a tree::::{'bird-0': [150, 50, 200, 100], 'tree-0': [50, 100, 200, 250]}
+A dog is wagging its tail and greeting a visitor::::{'dog': [50, 50, 150, 200], 'visitor': [180, 50, 230, 200]}
+A person is holding a piece of fruit and taking a bite::::{'person-0': [20, 20, 180, 240], 'fruit-0': [200, 60, 240, 100], 'fruit-1': [230, 90, 240, 100]}
+A man is tinkering with a car engine in his garage::::{'man': [70, 40, 160, 180], 'car engine': [10, 10, 50, 50], 'garage': [0, 0, 256, 256]}
+A person is jumping on a trampoline and having a blast::::{'person-0': [20, 50, 140, 220], 'trampoline-0': [50, 20, 200, 150]}
+A dog is jumping over a hurdle and competing in an agility course::::{'dog': [50, 50, 150, 200], 'hurdle': [125, 100, 175, 150]}
+The mechanic is repairing a car in the garage::::{'mechanic': [40, 40, 190, 180], 'car': [70, 100, 170, 160], 'garage': [0, 0, 256, 100]}
+A person is running through a field and enjoying the fresh air::::{'person-0': [80, 90, 150, 220]}
+A dog is cuddling with its owner and showing affection::::{'dog': [50, 80, 180, 200], 'owner': [70, 150, 200, 220]}
+A couple is cuddled up in front of a cozy fireplace::::{'couple': [20, 20, 236, 228], 'fireplace': [0, 0, 256, 100]}
+A man is standing on a ladder and painting a wall::::{'man-0': [50, 30, 180, 230], 'ladder-0': [110, 40, 130, 200], 'wall-0': [10, 10, 40, 256]}
+A woman is holding a baby and cooing to soothe them::::{'woman': [50, 50, 150, 200], 'baby': [160, 100, 200, 150]}
+The artist painted a stunning landscape of a waterfall cascading into a pool::::{'waterfall': [20, 20, 150, 200], 'pool': [160, 50, 250, 180]}
+The boxer is training with a punching bag at the gym::::{'boxer': [40, 30, 180, 210], 'punching bag': [190, 50, 230, 180]}
+A person is walking with a cane and taking their time down the street::::{'person-0': [0, 0, 50, 256], 'cane-0': [60, 0, 80, 256]}
+A book is lying open on a coffee table, waiting to be read::::{'book-0': [50, 50, 200, 200], 'coffee table-0': [0, 0, 256, 256]}
+A man is holding a violin and playing a beautiful melody::::{'man-0': [20, 20, 150, 240], 'violin-0': [100, 70, 180, 160]}
+A man is holding a set of keys and unlocking his car::::{'man-0': [20, 40, 100, 220], 'set of keys-': [130, 120, 190, 150], 'car-0': [200, 80, 250, 180]}
+A child is playing with a bubble wand and blowing bubbles in the sunshine::::{'child': [75, 70, 130, 150], 'bubble wand': [135, 90, 165, 130], 'bubbles': [140, 25, 165, 50], [145, 55, 170, 75], [150, 85, 175, 105]]}
+A person is looking at a sculpture garden and appreciating the artwork::::{'person-0': [10, 10, 100, 240], 'sculpture-0': [120, 30, 200, 150], 'sculpture-1': [210, 40, 250, 100], 'sculpture-2': [190, 160, 240, 220], 'sculpture-3': [120, 180, 170, 240], 'sculpture-4': [80, 100, 120, 150]}
+A child is holding a balloon at a birthday party::::{'child': [100, 100, 150, 200], 'balloon': [125, 50, 175, 100]}
+A child is playing with a toy train and making it chug along::::{'child-0': [50, 50, 150, 200], 'toy train-0': [160, 75, 230, 125]}
+A dog is playing tug-of-war with its owner and wagging its tail::::{'dog-0': [50, 50, 180, 220], 'owner-0': [10, 10, 40, 150]}
+A woman is holding a hammer and nailing a picture to the wall::::{'woman': [20, 20, 100, 220], 'hammer': [130, 100, 160, 130], 'picture': [180, 50, 220, 90], 'wall': [0, 0, 256, 256]}
+A child is chasing after a butterfly in the park::::{'child': [50, 50, 100, 150], 'butterfly': [120, 70, 150, 100]}
+A man is fishing on a pier by the lake::::{'man': [20, 50, 100, 200], 'pier': [5, 180, 250, 200], 'lake': [0, 0, 256, 180]}
+The calligrapher is writing in beautiful script with a quill pen::::{'calligrapher': [50, 30, 200, 200], 'quill pen': [180, 100, 230, 150]}
+The magician is performing a trick with cards::::{'magician': [60, 20, 196, 240], 'cards': [30, 60, 130, 170]}
+A man is playing the guitar and singing a song::::{'man': [0, 0, 100, 256], 'guitar': [150, 50, 220, 150]}
+The mountain biker is navigating a rocky trail::::{'mountain biker-0': [50, 50, 200, 200]}
+A person is walking with a backpack and exploring a new city::::{'person-0': [20, 50, 100, 220], 'backpack-0': [90, 120, 140, 180]}
+A man is holding a rake and raking leaves in the yard::::{'man': [60, 60, 120, 180], 'rake': [130, 120, 190, 160], 'leaves': [20, 190, 230, 240]}
+The paper crafter is making a paper flower bouquet::::{'paper crafter': [10, 20, 70, 190], 'paper flower bouquet': [90, 30, 200, 160]}
+A musician is composing a new song, experimenting with melodies and lyrics::::{'musician': [50, 50, 150, 200]}
+The coach is giving a pep talk to the team before the game::::{'coach': [50, 50, 200, 200], 'team-0': [220, 50, 370, 200], 'team-1': [380, 50, 530, 200]}
+A person is wearing sunglasses on a sunny day::::{'person': [50, 50, 200, 220], 'sunglasses': [90, 80, 160, 130]}
+A woman is holding a basket of laundry and heading to the washing machine::::{'woman-0': [50, 50, 150, 200], 'basket of laundry-0': [160, 70, 220, 130], 'washing machine-0': [230, 100, 300, 200]}
+A person is jumping over a hurdle and training for a race::::{'person': [70, 20, 180, 220], 'hurdle': [100, 80, 160, 120]}
+A child is playing with a toy robot and making it move around::::{'child-0': [50, 50, 150, 200], 'toy robot-0': [160, 60, 210, 110]}
+A couple is watching a movie and snuggled up on the couch::::{'couple': [50, 20, 200, 150], 'couch': [0, 100, 256, 256]}
+A dog is walking on a leash with its owner::::{'dog': [60, 50, 120, 150], 'owner': [130, 50, 200, 150]}
+A person is kissing someone they love::::{'person-0': [30, 30, 100, 200], 'person-1': [150, 30, 220, 200]}
+The painter is putting a fresh coat of paint on the walls::::{'painter': [100, 70, 180, 190], 'walls': [0, 0, 256, 50]}
+A child is running through a sprinkler and getting soaked::::{'child': [50, 50, 200, 200], 'sprinkler': [100, 150, 220, 270]}
+A child is playing with a kite and watching it soar high in the sky::::{'child-0': [50, 60, 130, 200], 'kite-0': [150, 10, 240, 100], 'sky-0': [0, 0, 256, 50]}
+A woman is practicing her dance routine in a studio::::{'woman': [50, 50, 150, 200]}
+A person is looking at a map and trying to find their way::::{'person-0': [30, 30, 150, 220], 'map-0': [180, 30, 250, 150]}
+The florist is arranging a bouquet of flowers::::{'florist-0': [30, 30, 120, 200], 'flowers-0': [150, 30, 200, 120], 'flowers-1': [210, 60, 250, 110], 'flowers-2': [180, 120, 230, 170], 'flowers-3': [ 140, 160, 180, 210]}
+A man is flying a kite on a windy day::::{'man-0': [50, 50, 150, 200], 'kite-0': [160, 50, 230, 150]}
+A gardener is pruning a beautiful bonsai tree::::{'gardener-0': [30, 30, 180, 250], 'bonsai tree-0': [50, 10, 200, 150]}
+A child is playing with a toy spaceship and pretending to explore space::::{'child': [50, 50, 150, 200], 'toy spaceship': [170, 70, 220, 120]}
+A group of people is hiking in a scenic nature reserve::::{'people-0': [20, 20, 70, 200], 'people-1': [90, 40, 140, 220], 'people-2': [160, 20, 210, 200], 'people-3': [80, 120, 180, 240]}
+A child is playing with a hula hoop and twirling it around their waist::::{'child-0': [30, 30, 150, 240], 'hula hoop-0': [95, 60, 180, 180]}
+A dog is chasing a ball and having fun in the park::::{'dog': [50, 50, 150, 150], 'ball': [100, 100, 120, 120], 'park': [0, 0, 256, 256]}
+A child is playing with a toy building set and creating a tower::::{'child-0': [15, 30, 70, 190], 'toy building set-0': [100, 80, 170, 150], 'tower-0': [115, 30, 155, 80]}
+A child is playing with a bubble wand and creating a sea of bubbles::::{'child': [50, 150, 100, 200], 'bubble wand': [120, 180, 140, 220], 'sea of bubbles': [0, 0, 256, 256]}
+A child is jumping rope in the schoolyard::::{'child': [80, 60, 160, 180], 'jumping rope': [ 140, 30, 200, 60], 'schoolyard': [0, 0, 256, 256]}
+A woman is holding a bouquet of roses and giving them to her partner::::{'woman-0': [50, 50, 150, 200], 'bouquet of roses-0': [120, 100, 180, 160], 'partner-0': [200, 50, 300, 200]}
+A child is playing with a toy boat at the beach::::{'child': [50, 50, 120, 180], 'toy boat': [130, 70, 200, 120], 'beach': [0, 200, 256, 256]}
+A child is playing with a toy pirate ship and making it sail::::{'child-0': [50, 50, 150, 200], 'toy pirate ship-0': [160, 50, 250, 150]}
+A group of friends are watching a movie together::::{'group of friends-0': [20, 20, 100, 200], 'movie': [120, 30, 230, 180]}
+A child is jumping on a trampoline in their backyard::::{'child-0': [50, 60, 150, 200], 'trampoline-0': [100, 100, 200, 150]}
+A man is playing golf at a scenic course::::{'man-0': [60, 80, 120, 200], 'golf': [150, 100, 200, 150]}
+A skier is gliding down a snow-covered mountain::::{'skier': [50, 20, 200, 220]}
+A man is practicing his archery skills at the range::::{'man': [50, 50, 100, 200], 'archery target': [120, 30, 220, 150], 'range': [0, 0, 256, 256]}
+A child is playing with a frisbee and throwing it back and forth::::{'child-0': [50, 50, 140, 200], 'frisbee-0': [160, 150, 210, 200]}
+A person is holding a bouquet of flowers and giving it to a loved one::::{'person-0': [50, 90, 140, 220], 'bouquet of flowers-0': [150, 100, 200, 180], 'loved one': [220, 90, 250, 150]}
+The climber is scaling a rock face with ropes and gear::::{'climber': [20, 30, 200, 240], 'rock face': [10, 10, 250, 180]}
+A woman is practicing her violin in her music room::::{'woman': [50, 50, 200, 200], 'violin': [100, 100, 150, 150], 'music room': [0, 0, 256, 256]}
+A person is looking at a sunset and feeling peaceful::::{'person': [80, 30, 176, 220], 'sunset': [0, 0, 256, 150]}
+The customer is trying on shoes at the store::::{'customer': [50, 50, 150, 200], 'shoes': [170, 50, 250, 200]}
+A man is washing his car in the driveway::::{'man-0': [20, 20, 100, 200], 'car-0': [150, 50, 250, 150]}
+A gardener is tending to their plants, carefully watering and pruning each one::::{'gardener': [10, 10, 80, 220], 'plant-0': [100, 30, 140, 140], 'plant-1': [170, 50, 210, 160], 'plant-2': [120, 170, 160, 250], 'plant-3': [190, 180, 230, 250]}
+A child is playing with a Frisbee and trying to catch it::::{'child': [100, 120, 200, 220], 'Frisbee': [130, 90, 170, 130]}
+A girl is reading a book in a hammock in the backyard::::{'girl-0': [50, 50, 150, 200], 'book-0': [80, 80, 120, 120], 'hammock-0': [10, 10, 240, 240]}
+A person is holding a camera and taking photos of the city::::{'person': [50, 30, 80, 200], 'camera': [70, 40, 90, 60], 'city': [100, 100, 200, 200]}
+A man is raking leaves in the front yard::::{'man-0': [50, 40, 180, 220]}
+A couple is stargazing on a hill::::{'couple-0': [80, 20, 176, 120], 'hill-0': [0, 100, 256, 256]}
+A woman is speaking on the phone and pacing back and forth::::{'woman': [50, 30, 200, 220]}
+A person is wearing a graduation cap and gown and receiving their diploma::::{'person-0': [10, 10, 150, 250], 'graduation cap-0': [110, 20, 140, 50], 'gown-0': [70, 80, 190, 220], 'diploma-0': [170, 100, 220, 170]}
+The sun was setting behind the mountains as the hiker reached the peak::::{'sun-0': [20, 20, 70, 70], 'mountains-0': [120, 60, 230, 180], 'hiker-0': [180, 200, 230, 250]}
+A child is playing with a toy microscope and examining insects::::{'child': [20, 20, 100, 200], 'toy microscope': [120, 30, 180, 100], 'insects-0': [200, 30, 240, 70], 'insects-1': [210, 80, 250, 120]}
+A woman is practicing calligraphy at home::::{'woman-0': [50, 50, 200, 200]}
+A train is passing through a station::::{'train': [30, 60, 220, 180], 'station': [110, 30, 180, 100]}
+The fisherman cast their line into the water, waiting patiently for a bite::::{'fisherman-0': [60, 30, 120, 200], 'line-0': [90, 200, 95, 250], 'water-0': [130, 30, 220, 250]}
+A person is yawning in a boring meeting::::{'person': [50, 50, 150, 200], 'meeting': [100, 0, 200, 256]}
+A woman is holding a bouquet of flowers on her wedding day::::{'woman-0': [20, 80, 130, 220], 'bouquet of flowers-0': [150, 40, 210, 120]}
+A volunteer is helping out at a homeless shelter, serving meals and offering a kind word::::{'volunteer-0': [50, 50, 150, 200], 'homeless shelter': [180, 50, 250, 200], 'meals': [190, 210, 220, 230], 'kind word': [230, 210, 250, 230]}
+A person is wearing a chef's hat and cooking a gourmet meal::::{'person-0': [70, 50, 186, 235], "chef's hat-0": [130, 10, 220, 90], 'gourmet meal-0': [10, 100, 100, 200]}
+A man is holding a golf club and teeing off on a course::::{'man': [50, 50, 150, 250], 'golf club': [ 140, 180, 210, 230]}
+A dog is sitting next to its owner and listening to commands::::{'dog': [50, 80, 140, 220], 'owner': [150, 50, 240, 180]}
+The makeup artist is creating a dramatic look for a fashion show::::{'makeup artist': [20, 20, 100, 200], 'dramatic look': [120, 30, 220, 220]}
+A toddler clumsily chased after a ball, giggling with delight::::{'toddler-0': (50, 50, 150, 150),'ball-0': (170, 50, 230, 150)}
+A child is playing with a jump rope and mastering their skills::::{'child-0': [50, 70, 150, 220], 'jump rope-0': [100, 20, 200, 30]}
+A group of friends is playing board games on a rainy day::::{'group of friends-0': [10, 10, 100, 100], 'board games-0': [120, 10, 220, 100], 'rainy day-0': [50, 120, 200, 220]}
+A person is looking at a starry night sky and feeling awe-struck::::{'person-0': [50, 50, 150, 150], 'starry night sky-0': [0, 0, 256, 256]}
+A woman is walking with her dog in the forest::::{'woman': [20, 20, 100, 200], 'dog': [110, 30, 150, 90]}
+A woman is holding a plate of food and serving it to guests::::{'woman': [20, 20, 100, 220], 'plate of food': [110, 80, 180, 150], 'guests-0': [200, 50, 240, 120], 'guests-1': [200, 140, 240, 210]}
+A cat is wearing a collar with a bell on it::::{'cat-0': [10, 20, 100, 200]}
+A man is holding a saw and building a wooden table::::{'man': [50, 30, 150, 220], 'saw': [160, 80, 190, 120], 'wooden table': [70, 140, 210, 220]}
+A couple is sitting on a swing and talking to each other::::{'couple-0': [50, 50, 200, 200], 'swing-0': [30, 30, 220, 220]}
+The dancer is performing a ballet on pointe::::{'dancer': [50, 50, 200, 250]}
+A person is holding a backpack sprayer and spraying weeds in a garden::::{'person': [50, 40, 150, 220], 'backpack sprayer': [160, 70, 200, 120], 'weeds': [10, 130, 40, 200], 'garden': [0, 0, 256, 256]}
+A woman is holding a yoga pose and breathing deeply::::{'woman': [50, 50, 200, 250]}
+A man is running his fingers through his hair and looking stressed::::{'man': [50, 50, 200, 220]}
+A person is looking at a map of the stars and searching for constellations::::{'person': [80, 30, 175, 220], 'map of the stars': [10, 10, 70, 200], 'constellations': [90, 10, 240, 100]}
+A person is looking at a map of the solar system and studying the planets::::{'person': [50, 50, 200, 200], 'map of the solar system': [10, 10, 150, 150]}
+A person is bungee jumping off a bridge::::{'person': [100, 20, 150, 200], 'bridge': [0, 150, 256, 256]}
+A dog is playing with a tennis ball and running after it::::{'dog': [20, 50, 150, 200], 'tennis ball': [160, 140, 180, 160]}
+A team of athletes is competing in a tournament, pushing themselves to give it their all::::{'athlete-0': [20, 20, 70, 100], 'athlete-1': [100, 20, 150, 100], 'athlete-2': [180, 20, 230, 100], 'athlete-3': [70, 120, 120, 200], 'athlete-4': [150, 120, 200, 200], 'athlete-5': [100, 220, 150, 300], 'athlete-6': [20, 220, 70, 300], 'athlete-7': [180, 220, 230, 300]}
+A couple is enjoying a candlelit dinner at a restaurant::::{'couple': [50, 50, 200, 200], 'candlelit dinner': [100, 100, 150, 150]}
+A child is playing with a toy airplane and making it fly::::{'child-0': [40, 50, 190, 230], 'toy airplane-0': [120, 10, 200, 50]}
+A person is looking at a waterfall and feeling refreshed::::{'person': [50, 50, 150, 200], 'waterfall': [180, 100, 230, 220]}
+A dog is jumping through a hoop and performing a trick::::{'dog': [50, 50, 150, 150], 'hoop': [75, 75, 125, 125]}
+A person is holding a pencil and sketching a portrait::::{'person-0': [50, 50, 150, 200], 'pencil-0': [120, 100, 180, 160]}
+A man is holding a telescope and observing a comet in the night sky::::{'man-0': [70, 30, 160, 220], 'telescope-0': [180, 80, 240, 160], 'com-0': [40, 10, 90, 60]}
+A person is holding a megaphone and leading a protest::::{'person-0': [70, 30, 170, 220], 'megaphone-0': [ 140, 120, 200, 180], 'protest-0': [10, 50, 60, 200]}
+A father is teaching his son how to ride a bike in the park::::{'father': [50, 50, 120, 200], 'son': [130, 50, 200, 200], 'bike': [100, 150, 180, 230], 'park': [0, 0, 256, 256]}
+The detective carefully examined the evidence found at the crime scene::::{'detective-0': [20, 20, 90, 240], 'evidence-0': [110, 20, 190, 80], 'evidence-1': [220, 20, 240, 120], 'evidence-2': [110, 100, 190, 160], 'evidence-3': [220, 140, 240, 240]}
+A woman is sitting on a bench and writing in a journal::::{'woman-0': [10, 30, 100, 220], 'bench-0': [80, 100, 190, 160], 'journal-0': [160, 120, 200, 150]}
+A woman is watching her child play at the playground::::{'woman': [20, 20, 100, 200], 'child': [120, 50, 200, 180]}
+A dog is running after a frisbee in the park::::{'dog': [50, 50, 120, 150], 'frisbee': [130, 100, 180, 150]}
+A woman is holding a map and navigating through a new city::::{'woman': [50, 50, 150, 230], 'map': [170, 100, 220, 150]}
+A woman is holding a bouquet of balloons and celebrating a special occasion::::{'woman': [50, 30, 200, 220], 'bouquet of balloons': [180, 50, 240, 150]}
+A group of friends are swimming in the lake::::{'friends-0': [50, 50, 100, 100], 'friends-1': [150, 50, 200, 100], 'friends-2': [100, 150, 150, 200], 'friends-3': [200, 150, 250, 200], 'lake': [0, 0, 256, 256]}
+A man is playing pool at the local bar::::{'man': [50, 50, 200, 200], 'pool table': [20, 100, 236, 220]}
+The painter is creating a landscape painting on canvas::::{'painter-0': [20, 20, 80, 200], 'canvas-0': [100, 50, 250, 200]}
+A cat is playing with a ball of yarn on the carpet::::{'cat-0': [10, 20, 80, 150], 'ball of yarn-0': [95, 80, 120, 100], 'carpet-0': [0, 150, 256, 256]}
+A dog is digging in the sand and wagging its tail::::{'dog-0': [30, 120, 180, 256]}
+A person is walking with a colleague and discussing a project::::{'person-0': [50, 50, 150, 220], 'colleague-0': [160, 60, 260, 230]}
+A person is wearing a backpack and walking on a hiking trail::::{'person': [50, 50, 150, 230], 'backpack': [160, 100, 200, 160]}
+A man is running a marathon and crossing the finish line::::{'man': [80, 100, 176, 236], 'finish line': [150, 240, 256, 256]}
+A person is looking at a display of minerals and admiring their natural beauty::::{'person-0': [10, 10, 100, 200], 'display of minerals-0': [120, 30, 230, 150]}
+A woman is doing yoga on the beach at sunrise::::{'woman-0': (50, 50, 150, 150),'beach-0': (50, 170, 206, 245),'sunrise-0': (206, 170, 245, 245),'yoga-0': (170, 50, 230, 150)}
+A man is speaking to his therapist about his feelings::::{'man': [50, 30, 100, 200], 'therapist': [150, 30, 220, 200]}
+A person is looking at a map of the human brain and studying neuroscience::::{'person': [20, 20, 70, 230], 'map of the human brain': [100, 20, 236, 236]}
+A person is sitting on a bench and watching people walk by::::{'person': [50, 100, 100, 200], 'bench': [20, 150, 150, 170]}
+The actor rehearsed their lines with their scene partner, perfecting their performance::::{'actor': [0, 0, 128, 256], 'scene partner': [128, 0, 256, 256]}
+A man is speaking to his boss about a project at work::::{'man': [50, 50, 120, 200], 'boss': [150, 50, 220, 200]}
+A man is kayaking on a lake::::{'man-0': [50, 50, 150, 200], 'lake-0': [10, 10, 200, 150]}
+A child is playing with a jump ball and bouncing it around the playground::::{'child': [50, 50, 100, 150], 'jump ball': [110, 70, 140, 100], 'playground': [0, 0, 256, 256]}
+A person is wearing a lifejacket and kayaking down a river::::{'person': [50, 50, 150, 220], 'lifejacket': [80, 60, 120, 100], 'kayak': [ 140, 180, 220, 250]}
+A person is looking at a flock of birds flying in formation::::{'person-0': [50, 50, 150, 200], 'birds-0': [180, 50, 230, 100], 'birds-1': [200, 120, 250, 170], 'birds-2': [180, 190, 230, 240]}
+A woman is holding a guitar and strumming a tune::::{'woman': [50, 50, 200, 250], 'guitar': [100, 100, 150, 200]}
+The sun is setting over the mountains::::{'sun': [50, 50, 150, 150], 'mountains': [0, 180, 256, 256]}
+A group of people are watching a fireworks display::::{'people-0': [10, 30, 70, 180], 'fireworks display-0': [100, 10, 200, 100]}
+A child is playing with a jump rope and chanting rhymes::::{'child': [20, 20, 100, 200], 'jump rope': [110, 40, 200, 60]}
+A person is walking with their hands in their pockets::::{'person-0': [10, 60, 80, 240]}
+The puppeteer is performing a puppet show for children::::{'puppeteer': [20, 20, 100, 200], 'children-0': [120, 30, 170, 100], 'children-1': [180, 130, 230, 200]}
+A man is holding a telescope and observing the night sky::::{'man': [50, 50, 150, 220], 'telescope': [160, 80, 210, 180]}
+The zookeeper is feeding the animals in their care::::{'zookeeper': [10, 10, 60, 100], 'animals-0': [70, 20, 120, 70], 'animals-1': [130, 20, 180, 70], 'animals-2': [70, 90, 120, 140], 'animals-3': [130, 90, 180, 140]}
+A family is having a barbecue in the park::::{'family': [20, 20, 150, 200], 'barbecue': [160, 30, 220, 90], 'park': [0, 0, 256, 256]}
+A person is wearing a white coat and working in a laboratory::::{'person': [50, 30, 200, 250], 'white coat': [60, 40, 190, 220], 'laboratory': [0, 0, 256, 256]}
+A group of children are giggling on the swings::::{'children-0': [10, 50, 80, 190], 'children-1': [100, 60, 170, 180], 'children-2': [190, 70, 250, 170], 'swing-0': [20, 10, 100, 40], 'swing-1': [120, 20, 200, 50]}
+A group of friends are playing frisbee in the park::::{'group of friends-0': [20, 20, 100, 100], 'group of friends-1': [120, 20, 200, 100], 'group of friends-2': [40, 120, 160, 200], 'frisbee': [180, 150, 220, 190]}
+A child is playing with a toy construction set and building a tower::::{'child': [50, 20, 100, 120], 'toy construction set': [120, 50, 200, 150], 'tower': [180, 60, 220, 200]}

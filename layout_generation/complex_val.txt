@@ -1,0 +1,300 @@
+The red hat was on top of the brown coat rack::::{'red hat': [50, 30, 120, 90], 'brown coat rack': [40, 110, 100, 240]}
+The blue water bottle was on top of the red backpack::::{'blue water bottle-0': [30, 30, 100, 150], 'red backpack-0': [80, 160, 200, 230]}
+The black phone was resting on the brown charger::::{'black phone-0': [20, 20, 80, 120], 'brown charger-0': [90, 120, 160, 180]}
+The leather wallet was inside the brown purse::::{'leather wallet': [50, 50, 100, 100], 'brown purse': [20, 20, 150, 150]}
+The fluffy cat is on the left of the soft pillow::::{'fluffy cat-0': [20, 30, 100, 200], 'soft pillow-0': [115, 40, 200, 160]}
+The rectangular picture frame was hung above the beige couch::::{'rectangular picture frame': [70, 10, 180, 90], 'beige couch': [20, 100, 236, 220]}
+The soft pillow was on top of the hard rocking chair::::{'soft pillow-0': [20, 20, 100, 100], 'hard rocking chair-0': [60, 120, 200, 250]}
+The brown dog was lying on the green mat::::{'brown dog-0': [50, 50, 150, 150], 'green mat-0': [10, 10, 200, 200]}
+The green plant was on the right of the white wall::::{'white wall-0': [10, 10, 120, 256], 'green plant-0': [130, 10, 240, 256]}
+The blue bowl was on top of the white placemat::::{'blue bowl-0': [50, 50, 150, 150], 'white placemat-0': [100, 100, 200, 200]}
+The rectangular mirror was hung above the white sink::::{'rectangular mirror': [70, 10, 186, 100], 'white sink': [60, 120, 180, 220]}
+The black chair is on top of the blue rug::::{'black chair': [20, 20, 120, 120], 'blue rug': [50, 130, 200, 220]}
+The black chair was on the left of the white table::::{'black chair': [5, 60, 90, 200], 'white table': [100, 30, 220, 220]}
+The square book was next to the green notebook::::{'square book': [10, 10, 80, 80], 'green notebook': [90, 10, 160, 80]}
+The red book was on top of the yellow bookshelf::::{'red book': [30, 30, 100, 150], 'yellow bookshelf': [20, 160, 200, 250]}
+The rectangular mirror was hung above the black dresser::::{'rectangular mirror': [20, 10, 150, 80], 'black dresser': [60, 150, 200, 230]}
+The rough brick was on top of the smooth tile::::{'rough brick': [20, 20, 120, 100], 'smooth tile': [50, 110, 200, 150]}
+The red apple was on top of the black plate::::{'red apple-0': [50, 50, 100, 100], 'black plate-0': [25, 120, 150, 150]}
+The striped rug was on top of the tiled floor::::{'striped rug-0': [50, 50, 200, 150], 'tiled floor-0': [0, 0, 256, 256]}
+The striped rug was on top of the wooden floor::::{'striped rug-0': [0, 0, 256, 128], 'wooden floor-0': [0, 129, 256, 256]}
+The red umbrella was on top of the white coat rack::::{'red umbrella-0': [80, 10, 180, 90], 'white coat rack-0': [60, 100, 200, 220]}
+The silver laptop was on top of the black desk::::{'silver laptop': [50, 50, 200, 150], 'black desk': [0, 160, 256, 256]}
+The black headphones were next to the green phone::::{'black headphones-0': [150, 60, 210, 110], 'green phone-0': [220, 70, 280, 120]}
+The silver watch was resting on the brown nightstand::::{'silver watch': [50, 50, 80, 80], 'brown nightstand': [10, 100, 150, 200]}
+The red mug was on top of the green coaster::::{'red mug-0': [45, 30, 105, 85], 'green coaster-0': [30, 20, 120, 25]}
+The rectangular mirror was hung above the wooden dresser::::{'rectangular mirror-0': [60, 20, 196, 120], 'wooden dresser-0': [40, 150, 220, 230]}
+The square box was next to the circular canister::::{'square box': [30, 30, 130, 130], 'circular canister': [140, 30, 240, 130]}
+The brown boots were on top of the wooden shoe rack::::{'brown boots-0': [50, 50, 120, 150], 'wooden shoe rack-0': [30, 160, 200, 220]}
+The green plant was on the left of the yellow lamp::::{'green plant-0': [25, 30, 103, 208], 'yellow lamp-0': [120, 140, 241, 250]}
+The green plant is on top of the silver nightstand::::{'green plant-0': [90, 20, 140, 100], 'silver nightstand-0': [70, 120, 180, 200]}
+The fluffy cat was lying on the soft blanket::::{'fluffy cat': [50, 50, 150, 200], 'soft blanket': [20, 180, 200, 250]}
+The soft towel was on top of the hard counter::::{'soft towel': [50, 20, 180, 100], 'hard counter': [20, 120, 230, 240]}
+The white book was on top of the blue shelf::::{'white book-0': [70, 20, 185, 65], 'blue shelf-0': [40, 70, 220, 80]}
+The white mug is on top of the black coaster::::{'white mug-0': [50, 30, 120, 100], 'black coaster-0': [60, 110, 110, 150]}
+The black suitcase was next to the brown briefcase::::{'black suitcase': [50, 50, 120, 180], 'brown briefcase': [130, 50, 200, 180]}
+The round clock was on the right of the wooden picture frame::::{'round clock-0': [150, 50, 200, 100], 'wooden picture frame-0': [50, 150, 100, 200]}
+The round clock was on the left of the rectangular picture frame::::{'round clock': [20, 20, 100, 100], 'rectangular picture frame': [120, 40, 220, 180]}
+The black pencil was next to the green notebook::::{'black pencil-0': [25, 25, 60, 150], 'green notebook-0': [65, 25, 120, 180]}
+The rectangular book was on top of the black shelf::::{'rectangular book-0': [20, 20, 80, 120], 'black shelf-0': [10, 130, 120, 240]}
+The red apple was next to the oval plate::::{'red apple-0': [25, 25, 75, 75], 'oval plate-0': [100, 25, 200, 75]}
+The black camera was next to the white tripod::::{'black camera-0': [20, 20, 100, 100], 'white tripod-0': [110, 20, 200, 100]}
+The white shirt was on top of the blue pants::::{'white shirt': [30, 30, 150, 100], 'blue pants': [80, 120, 200, 220]}
+The white cat is lying on the brown sofa::::{'white cat-0': [20, 40, 100, 120], 'brown sofa-0': [10, 100, 200, 220]}
+The green plant was on top of the wooden shelf::::{'green plant-0': [50, 10, 80, 60], 'wooden shelf-0': [20, 70, 200, 80]}
+The black chair was next to the silver table::::{'black chair-0': [25, 30, 103, 208], 'silver table-0': [111, 29, 230, 113]}
+The green plant was on the left of the white lamp::::{'green plant': [20, 20, 120, 220], 'white lamp': [140, 80, 240, 180]}
+The green plant was next to the white vase::::{'green plant-0': [20, 20, 90, 180], 'white vase-0': [100, 50, 200, 200]}
+The oval mirror is hung above the white sink::::{'oval mirror-0': [50, 10, 150, 80], 'white sink-0': [80, 150, 200, 220]}
+The yellow pencil was next to the blue pen::::{'yellow pencil': [30, 30, 90, 200], 'blue pen': [100, 30, 160, 200]}
+The rectangular mirror was hung above the blue sink::::{'rectangular mirror-0': [50, 5, 150, 80], 'blue sink-0': [75, 100, 200, 200]}
+The pink phone case was resting on the white nightstand::::{'pink phone case': [10, 10, 50, 50], 'white nightstand': [0, 70, 100, 120]}
+The rectangular mirror was hung above the wooden shelf::::{'rectangular mirror-0': [50, 20, 206, 120], 'wooden shelf-0': [30, 130, 220, 140]}
+The oval plate was on top of the square placemat::::{'oval plate-0': [50, 30, 130, 90], 'square placemat-0': [30, 100, 150, 150]}
+The white shirt was on top of the black pants::::{'white shirt-0': [50, 50, 150, 150], 'black pants-0': [75, 160, 175, 250]}
+The black phone was resting on the silver charger::::{'black phone-0': [40, 40, 120, 200], 'silver charger-0': [130, 50, 220, 70]}
+The striped rug was next to the beige armchair::::{'striped rug-0': [0, 50, 150, 150], 'beige armchair-0': [180, 50, 256, 200]}
+The red apple was next to the yellow pear::::{'red apple': [20, 20, 80, 120], 'yellow pear': [90, 20, 150, 120]}
+The square coaster was next to the circular glass::::{'square coaster-0': [50, 90, 140, 180], 'circular glass-0': [160, 90, 230, 160]}
+The hardcover book was next to the brown notebook::::{'hardcover book-0': [20, 20, 120, 230], 'brown notebook-0': [130, 25, 230, 220]}
+The soft blanket was on top of the hard couch::::{'soft blanket': [40, 20, 200, 100], 'hard couch': [20, 120, 230, 220]}
+The green plant was on the right of the white window::::{'green plant-0': [170, 50, 240, 200], 'white window-0': [10, 10, 120, 250]}
+The blue book was on top of the red bookshelf::::{'blue book-0': [50, 50, 100, 100], 'red bookshelf-0': [0, 150, 256, 256]}
+The striped rug was next to the brown couch::::{'striped rug-0': [150, 50, 230, 120], 'brown couch-0': [20, 150, 120, 220]}
+The square book was on top of the blue table::::{'square book': [50, 50, 150, 150], 'blue table': [20, 160, 236, 220]}
+The black sofa was on the left of the white coffee table::::{'black sofa-0': [10, 80, 180, 220], 'white coffee table-0': [190, 90, 250, 150]}
+The striped rug was on top of the brown carpet::::{'striped rug-0': [25, 25, 150, 150], 'brown carpet-0': [50, 160, 200, 240]}
+The silver fork was resting on the brown napkin::::{'silver fork-0': [50, 50, 100, 150], 'brown napkin-0': [120, 60, 200, 180]}
+The striped rug was next to the wooden bench::::{'striped rug-0': [5, 100, 150, 200], 'wooden bench-0': [160, 80, 250, 180]}
+The blue mug is on top of the green coaster::::{'blue mug': [50, 50, 120, 120], 'green coaster': [70, 130, 150, 160]}
+The red hat was on top of the brown coat::::{'red hat': [50, 50, 150, 100], 'brown coat': [50, 120, 150, 220]}
+The white shirt was on the black hanger::::{'white shirt-0': [100, 100, 200, 250], 'black hanger-0': [180, 30, 230, 100]}
+The soft blanket was on top of the hard armchair::::{'soft blanket': [20, 20, 150, 150], 'hard armchair': [80, 160, 200, 250]}
+The fluffy pillow was on top of the hard chair::::{'fluffy pillow-0': [30, 30, 120, 120], 'hard chair-0': [80, 130, 200, 230]}
+The soft pillow was on top of the wooden chair::::{'soft pillow-0': [80, 20, 176, 70], 'wooden chair-0': [20, 80, 236, 220]}
+The round clock is next to the white picture frame::::{'round clock-0': [10, 10, 90, 90], 'white picture frame-0': [95, 95, 175, 175]}
+The warm yellow light shone down on the cozy red armchair::::{'warm yellow light': [20, 20, 100, 100], 'cozy red armchair': [120, 120, 220, 220]}
+The bright red fire engine sped past the dull grey building::::{'bright red fire engine-0': [50, 100, 200, 150], 'dull grey building-0': [100, 50, 250, 200]}
+The soft pink rose petal fell onto the rough grey sidewalk::::{'soft pink rose petal-0': [100, 50, 120, 70], 'rough grey sidewalk-0': [50, 100, 200, 150]}
+The soft pink petals of the cherry blossom contrasted with the rough brown bark::::{'soft pink petals-0': [10, 10, 120, 120], 'cherry blossom-0': [130, 10, 240, 120], 'rough brown bark-0': [70, 130, 180, 240]}
+The smooth black river flowed next to the tall green trees::::{'smooth black river-0': [10, 50, 80, 220], 'tall green trees-0': [90, 30, 160, 120], 'tall green trees-1': [180, 30, 250, 120]}
+The sleek black pen wrote on the crisp white notepad::::{'sleek black pen-0': [15, 30, 70, 200], 'crisp white notepad-0': [100, 40, 220, 180]}
+The sleek black briefcase sat on the clean white sofa::::{'sleek black briefcase-0': [20, 20, 80, 100], 'clean white sofa-0': [100, 50, 220, 180]}
+The bright yellow banana contrasted with the dull brown apple::::{'bright yellow banana-0': [30, 30, 120, 210], 'dull brown apple-0': [140, 50, 220, 150]}
+The sleek black laptop sat on the clean white desk::::{'sleek black laptop-0': [10, 10, 120, 150], 'clean white desk-0': [0, 160, 256, 256]}
+The shiny silver watch ticked on the rough wooden table::::{'shiny silver watch-0': [50, 50, 100, 100], 'rough wooden table-0': [0, 120, 256, 256]}
+The bright orange pumpkin sat next to the crisp green apples::::{'bright orange pumpkin-0': [15, 80, 120, 200], 'crisp green apples-0': [135, 80, 250, 200]}
+The striped black and white cat lay next to the soft grey blanket::::{'striped black and white cat': [20, 20, 100, 200], 'soft grey blanket': [105, 20, 235, 200]}
+The smooth purple vase sat next to the tall white candlestick::::{'smooth purple vase': [20, 20, 80, 160], 'tall white candlestick': [90, 20, 150, 180]}
+The crisp green lettuce lay next to the juicy red tomato::::{'crisp green lettuce-0': [20, 20, 100, 100], 'juicy red tomato-0': [120, 20, 200, 100]}
+The colorful balloons floated near the sleek black hot air balloon::::{'colorful balloons-0': [50, 50, 120, 120], 'sleek black hot air balloon-0': [140, 140, 220, 220]}
+The rough brown bark of the tree contrasted with the smooth green leaves::::{'rough brown bark of the tree': [40, 40, 100, 220], 'smooth green leaves': [120, 40, 220, 220]}
+The sharp red apple contrasted with the soft green pear::::{'sharp red apple': [20, 20, 100, 100], 'soft green pear': [120, 120, 200, 200]}
+The warm yellow light shone down on the colorful fruit market::::{'warm yellow light': [50, 50, 200, 200], 'colorful fruit market': [100, 100, 250, 250]}
+The warm yellow light shone down on the colorful fall leaves::::{'yellow light-0': [30, 30, 226, 226], 'fall leaves-0': [10, 100, 80, 200], 'fall leaves-1': [90, 10, 180, 150], 'fall leaves-2': [200, 100, 250, 230]}
+The sharp blue scissors cut through the thick white paper::::{'sharp blue scissors-0': [50, 50, 150, 150], 'thick white paper-0': [100, 100, 200, 200]}
+The shiny silver watch ticked on the rough wooden nightstand::::{'shiny silver watch': [50, 50, 100, 100], 'rough wooden nightstand': [10, 120, 150, 200]}
+The smooth white marble statue stood in front of the rough grey wall::::{'smooth white marble statue-0': [50, 50, 150, 200], 'rough grey wall-0': [0, 0, 256, 256]}
+The soft white feathers of the owl contrasted with the sharp black talons::::{'owl-0': [30, 30, 200, 200], 'talons-0': [190, 190, 220, 220]}
+The crisp white sheet covered the lumpy blue mattress::::{'crisp white sheet': [50, 50, 200, 150], 'lumpy blue mattress': [100, 150, 250, 250]}
+The soft pink pillow leaned against the hard wooden chair::::{'soft pink pillow': [20, 50, 100, 150], 'hard wooden chair': [110, 30, 200, 180]}
+The colorful hot air balloon floated near the dark grey storm clouds::::{'colorful hot air balloon-0': [75, 75, 175, 175], 'dark grey storm clouds-0': [0, 0, 256, 50]}
+The shiny silver car zoomed past the old rusty truck::::{'shiny silver car-0': [20, 80, 150, 160], 'old rusty truck-0': [180, 100, 250, 160]}
+The hot pink lipstick lay next to the shiny gold compact mirror::::{'hot pink lipstick': [20, 20, 70, 150], 'shiny gold compact mirror': [80, 20, 230, 150]}
+The long red scarf draped over the short black jacket::::{'long red scarf': [10, 10, 90, 200], 'short black jacket': [80, 150, 150, 220]}
+The sharp black cat clawed at the soft red blanket::::{'black cat-0': [10, 10, 100, 200], 'red blanket-0': [120, 30, 240, 160]}
+The fluffy white cat snuggled up next to the warm brown blanket::::{'fluffy white cat': [20, 20, 100, 180], 'warm brown blanket': [110, 40, 230, 220]}
+The sleek black dress hung on the clean white hanger::::{'sleek black dress-0': [50, 30, 200, 240], 'clean white hanger-0': [10, 10, 40, 250]}
+The sleek black cat sat next to the fluffy white pillow::::{'sleek black cat-0': [30, 60, 130, 180], 'fluffy white pillow-0': [140, 75, 220, 135]}
+The soft white snow contrasted with the sharp green pine needles::::{'soft white snow-0': [10, 10, 120, 240], 'sharp green pine needles-0': [130, 10, 246, 240]}
+The prickly green cactus contrasted with the smooth white walls::::{'prickly green cactus-0': [20, 20, 80, 180], 'smooth white walls-0': [120, 20, 236, 236]}
+The shiny silver ring sparkled on the rough wooden table::::{'shiny silver ring-0': [50, 50, 100, 100], 'rough wooden table-0': [0, 150, 256, 256]}
+The sleek black sports car drove past the bulky grey SUV::::{'sleek black sports car-0': [0, 100, 150, 256], 'bulky grey SUV-0': [170, 0, 256, 150]}
+The sleek silver airplane flew above the fluffy white clouds::::{'sleek silver airplane-0': [30, 30, 200, 80], 'fluffy white clouds-0': [50, 100, 200, 180]}
+The fluffy white snow covered the rough brown dirt road::::{'fluffy white snow': [0, 0, 256, 256], 'rough brown dirt road': [0, 0, 256, 256]}
+The shiny silver watch lay next to the smooth black leather wallet::::{'shiny silver watch-0': [30, 30, 100, 100], 'smooth black leather wallet-0': [110, 30, 180, 100]}
+The colorful parrot sat next to the sleek black cage::::{'colorful parrot-0': [10, 10, 80, 150], 'sleek black cage-0': [90, 10, 190, 160]}
+The juicy red tomato lay next to the ripe orange pepper::::{'juicy red tomato-0': [35, 40, 100, 100], 'ripe orange pepper-0': [110, 120, 180, 200]}
+The sweet red strawberry lay next to the tart green apple::::{'sweet red strawberry-0': [30, 30, 100, 100], 'tart green apple-0': [110, 30, 200, 100]}
+The bright blue bird perched on the rough brown branch::::{'bright blue bird': [50, 50, 100, 100], 'rough brown branch': [90, 120, 160, 200]}
+The fluffy white cat slept on the warm fuzzy blanket::::{'fluffy white cat-0': [20, 20, 130, 150], 'warm fuzzy blanket-0': [60, 120, 220, 220]}
+The warm yellow sun shone down on the cool blue water::::{'warm yellow sun-0': [20, 20, 50, 50], 'cool blue water-0': [200, 200, 230, 230]}
+The colorful balloons floated near the shiny silver airplane::::{'colorful balloons-0': [50, 50, 100, 120], 'colorful balloons-1': [120, 70, 160, 110], 'shiny silver airplane': [180, 160, 230, 200]}
+The rough brown bark of the tree contrasted with the soft green leaves::::{'rough brown bark-0': [10, 10, 90, 200], 'soft green leaves-0': [100, 10, 240, 200]}
+The crunchy brown leaves covered the damp grey sidewalk::::{'crunchy brown leaves-0': [0, 180, 256, 256], 'damp grey sidewalk-0': [0, 0, 256, 150]}
+The soft pink blanket draped over the hard wooden chair::::{'soft pink blanket': [10, 10, 130, 180], 'hard wooden chair': [140, 20, 250, 200]}
+The sleek black sports bike sped past the bright green trees::::{'sleek black sports bike-0': [70, 70, 170, 170], 'bright green trees-0': [190, 30, 256, 150]}
+The soft yellow duckling swam next to the sleek black swan::::{'soft yellow duckling-0': [30, 30, 100, 100], 'sleek black swan-0': [120, 30, 190, 100]}
+The slimy green frog hopped onto the wet brown lily pad::::{'slimy green frog-0': [50, 50, 100, 100], 'wet brown lily pad-0': [20, 120, 180, 160]}
+The shiny blue car drove past the dusty brown barn::::{'shiny blue car': [20, 50, 120, 90], 'dusty brown barn': [140, 30, 240, 150]}
+The warm yellow light shone down on the colorful flower bouquet::::{'warm yellow light': [0, 0, 256, 256], 'colorful flower bouquet-0': [50, 40, 120, 150], 'colorful flower bouquet-1': [140, 60, 200, 180]}
+The bright green grass contrasted with the dull grey pavement::::{'bright green grass': [0, 170, 256, 256], 'dull grey pavement': [0, 0, 256, 100]}
+The prickly green cactus contrasted with the smooth white sand::::{'prickly green cactus-0': [10, 30, 90, 210], 'smooth white sand-0': [110, 10, 250, 230]}
+The fluffy white clouds floated above the jagged mountain peaks::::{'clouds-0': [20, 20, 200, 100], 'mountain peaks-0': [70, 150, 230, 250], 'mountain peaks-1': [40, 100, 180, 200]}
+The soft blue blanket contrasted with the rough wooden floor::::{'soft blue blanket-0': [10, 10, 200, 200], 'rough wooden floor-0': [0, 210, 256, 256]}
+The bright yellow sunflower stood tall next to the soft green grass::::{'bright yellow sunflower-0': [20, 20, 80, 200], 'soft green grass-0': [100, 100, 250, 250]}
+The sleek black cat sat on top of the fluffy white pillow::::{'sleek black cat-0': [50, 30, 120, 130], 'fluffy white pillow-0': [90, 120, 200, 180]}
+The fluffy white clouds floated above the deep blue sea::::{'fluffy white clouds-0': [20, 20, 120, 80], 'fluffy white clouds-1': [140, 40, 240, 100], 'deep blue sea': [0, 120, 256, 256]}
+The fluffy white clouds floated above the dark grey city skyline::::{'fluffy white clouds-0': [50, 20, 200, 100], 'dark grey city skyline-0': [0, 120, 256, 256]}
+The rough brown boots contrasted with the soft white snow::::{'rough brown boots-0': [50, 170, 190, 240], 'soft white snow-0': [20, 20, 256, 100]}
+The striped black and white zebra grazed near the tall green tree::::{'zebra-0': [20, 40, 120, 200], 'tall green tree-0': [140, 20, 250, 250]}
+The rough brown hiking boots contrasted with the smooth white snow::::{'rough brown hiking boots-0': [10, 200, 120, 256], 'smooth white snow-0': [0, 0, 256, 200]}
+The soft pink petals of the flower contrasted with the rough grey sidewalk::::{'flower-0': [50, 50, 150, 150], 'sidewalk-0': [0, 200, 256, 256]}
+The soft blue sky contrasted with the sharp white clouds::::{'soft blue sky': [0, 0, 256, 200], 'sharp white clouds-0': [50, 50, 150, 120], 'sharp white clouds-1': [130, 100, 230, 170]}
+The bright orange construction cones marked the rough asphalt road::::{'bright orange construction cones-0': [75, 100, 150, 180], 'rough asphalt road-0': [20, 180, 230, 220]}
+The rough brown boots contrasted with the smooth white snow::::{'rough brown boots-0': [50, 180, 150, 250], 'smooth white snow-0': [50, 50, 200, 200]}
+The hot yellow sunflower leaned next to the cool blue vase::::{'hot yellow sunflower-0': [30, 30, 100, 200], 'cool blue vase-0': [130, 50, 200, 180]}
+The shiny black motorcycle zoomed past the old rusty car::::{'shiny black motorcycle': [20, 20, 120, 120], 'old rusty car': [140, 140, 220, 220]}
+The rough brown burlap sack lay next to the smooth white satin ribbon::::{'rough brown burlap sack': [20, 20, 120, 150], 'smooth white satin ribbon': [130, 20, 230, 50]}
+The smooth black leather jacket hung next to the rugged brown boots::::{'smooth black leather jacket-0': [20, 20, 128, 240], 'rugged brown boots-0': [138, 20, 256, 240]}
+The smooth white snow covered the rough brown ground::::{'smooth white snow-0': [0, 0, 256, 128], 'rough brown ground-0': [0, 128, 256, 256]}
+The spicy curry simmered on the hot stove and the cool plate::::{'spicy curry-0': [50, 40, 160, 160], 'hot stove-0': [10, 170, 100, 250], ' plate-0': [180, 40, 240, 140]}
+The cracked rectangle was leaning against the glossy cylinder and the peeling triangle::::{'cracked rectangle-0': [20, 110, 120, 210], 'glossy cylinder-0': [150, 30, 240, 150], 'peeling triangle-0': [180, 180, 250, 250]}
+The delicate butterfly fluttered near the fragrant flower and the rustling leaves::::{'delicate butterfly-0': [70, 70, 90, 90], 'fragrant flower-0': [150, 150, 180, 180], 'rustling leaves-0': [10, 10, 70, 150], 'rustling leaves-1': [180, 10, 240, 150]}
+The fresh vegetables grew in the rich soil and the rocky terrain::::{'fresh vegetables-0': [40, 40, 120, 120], 'fresh vegetables-1': [150, 150, 200, 200], 'rich soil': [10, 10, 100, 100], 'rocky terrain': [180, 180, 250, 250]}
+The rough prism was nestled between the smooth pyramid and the jagged zigzag::::{'rough prism-0': [10, 10, 90, 200], 'smooth pyramid-0': [100, 50, 200, 180], 'jagged zigzag-0': [220, 30, 250, 220]}
+The flickering candle flame danced on the smooth wax and the textured holder::::{'candle flame': [110, 40, 140, 80], 'smooth wax': [90, 90, 160, 120], 'textured holder': [70, 130, 180, 200]}
+The soft fur coat draped over the hard armor and the sharp claws::::{'soft fur coat': [20, 20, 120, 150], 'hard armor': [130, 20, 230, 150], 'sharp claws': [80, 160, 180, 250]}
+The soft blanket draped over the bumpy couch and the hard floor::::{'soft blanket': [50, 50, 200, 200], 'bumpy couch': [20, 100, 180, 220], 'hard floor': [0, 240, 256, 256]}
+The fluffy pillows cushioned the tired head and the hard couch::::{'fluffy pillows-0': [30, 50, 90, 110], 'tired head-0': [120, 60, 190, 130], 'hard couch-': [200, 40, 250, 140]}
+The yellow cone was suspended in mid-air near the orange pyramid and the green cylinder::::{'yellow cone-0': [75, 40, 180, 120], 'orange pyramid-0': [20, 130, 125, 225], 'green cylinder-0': [140, 130, 245, 225]}
+The fresh flowers bloomed in the colorful garden and the gray vase::::{'fresh flowers-0': [30, 30, 120, 120], 'colorful garden-0': [140, 30, 230, 120], 'gray vase-0': [80, 140, 176, 230]}
+The sleek fish swam through the murky water and the jagged coral::::{'sleek fish-0': [50, 50, 150, 150], 'jagged coral-0': [180, 20, 250, 120]}
+The comfortable armchair embraced the tired body and the hard wooden floor::::{'comfortable armchair-0': [50, 50, 180, 180], 'tired body-0': [90, 70, 150, 130], 'hard wooden floor-0': [0, 200, 256, 256]}
+The fluttering butterfly landed on the fragrant flower and the thorny thistle::::{'fluttering butterfly-0': [50, 50, 100, 100], 'fragrant flower-0': [120, 30, 180, 90], 'thorny thistle-0': [190, 40, 240, 90]}
+The sweet cotton candy spun on the shiny stick and the rough hands::::{'cotton candy': [20, 20, 120, 180], 'shiny stick': [130, 20, 150, 180], 'rough hands': [160, 20, 240, 180]}
+The rough square was nestled between the smooth rectangle and the bumpy sphere::::{'rough square-0': [20, 20, 100, 100], 'smooth rectangle-0': [120, 25, 220, 125], 'bumpy sphere-0': [60, 140, 180, 260]}
+The cozy blanket covered the cold body and the hard floor::::{'cozy blanket': [20, 40, 236, 236], 'cold body': [50, 80, 180, 200], 'hard floor': [0, 190, 256, 256]}
+The flickering torch lit the dark cave and the dim tunnel::::{'flickering torch-0': [90, 30, 166, 95], 'dark cave': [10, 10, 120, 200], 'dim tunnel': [136, 10, 246, 200]}
+The fluffy marshmallow melted over the warm cocoa and the crunchy graham cracker::::{'fluffy marshmallow': [50, 50, 120, 120], 'warm cocoa': [130, 50, 200, 120], 'crunchy graham cracker': [80, 130, 170, 200]}
+The translucent sphere floated near the opaque cube and the metallic hexagon::::{'translucent sphere-0': [130, 40, 180, 90], 'opaque cube-0': [60, 140, 110, 190], 'metallic hexagon-0': [200, 150, 250, 200]}
+The jagged zigzag was nestled between the curved line and the smooth curve::::{'jagged zigzag': [60, 80, 100, 190], 'curved line': [110, 30, 200, 100], 'smooth curve': [120, 120, 220, 220]}
+The sleek bike zoomed down the smooth road and the bumpy trail::::{'sleek bike-0': [10, 100, 150, 200], 'smooth road-0': [0, 180, 256, 200], 'bumpy trail-0': [0, 0, 256, 20]}
+The smooth wooden surface reflected the bright light and the dark shade::::{'smooth wooden surface': [10, 10, 200, 200], 'bright light': [50, 50, 120, 120], 'dark shade': [140, 140, 220, 220]}
+The translucent crescent was hovering above the shimmering rhombus and the rough-edged pentagon::::{'translucent crescent': [50, 20, 150, 80], 'shimmering rhombus': [30, 100, 120, 200], 'rough-edged pentagon': [140, 100, 230, 200]}
+The crisp apple lay beside the rough stone and the silky fabric::::{'crisp apple': [20, 40, 80, 120], 'rough stone': [100, 30, 160, 90], 'silky fabric': [170, 130, 230, 190]}
+The green diamond was nestled between the blue cylinder and the yellow hexagon::::{'green diamond-0': [90, 160, 166, 200], 'blue cylinder-0': [10, 10, 80, 100], 'yellow hexagon-0': [170, 10, 240, 100]}
+The smooth silk dress flowed on the curvy body and the straight floor::::{'smooth silk dress': [20, 20, 236, 236], 'curvy body': [90, 90, 166, 166], 'straight floor': [0, 200, 256, 256]}
+The graceful swan glided across the calm lake and the reedy marsh::::{'graceful swan-0': [50, 50, 150, 150], 'calm lake-0': [0, 200, 256, 256], 'reedy marsh-0': [0, 0, 256, 100]}
+The fresh omelet cooked the fluffy eggs and the crisp vegetables::::{'fresh omelet-0': [25, 25, 110, 110], 'fluffy eggs-0': [130, 25, 215, 110], 'crisp vegetables-0': [70, 120, 185, 235]}
+The comfortable recliner cradled the tired body and the hard floor::::{'comfortable recliner-0': [20, 20, 150, 200], 'tired body-0': [160, 30, 200, 100], 'hard floor-0': [10, 150, 240, 250]}
+The smooth pebble skipped on the calm water and the choppy waves::::{'smooth pebble-0': [50, 50, 100, 100], 'calm water-0': [120, 120, 180, 180], 'choppy waves-0': [200, 200, 250, 250]}
+The fuzzy sphere was nestled between the spiky cube and the smooth cylinder::::{'fuzzy sphere': [20, 20, 80, 80], 'spiky cube': [100, 100, 200, 200], 'smooth cylinder': [150, 30, 220, 130]}
+The iridescent teardrop was nestled between the jagged diamond and the striped sphere::::{'iridescent teardrop-0': [70, 70, 180, 180], 'jagged diamond-0': [10, 10, 100, 100], 'striped sphere-0': [150, 150, 240, 240]}
+The fragrant candle burned on the smooth table and the textured shelf::::{'fragrant candle': [40, 40, 80, 120], 'smooth table': [10, 150, 200, 180], 'textured shelf': [10, 10, 50, 180]}
+The metallic sphere was nestled between the wooden rectangle and the textured cube::::{'metallic sphere-0': [30, 30, 90, 90], 'wooden rectangle-0': [100, 30, 200, 90], 'textured cube-0': [140, 120, 240, 220]}
+The heavy traffic clogged the busy street and the quiet alleyway::::{'heavy traffic': [20, 20, 236, 236], 'busy street': [0, 100, 256, 160], 'quiet alleyway': [70, 180, 186, 256]}
+The glossy apple sat next to the fuzzy peach and the prickly pear::::{'glossy apple-0': [20, 30, 80, 180], 'fuzzy peach-0': [90, 20, 170, 120], 'prickly pear-0': [180, 130, 250, 240]}
+The flickering candle cast shadows on the smooth wall and the textured rug::::{'flickering candle': [40, 30, 80, 110], 'shadows': [60, 80, 120, 150], 'smooth wall': [0, 0, 256, 100], 'textured rug': [60, 170, 200, 256]}
+The spiky rectangle was protruding out of the jagged oval and the rounded pentagon::::{'spiky rectangle': [10, 10, 100, 150], 'jagged oval': [120, 20, 220, 120], 'rounded pentagon': [130, 130, 240, 200]}
+The juicy burger sat on the soft bun and the crispy lettuce::::{'juicy burger': [50, 50, 150, 150], 'soft bun': [30, 30, 170, 50], 'crispy lettuce': [30, 90, 170, 110]}
+The fresh sushi rolled the sticky rice and the tender fish::::{'fresh sushi-0': [50, 50, 150, 100], 'sticky rice-0': [60, 110, 140, 140], 'tender fish-0': [60, 160, 140, 190]}
+The sour grape sat next to the sweet cherry and the juicy plum::::{'sour grape': [30, 30, 90, 90], 'sweet cherry': [100, 30, 160, 90], 'juicy plum': [170, 30, 230, 90]}
+The orange pyramid was nestled between the pink hemisphere and the yellow cylinder::::{'orange pyramid': [60, 40, 100, 120], 'pink hemisphere': [30, 130, 80, 180], 'yellow cylinder': [110, 130, 160, 180]}
+The smooth lotion moisturized the dry skin and the rough calluses::::{'smooth lotion': [20, 20, 100, 100], 'dry skin': [110, 30, 190, 110], 'rough calluses': [110, 120, 200, 200]}
+The flickering light bulb brightened the dark room and the dim hallway::::{'flickering light bulb': [50, 50, 100, 100], 'dark room': [0, 0, 150, 200], 'dim hallway': [150, 0, 256, 100]}
+The golden parallelogram was suspended in mid-air near the matte hexagon and the translucent oval::::{'golden parallelogram': [50, 50, 150, 150], 'matte hexagon': [100, 100, 200, 200], 'translucent oval': [10, 160, 90, 240]}
+The glowing moon rose above the distant hill and the calm sea::::{'glowing moon': [50, 20, 120, 100], 'distant hill': [10, 100, 200, 180], 'calm sea': [10, 200, 200, 256]}
+The soft bed sheets embraced the tired body and the hard mattress::::{'soft bed sheets': [20, 20, 150, 150], 'tired body': [160, 70, 230, 140], 'hard mattress': [90, 160, 200, 240]}
+The comfortable hammock swayed in the warm breeze and the cool shade::::{'comfortable hammock': [20, 20, 220, 180]}
+The shiny diamond ring adorned the delicate finger and the rough hand::::{'shiny diamond ring': [50, 50, 100, 100], 'delicate finger': [40, 40, 90, 90], 'rough hand': [30, 30, 110, 110]}
+The sizzling bacon cooked in the greasy pan and the crispy toast::::{'sizzling bacon-0': [20, 20, 100, 150], 'greasy pan-0': [120, 20, 220, 120], 'crispy toast-0': [50, 160, 140, 200]}
+The bumpy sphere was nestled between the spiky star and the fuzzy heart::::{'bumpy sphere': [50, 50, 150, 150], 'spiky star': [160, 160, 210, 210], 'fuzzy heart': [220, 220, 270, 270]}
+The delicious ice cream melted on the crispy cone and the soft sprinkles::::{'delicious ice cream': [70, 70, 186, 186], 'crispy cone': [100, 200, 160, 240], 'soft sprinkles': [120, 120, 200, 180]}
+The fragrant perfume lingered on the soft skin and the rough fabric::::{'fragrant perfume': [20, 20, 80, 80], 'soft skin': [100, 100, 180, 180], 'rough fabric': [100, 200, 220, 240]}
+The smooth cube was nestled between the spherical sapphire and the angular ruby::::{'smooth cube': [20, 20, 100, 100], 'spherical sapphire': [120, 20, 200, 100], 'angular ruby': [220, 20, 300, 100]}
+The triangular prism was leaning against the wooden sphere and the rusted cube::::{'triangular prism': [10, 10, 70, 190], 'wooden sphere': [80, 60, 140, 120], 'rusted cube': [150, 80, 210, 140]}
+The pentagonal pyramid was balanced on the edge of the rough square and the rectangular prism::::{'pentagonal pyramid': [20, 20, 100, 100], 'rough square': [110, 30, 160, 80], 'rectangular prism': [170, 30, 230, 90]}
+The heavy rain poured down on the smooth roof and the rough gutter::::{'heavy rain': [0, 0, 256, 256], 'smooth roof': [10, 10, 150, 75], 'rough gutter': [160, 150, 245, 240]}
+The bumpy sphere was suspended in mid-air next to the spiky star and the fuzzy heart::::{'bumpy sphere': [20, 40, 120, 140], 'spiky star': [140, 30, 220, 110], 'fuzzy heart': [40, 160, 160, 250]}
+The sweet berry jam spread on the crunchy toast and the soft butter::::{'sweet berry jam': [30, 30, 100, 100], 'crunchy toast': [110, 30, 200, 100], 'soft butter': [50, 120, 170, 200]}
+The fragrant flowers bloomed on the sturdy stem and the thorny bush::::{'fragrant flowers-0': [50, 40, 120, 160], 'sturdy stem': [130, 50, 180, 200], 'thorny bush': [50, 170, 200, 250]}
+The blue cylinder was balanced on the edge of the yellow hexagon and the green diamond::::{'blue cylinder': [50, 50, 100, 150], 'yellow hexagon': [110, 100, 180, 170], 'green diamond': [190, 120, 240, 180]}
+The sweet honeycomb dripped on the crunchy toast and the soft cheese::::{'sweet honeycomb': [20, 20, 150, 150], 'crunchy toast': [120, 20, 250, 150], 'soft cheese': [85, 120, 200, 220]}
+The smooth silk gown flowed over the delicate skin and the rough floor::::{'smooth silk gown-0': [50, 100, 200, 230], 'delicate skin-0': [80, 150, 170, 200], 'rough floor-0': [0, 240, 256, 256]}
+The cylindrical tube was nestled between the rectangular box and the conical funnel::::{'cylindrical tube': [20, 20, 70, 150], 'rectangular box': [80, 30, 150, 120], 'conical funnel': [160, 20, 230, 100]}
+The shiny trophy gleamed on the polished wood and the dusty shelf::::{'shiny trophy-0': [50, 50, 100, 150], 'polished wood-0': [10, 10, 200, 20], 'dusty shelf-0': [10, 200, 200, 210]}
+The soft cotton candy melted on the warm tongue and the cool hand::::{'soft cotton candy-0': [20, 80, 100, 180], 'warm tongue-0': [110, 100, 160, 150], 'cool hand-0': [170, 100, 220, 150]}
+The sweet apple cider warmed the cold hands and the chilled glass::::{'sweet apple cider': [35, 60, 160, 180], 'cold hands': [110, 200, 130, 230], 'chilled glass': [200, 220, 240, 250]}
+The smooth metal surface reflected the bright sky and the dark clouds::::{'smooth metal surface': [20, 20, 236, 236], 'bright sky': [100, 20, 156, 100], 'dark clouds': [100, 120, 200, 200]}
+The rectangular box was nestled between the cylindrical tube and the conical funnel::::{'rectangular box': [30, 30, 100, 120], 'cylindrical tube': [110, 30, 180, 120], 'conical funnel': [190, 30, 240, 120]}
+The flickering fire lit up the cozy room and the dark night sky::::{'flickering fire': [80, 80, 176, 176], 'cozy room': [0, 0, 256, 256], 'dark night sky': [0, 0, 256, 256]}
+The soft velvet dress draped on the elegant body and the plain hanger::::{'soft velvet dress': [50, 50, 200, 250], 'plain hanger': [220, 50, 240, 250]}
+The rough bark scraped against the soft skin and the delicate flower::::{'rough bark-0': [10, 10, 100, 100], 'soft skin-0': [120, 120, 180, 180], 'delicate flower-0': [200, 50, 240, 90]}
+The flickering candle illuminated the cozy room and the dark corner::::{'flickering candle-0': [50, 50, 75, 100], 'cozy room': [0, 0, 200, 200], 'dark corner': [200, 0, 256, 50]}
+The fluffy snowflakes fell on the icy ground and the slushy pavement::::{'fluffy snowflakes-0': [45, 20, 75, 50], 'icy ground-0': [10, 60, 150, 190], 'slushy pavement-0': [160, 60, 250, 190]}
+The fiery, blazing sun sank below the horizon, painting the sky with a spectrum of orange and red hues, a stunning display of natural beauty::::{'sun': [100, 50, 150, 100]}
+The soft, gentle touch of the therapist's hands provided healing relief to the injured athlete, a therapeutic massage of body and soul::::{"therapist's hands": [100, 100, 150, 200], 'injured athlete': [50, 50, 200, 250]}
+The sharp, pungent aroma of the freshly brewed coffee woke up the senses, a daily ritual of energy and comfort::::{'coffee-0': (80, 80, 176, 176)}
+The smooth, white marble columns supported the grand entrance of the ancient temple, their intricate carvings telling stories of the past::::{'marble columns-0': [50, 50, 100, 200], 'marble columns-1': [110, 50, 160, 200], 'marble columns-2': [170, 50, 220, 200], 'grand entrance': [50, 10, 220, 50]}
+The vibrant, multicolored feathers of the peacock fanned out in a brilliant display of natural elegance and grandeur::::{'peacock': [40, 20, 216, 236]}
+The soft, fluffy texture of the cotton candy melted in the mouth, a sugary treat of childhood nostalgia::::{'cotton candy-0': [50, 50, 200, 200]}
+The rough, gnarled bark of the ancient tree told a story of growth and survival, a witness to the passage of time::::{'tree-0': (40, 40, 216, 216)}
+The intricate, delicate web of the spider shimmered in the early morning dew, a natural masterpiece of geometry and design::::{'spider': [50, 50, 200, 200]}
+The gentle, rolling hills of the countryside were a peaceful escape from the hustle and bustle of the city::::{'hills-0': [10, 30, 100, 80], 'hills-1': [50, 100, 180, 150], 'hills-2': [140, 50, 250, 120]}
+The smooth, rippled surface of the sand dunes undulated in the desert winds, a shifting landscape of natural wonder and awe::::{'sand dunes-0': [10, 50, 120, 200], 'sand dunes-1': [100, 10, 240, 160]}
+The soft, warm glow of the candlelight cast a romantic ambiance over the room, a cozy retreat from the world::::{'candlelight': [60, 60, 95, 120], 'room': [0, 0, 256, 256]}
+The delicate, intricate lacework of the wedding dress showcased the bride's beauty and elegance::::{'wedding dress': [20, 20, 236, 236], 'bride': [90, 90, 166, 166]}
+The smooth, polished surface of the marble countertop gleamed in the sunlight, a luxurious material of beauty and sophistication::::{'marble countertop': [50, 50, 206, 206]}
+The soft, warm glow of the candle created a cozy ambiance, a gentle flicker of light in the darkness::::{'candle': [85, 100, 120, 180]}
+The jagged, rocky cliffs loomed above the crashing waves, a treacherous challenge for even the bravest of climbers::::{'jagged, rocky cliffs': [0, 0, 256, 150], 'crashing waves': [0, 151, 256, 256]}
+The sharp, crisp crack of the bat hitting the ball signaled a home run, a moment of triumph::::{'bat': [50, 50, 100, 150], 'ball': [120, 100, 150, 130]}
+The smooth, glossy surface of the lake reflected the fiery colors of the sunset, a serene oasis of tranquility and reflection::::{'lake': [0, 0, 256, 256], 'sunset': [0, 0, 256, 256]}
+The cool, refreshing water of the swimming pool was a welcome relief on a hot summer day::::{'swimming pool': [20, 20, 236, 236]}
+The intricate, winding roads of the city snaked through the urban landscape, a maze of possibilities and adventure::::{'roads-0': [10, 30, 80, 200], 'roads-1': [70, 10, 200, 60], 'roads-2': [140, 80, 250, 220]}
+The rich, earthy tones of the autumn leaves rustled in the breeze, a seasonal masterpiece of color and texture::::{'autumn leaves-0': [10, 10, 80, 100], 'autumn leaves-1': [90, 20, 160, 120], 'autumn leaves-2': [170, 30, 240, 130], 'autumn leaves-3': [30, 120, 100, 220], 'autumn leaves-4': [110, 130, 180, 230], 'autumn leaves-5': [190, 140, 250, 240]}
+The sleek, aerodynamic shape of the fighter jet sliced through the air, a machine of power and precision::::{'fighter jet-0': [50, 50, 200, 150]}
+The sharp, angular lines of the geometric sculpture were a study in contrast and form::::{'geometric sculpture-0': [10, 10, 100, 200]}
+The soft, warm glow of the campfire illuminated the faces of the hikers, as they roasted marshmallows and swapped stories::::{'campfire': [50, 50, 150, 150], 'hiker-0': [20, 20, 70, 70], 'hiker-1': [160, 20, 210, 70], 'marshmallows': [120, 120, 140, 140]}
+The gentle, soothing melody of the piano filled the concert hall, as the pianist's fingers danced over the keys::::{'piano': [10, 10, 150, 200], 'pianist': [100, 50, 200, 150], 'concert hall': [0, 0, 256, 256]}
+The tall, elegant giraffes gracefully strode across the savannah, their long necks bending down to nibble at the lush vegetation::::{'giraffes-0': [20, 20, 100, 200], 'giraffes-1': [120, 50, 200, 230]}
+The glossy, spherical shape of the red apple was a symbol of temptation and healthful eating::::{'red apple-0': [100, 50, 150, 100]}
+The vibrant, glittering lights of the carnival rides spun and twirled in dizzying circles, thrilling and delighting the adventurous::::{'carnival ride-0': [20, 20, 100, 150], 'carnival ride-1': [120, 30, 200, 130], 'carnival ride-2': [50, 160, 180, 250]}
+The smooth, glossy finish of the ceramic vase accentuated the vibrant colors of the flowers, a stunning centerpiece of beauty::::{'vase-0': (80, 80, 176, 176),'flowers-0': (100, 100, 156, 156)}
+The intricate, detailed carvings of the stone temple were a testament to the dedication of the ancient craftsmen::::{'stone temple': [0, 0, 256, 256]}
+The intricate, winding labyrinth of the hedge maze was a challenging puzzle for the curious adventurer::::{'hedge maze': [10, 10, 246, 246]}
+The rugged, weathered texture of the old leather saddle was a testament to the hardworking cowboy's lifestyle::::{'old leather saddle-0': [20, 30, 200, 150]}
+The delicate, intricate web of the spider glistened with dew drops in the early morning light, a marvel of natural engineering::::{'spider': [50, 50, 150, 150]}
+The intricate, winding vines of the ivy climbed up the ancient brick wall, a testament to the enduring beauty of nature::::{'ivy': [5, 5, 150, 250], 'brick wall': [100, 0, 256, 256]}
+The bold, striking patterns of the tiger's stripes blended seamlessly with the dappled light of the jungle, a creature of stealth and beauty::::{'tiger': [50, 50, 200, 200]}
+The vibrant, swirling colors of the tie-dye shirt burst with energy and personality, a unique expression of individuality and creativity::::{'tie-dye shirt-0': [10, 10, 246, 246]}
+The twisted, gnarled roots of the old oak tree snaked through the rich soil, anchoring it firmly to the earth::::{'twisted, gnarled roots of the old oak tree-0': [10, 100, 120, 250]}
+The sleek, modern design of the smartphone made it a stylish accessory for the tech-savvy user::::{'smartphone-0': [50, 50, 200, 200]}
+The soft, cozy comfort of the wool blanket provided a warm refuge on a chilly night::::{'wool blanket': [50, 50, 206, 206]}
+The smooth, rounded stones of the zen garden lay in perfect harmony with the raked sand, inviting meditation and tranquility::::{'stones-0': (60, 120, 120, 180),'stones-1': (140, 100, 180, 140),'stones-2': (80, 60, 120, 100),'sand': (30, 30, 226, 226)}
+The sleek, streamlined shape of the airplane soared through the sky, a marvel of modern engineering::::{'airplane-0': [10, 50, 246, 212]}
+The bright, glowing embers of the bonfire cast a warm, inviting light, perfect for storytelling::::{'bonfire': [50, 20, 200, 150]}
+The sharp, angular lines of the skyscrapers jutted up into the sky, a towering testament to human ingenuity and ambition::::{'skyscrapers-0': [50, 0, 100, 256], 'skyscrapers-1': [150, 0, 200, 256], 'skyscrapers-2': [75, 100, 125, 256]}
+The warm, gooey cheese melted deliciously over the pizza, a savory delight::::{'warm, gooey cheese-0': [20, 20, 150, 150], 'pizza-0': [80, 80, 200, 200]}
+The soft, billowing curtains fluttered in the gentle breeze, adding a touch of elegance to the room::::{'curtains-0': [10, 10, 120, 220], 'curtains-1': [136, 10, 246, 220]}
+The soft, pillowy texture of the fresh bread contrasted with the crisp, crunchy exterior, a delectable treat for the taste buds::::{'fresh bread': [20, 20, 120, 150], 'crisp, crunchy exterior': [130, 20, 250, 150]}
+The sleek, black sports car sped down the winding country road, leaving a trail of dust in its wake::::{'sleek, black sports car-0': [30, 90, 160, 150]}
+The fluffy, white clouds floated lazily in the blue sky, like cotton candy in a fairytale::::{'fluffy, white clouds-0': [20, 20, 100, 90], 'fluffy, white clouds-1': [120, 30, 200, 100], 'fluffy, white clouds-2': [60, 120, 140, 190]}
+The soft, furry kittens played together in a pile on the warm, cozy blanket, their tiny paws batting at colorful balls of yarn::::{'soft, furry kittens-0': [50, 50, 150, 150], 'warm, cozy blanket-0': [25, 25, 200, 200], 'colorful balls of yarn-0': [75, 75, 100, 100]}
+The smooth, cool marble floors of the museum echoed with the footsteps of the visitors, as they admired the priceless works of art::::{'marble floors': [0, 0, 256, 256], 'visitors': [50, 70, 200, 220], 'priceless works of art': [100, 10, 220, 150]}
+The plump, red cherries hung low on the branches, ripe and ready for picking by eager hands::::{'plump, red cherries-0': [20, 20, 80, 90], 'plump, red cherries-1': [90, 20, 150, 90]}
+The sparkling, crystal chandeliers hung from the ornate ceiling of the grand ballroom, casting a warm, romantic glow::::{'crystal chandeliers-0': [20, 20, 80, 120], 'crystal chandeliers-1': [40, 140, 100, 240]}
+The soft, fluffy snow blanketed the ground, creating a winter wonderland of icy beauty::::{'soft, fluffy snow-0': [0, 0, 256, 256]}
+The silky, flowing fabric of the ballgown swirled around the dancer's feet, as she glided across the ballroom floor::::{'ballgown': [10, 10, 200, 250], "dancer's feet": [50, 200, 150, 250], 'ballroom floor': [0, 0, 256, 256]}
+The soft, fluffy clouds drifted lazily across the sky, a natural canvas of endless possibilities and imagination::::{'soft, fluffy clouds-0': [20, 20, 100, 100], 'soft, fluffy clouds-1': [120, 40, 200, 120], 'soft, fluffy clouds-2': [50, 150, 150, 220]}
+The bold, dynamic brushstrokes of the painting created a vibrant explosion of color and movement, a masterpiece of artistic expression::::{'painting': [10, 10, 246, 246]}
+The soft, plush cushions of the movie theater seats welcomed the moviegoers, as they settled in for a night of entertainment::::{'plush cushions-0': [20, 20, 90, 100], 'plush cushions-1': [100, 20, 170, 100], 'plush cushions-2': [180, 20, 250, 100], 'plush cushions-3': [20, 120, 90, 200], 'plush cushions-4': [100, 120, 170, 200], 'plush cushions-5': [180, 120, 250, 200], 'plush cushions-6': [20, 210, 90, 250], 'plush cushions-7': [100, 210, 170, 250], 'plush cushions-8': [180, 210, 250, 250]}
+The smooth, polished surface of the marble statue gleamed in the sunlight, a symbol of timeless beauty and artistry::::{'marble statue': [50, 50, 200, 200]}
+The sharp, angular lines of the modern architecture contrasted with the natural landscape, a melding of human innovation and natural beauty::::{'modern architecture': [0, 0, 127, 255], 'natural landscape': [128, 0, 255, 255]}
+The warm, welcoming glow of the lanterns illuminated the bustling night market, as the vendors hawked their wares and the crowds swarmed::::{lanterns-0': (20, 20, 60, 60),'lanterns-1': (90, 20, 130, 60),'lanterns-2': (160, 20, 200, 60),'vendors-0': (80, 100, 140, 160),'vendors-1': (160, 140, 220, 200),'crowds': (30, 180, 226, 226)}
+The smooth, curved lines of the sculpture flowed effortlessly from one form to the next, a beautiful expression of artistic vision::::{'sculpture-0': [20, 20, 80, 150], 'sculpture-1': [90, 30, 200, 180], 'sculpture-2': [160, 160, 240, 240]}
+The soft, fluffy clouds drifted lazily across the blue sky, a canvas of endless possibilities and imagination::::{'clouds-0': [50, 60, 180, 130], 'sky': [0, 0, 256, 256]}
+The smooth, cool surface of the ice rink was perfect for the graceful figure skater, as she twirled and glided across the ice::::{'ice rink': [0, 0, 256, 256], 'graceful figure skater': [80, 90, 180, 220]}
+The soft, gentle lullaby of the mother's voice calmed the crying baby, a soothing embrace of maternal love::::{'mother': (80, 80, 176, 176),'baby': (100, 100, 156, 156)}
+The soft, plush texture of the teddy bear was a comforting companion for the child at bedtime::::{'teddy bear-0': [50, 50, 150, 200]}
+The jagged, towering cliffs loomed ominously over the rocky shoreline, their sheer faces weathered by centuries of wind and rain::::{'cliffs-0': (40, 40, 216, 216),'shoreline': (0, 220, 256, 256)}
+The bold, dramatic strokes of the painter's brush created a stunning abstract masterpiece, a work of emotional depth and intensity::::{"painter's brush": [15, 15, 125, 240], 'abstract masterpiece': [130, 20, 240, 240]}
+The bold, vibrant colors of the peonies stood out against the lush green foliage, a floral masterpiece of contrast and texture::::{'peonies-0': [50, 50, 120, 200]}
+The sleek, streamlined silhouette of the greyhound was a picture of grace and speed::::{'greyhound': [20, 20, 150, 200]}
+The bold, striking contrast of the black and white photograph captured the essence of the moment, a timeless treasure of memory::::{'black and white photograph-0': [10, 10, 246, 246]}
+The smooth, cool surface of the river rocks were perfect for skipping across the water's surface::::{'river rocks': [1, 1, 250, 200], "water's surface": [1, 201, 250, 256]}
+The jagged, rocky cliffs jutted out from the sea, battered by the crashing waves below::::{'jagged, rocky cliffs-0': [5, 50, 100, 200], 'jagged, rocky cliffs-1': [110, 20, 210, 180], 'sea': [0, 200, 256, 256], 'crashing waves': [0, 180, 256, 256]}
+The sparkling, crystal-clear waters of the lake beckoned to the swimmers, the cool waves lapping at the shore::::{'lake': [0, 0, 256, 256], 'swimmers-0': [50, 50, 100, 100], 'swimmers-1': [150, 50, 200, 100], 'shore': [0, 200, 256, 256]}
+The sharp, steel blades of the chef's knives sliced through the fresh, juicy vegetables with ease, creating a colorful medley of flavors and textures::::{'knife-0': (100, 100, 150, 150),'knife-1': (160, 100, 210, 150),'vegetables': (50, 160, 200, 240)}
+The cool, refreshing breeze blew through the open window, carrying the sweet scent of blooming flowers::::{'breeze-0': [0, 0, 256, 256], 'open window-0': [128, 106, 220, 210], 'blooming flowers-0': [30, 140, 100, 240]}
+The towering, majestic elephants strode through the savanna, their powerful trunks reaching for the leaves of the trees::::{'elephants-0': [50, 30, 206, 224], 'trees-0': [30, 60, 90, 180]}

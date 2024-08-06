@@ -1,0 +1,300 @@
+an oblong cucumber and a teardrop plum::::{'oblong cucumber-0': [20, 20, 120, 220], 'teardrop plum-0': [136, 50, 216, 150]}
+a pentagonal stop sign and a spherical traffic light::::{'pentagonal stop sign': [30, 40, 100, 110], 'spherical traffic light': [150, 30, 180, 80]}
+a cubic ice cube and a spherical ice bucket::::{'cubic ice cube-0': [30, 30, 128, 128], 'spherical ice bucket-0': [140, 50, 240, 150]}
+an oblong eggplant and a teardrop melon::::{'oblong eggplant-0': [20, 20, 130, 220], 'teardrop melon-0': [150, 50, 240, 180]}
+a cubic block and a cylindrical bottle::::{'cubic block-0': [25, 30, 100, 130], 'cylindrical bottle-0': [130, 40, 200, 180]}
+a cubic block and a cylindrical canister::::{'cubic block-0': [30, 30, 120, 120], 'cylindrical canister-0': [140, 140, 220, 220]}
+a diamond pendant and a round locket::::{'diamond pendant': [50, 50, 150, 150], 'round locket': [170, 170, 220, 220]}
+a teardrop pendant and a cubic bracelet charm::::{'teardrop pendant-0': [50, 50, 120, 200], 'cubic bracelet charm-0': [150, 70, 220, 170]}
+a pentagonal speed limit sign and a pyramidal paperweight::::{'pentagonal speed limit sign-0': [25, 30, 150, 200], 'pyramidal paperweight-0': [100, 50, 200, 150]}
+a diamond ring and a pyramidal ring box::::{'diamond ring': [20, 20, 80, 80], 'pyramidal ring box': [100, 100, 200, 200]}
+a diamond brooch and a teardrop bracelet::::{'diamond brooch-0': [20, 20, 80, 80], 'teardrop bracelet-0': [120, 120, 180, 180]}
+a pentagonal postbox and a pyramidal obelisk::::{'pentagonal postbox-0': [50, 50, 150, 200], 'pyramidal obelisk-0': [170, 50, 250, 200]}
+a conical wizard hat and a spherical crystal wand::::{'conical wizard hat-0': [20, 20, 120, 120], 'spherical crystal wand-0': [140, 140, 240, 240]}
+a round muffin and a square napkin::::{'round muffin': [20, 20, 100, 100], 'square napkin': [120, 120, 200, 200]}
+a cylindrical candle and a pentagonal candle holder::::{'cylindrical candle': [20, 20, 70, 150], 'pentagonal candle holder': [100, 100, 200, 200]}
+a round muffin and a square muffin liner::::{'round muffin': [40, 40, 120, 120], 'square muffin liner': [150, 150, 220, 220]}
+a spherical globe and a conical flagpole::::{'spherical globe-0': [50, 50, 150, 150], 'conical flagpole-0': [180, 100, 230, 250]}
+a big bear and a small squirrel::::{'big bear-0': [20, 20, 200, 220], 'small squirrel-0': [210, 170, 240, 200]}
+an oval sink and a rectangular mirror::::{'oval sink-0': [30, 70, 120, 170], 'rectangular mirror-0': [140, 30, 230, 130]}
+an oval mirror and a rectangular painting::::{'oval mirror-0': [30, 30, 120, 200], 'rectangular painting-0': [140, 30, 240, 200]}
+a triangular slice of cheese and a rectangular cheese board::::{'triangular slice of cheese-0': [50, 50, 150, 200], 'rectangular cheese board-0': [160, 50, 250, 200]}
+a small bagel and a rectangular sandwich::::{'small bagel-0': [25, 25, 90, 90], 'rectangular sandwich-0': [110, 40, 220, 180]}
+a tall skyscraper and a short lamppost::::{'tall skyscraper-0': [50, 0, 200, 256], 'short lamppost-0': [210, 100, 230, 150]}
+a teardrop pendant and a triangular chain necklace::::{'teardrop pendant': [30, 30, 85, 150], 'triangular chain necklace': [150, 30, 225, 150]}
+an oblong sweet potato and a teardrop peach::::{'oblong sweet potato': [20, 20, 100, 150], 'teardrop peach': [120, 100, 200, 200]}
+a spherical balloon and a conical party hat::::{'spherical balloon-0': [50, 50, 150, 150], 'conical party hat-0': [170, 50, 250, 150]}
+a pyramidal trophy and a spherical trophy ball::::{'pyramidal trophy': [20, 30, 120, 200], 'spherical trophy ball': [150, 70, 220, 150]}
+an oblong squash and a teardrop plum::::{'oblong squash-0': [20, 20, 120, 80], 'teardrop plum-0': [140, 140, 220, 220]}
+a tall skyscraper and a short street lamp::::{'skyscraper-0': [10, 10, 246, 256], 'street lamp-0': [200, 10, 220, 30]}
+a spherical baseball and a conical baseball cap::::{'spherical baseball-0': [50, 50, 150, 150], 'conical baseball cap-0': [180, 70, 230, 130]}
+an oval coffee table and a rectangular rug::::{'oval coffee table-0': [20, 150, 236, 240], 'rectangular rug-0': [50, 50, 200, 140]}
+a round cookie and a square container::::{'round cookie-0': [50, 50, 150, 150], 'square container-0': [100, 100, 200, 200]}
+a diamond engagement ring and a round pendant::::{'diamond engagement ring-0': [30, 30, 120, 120], 'round pendant-0': [140, 140, 230, 230]}
+an oval bathtub and a square shower curtain::::{'oval bathtub-0': [30, 30, 180, 200], 'square shower curtain-0': [200, 30, 250, 180]}
+an oblong acorn squash and a teardrop apricot::::{'oblong acorn squash-0': [50, 50, 150, 180], 'teardrop apricot-0': [80, 200, 140, 240]}
+an oblong pear and a teardrop melon::::{'oblong pear-0': [50, 50, 150, 180], 'teardrop melon-0': [180, 40, 250, 120]}
+a tall skyscraper and a short cabin::::{'tall skyscraper-0': [30, 30, 226, 256], 'short cabin-0': [50, 0, 170, 100]}
+a round bag and a square box::::{'round bag-0': [20, 20, 100, 100], 'square box-0': [130, 50, 210, 130]}
+a spherical ball and a conical party hat::::{'spherical ball-0': [20, 20, 80, 80], 'conical party hat-0': [100, 100, 200, 200]}
+a long snake and a short tree::::{'long snake-0': [20, 20, 200, 40], 'short tree-0': [50, 60, 80, 140]}
+a tall basketball player and a small hat::::{'tall basketball player-0': [25, 30, 230, 208], 'small hat-0': [240, 50, 256, 70]}
+a square book and a cylindrical pencil::::{'square book-0': [20, 20, 120, 120], 'cylindrical pencil-0': [140, 140, 230, 220]}
+a cubic block and a cylindrical container of hand cream::::{'cubic block-0': [50, 20, 125, 95], 'cylindrical container of hand cream-0': [150, 110, 225, 190]}
+a cubic block and a triangular building set::::{'cubic block-0': [50, 50, 150, 150], 'triangular building set-0': [170, 50, 250, 150]}
+a diamond pendant and a round bracelet::::{'diamond pendant-0': [20, 20, 100, 150], 'round bracelet-0': [130, 20, 240, 150]}
+an oval sink and a rectangular soap dispenser::::{'oval sink-0': [30, 30, 100, 150], 'rectangular soap dispenser-0': [130, 40, 200, 140]}
+an oblong squash and a teardrop strawberry::::{'oblong squash-0': [50, 50, 150, 150], 'teardrop strawberry-0': [170, 170, 230, 230]}
+a rectangular laptop and a teardrop laptop bag::::{'rectangular laptop': [20, 20, 120, 150], 'teardrop laptop bag': [140, 40, 200, 120]}
+an oblong carrot and a teardrop plum::::{'oblong carrot-0': [50, 50, 120, 180], 'teardrop plum-0': [140, 60, 220, 160]}
+a big hippopotamus and a small rabbit::::{'big hippopotamus-0': [25, 25, 180, 200], 'small rabbit-0': [76, 50, 120, 100]}
+a cylindrical vase and a triangular flower arrangement::::{'cylindrical vase-0': [20, 40, 80, 180], 'triangular flower arrangement-0': [100, 60, 200, 180]}
+a spherical ornament and a triangular tree topper::::{'spherical ornament-0': [50, 50, 100, 100], 'triangular tree topper-0': [150, 50, 200, 100]}
+a conical Christmas tree and a pentagonal tree skirt::::{'conical Christmas tree-0': [50, 30, 206, 228], 'pentagonal tree skirt-0': [20, 200, 230, 250]}
+a round bagel and a square toaster::::{'round bagel': [30, 30, 120, 120], 'square toaster': [140, 40, 220, 120]}
+a big hippopotamus and a small mouse::::{'big hippopotamus-0': [50, 50, 200, 200], 'small mouse-0': [100, 100, 150, 150]}
+a big lion and a small mouse::::{'big lion-0': [20, 20, 150, 200], 'small mouse-0': [160, 50, 200, 90]}
+a tall sunflower and a short daisy::::{'tall sunflower-0': [40, 20, 160, 240], 'short daisy-0': [170, 100, 240, 220]}
+a spherical basketball and a conical referee hat::::{'spherical basketball-0': [40, 40, 150, 150], 'conical referee hat-0': [180, 180, 250, 250]}
+a circular rug and a triangular coffee table::::{'circular rug-0': [25, 25, 180, 180], 'triangular coffee table-0': [50, 190, 150, 250]}
+a pyramidal paperweight and a pentagonal paperclip holder::::{'pyramidal paperweight': [20, 20, 100, 100], 'pentagonal paperclip holder': [140, 40, 220, 120]}
+a cubic box and a pyramidal paperweight::::{'cubic box-0': [50, 50, 150, 150], 'pyramidal paperweight-0': [160, 80, 230, 180]}
+an oblong zucchini and a teardrop plum::::{'oblong zucchini-0': [50, 50, 150, 200], 'teardrop plum-0': [170, 50, 220, 150]}
+a cubic block and a cylindrical flashlight::::{'cubic block-0': [30, 30, 130, 130], 'cylindrical flashlight-0': [150, 50, 230, 150]}
+a pentagonal yield sign and a pyramidal book stand::::{'pentagonal yield sign-0': [25, 30, 125, 230], 'pyramidal book stand-0': [130, 40, 230, 200]}
+an oblong potato and a teardrop mango::::{'oblong potato-0': [40, 55, 120, 170], 'teardrop mango-0': [140, 60, 250, 150]}
+a round basketball and a cylindrical water bottle::::{'basketball-0': [40, 60, 100, 120], 'water bottle-0': [140, 140, 190, 220]}
+a rectangular mirror and a spherical magnifying glass::::{'rectangular mirror-0': [20, 20, 100, 150], 'spherical magnifying glass-0': [120, 50, 180, 110]}
+an oblong zucchini and a teardrop cherry::::{'oblong zucchini-0': [20, 20, 100, 200], 'teardrop cherry-0': [140, 50, 200, 130]}
+a tall palm tree and a short cactus::::{'tall palm tree-0': [10, 10, 50, 220], 'short cactus-0': [200, 30, 240, 120]}
+a diamond bracelet and a rectangular watch::::{'diamond bracelet-0': [50, 50, 120, 120], 'rectangular watch-0': [150, 150, 220, 220]}
+a pentagonal medal and a pyramidal trophy::::{'pentagonal medal-0': [20, 20, 100, 120], 'pyramidal trophy-0': [130, 140, 220, 250]}
+a round bagel and a rectangular sandwich press::::{'round bagel-0': [30, 30, 100, 100], 'rectangular sandwich press-0': [130, 60, 220, 180]}
+a small block and a cylindrical soda can::::{'small block-0': [50, 50, 100, 100], 'cylindrical soda can-0': [150, 150, 200, 220]}
+a cubic block and a cylindrical paper towel roll::::{'cubic block-0': [25, 25, 100, 100], 'cylindrical paper towel roll-0': [130, 25, 230, 180]}
+a pyramidal candle and a diamond candlestick holder::::{'pyramidal candle-0': [40, 70, 100, 180], 'diamond candlestick holder-0': [120, 60, 200, 150]}
+a tall skyscraper and a short cottage::::{'skyscraper-0': [20, 10, 100, 200], 'cottage-0': [140, 50, 200, 150]}
+a tall oak tree and a short sapling::::{'tall oak tree-0': [20, 20, 100, 256], 'short sapling-0': [140, 40, 200, 150]}
+a pentagonal pencil sharpener and a cylindrical eraser::::{'pentagonal pencil sharpener': [20, 20, 80, 120], 'cylindrical eraser': [100, 40, 180, 140]}
+a round pizza and a rectangular piece of lasagna::::{'round pizza-0': [20, 20, 175, 175], 'rectangular piece of lasagna-0': [80, 200, 220, 250]}
+a pyramidal candle holder and a conical candle::::{'pyramidal candle holder-0': [20, 20, 100, 150], 'conical candle-0': [130, 60, 200, 160]}
+an oblong sweet potato and a teardrop blueberry::::{'oblong sweet potato': [20, 20, 120, 150], 'teardrop blueberry': [140, 100, 190, 180]}
+a big gorilla and a small mouse::::{'big gorilla-0': [20, 20, 200, 220], 'small mouse-0': [220, 200, 250, 230]}
+a round cookie and a square tin::::{'round cookie-0': [50, 50, 150, 150], 'square tin-0': [100, 100, 200, 200]}
+a pentagonal caution sign and a pyramidal vase::::{'pentagonal caution sign-0': [20, 20, 100, 100], 'pyramidal vase-0': [150, 50, 250, 200]}
+a spherical soccer ball and a diamond soccer goal::::{'spherical soccer ball-0': [20, 20, 70, 70], 'diamond soccer goal-0': [150, 100, 230, 200]}
+a rectangular computer and a teardrop pendant::::{'rectangular computer-0': [10, 10, 100, 150], 'teardrop pendant-0': [120, 50, 170, 100]}
+an oval picture frame and a rectangular painting::::{'oval picture frame-0': [20, 20, 100, 200], 'rectangular painting-0': [120, 50, 230, 180]}
+a pentagonal pencil and a teardrop pencil sharpener::::{'pentagonal pencil-0': [30, 30, 200, 226], 'teardrop pencil sharpener-0': [210, 50, 250, 100]}
+a teardrop pendant and a pentagonal charm bracelet::::{'teardrop pendant-0': [30, 30, 100, 200], 'pentagonal charm bracelet-0': [150, 50, 240, 180]}
+a cubic box and a cylindrical bottle of lotion::::{'cubic box-0': [30, 30, 120, 120], 'cylindrical bottle of lotion-0': [140, 30, 220, 150]}
+a big tiger and a small kitten::::{'big tiger-0': [30, 30, 150, 200], 'small kitten-0': [170, 50, 230, 150]}
+a pentagonal road sign and a pyramidal bookshelf::::{'pentagonal road sign': [20, 20, 100, 100], 'pyramidal bookshelf': [140, 40, 240, 180]}
+a small rug and a triangular end table::::{'small rug-0': [20, 180, 120, 220], 'triangular end table-0': [140, 190, 230, 240]}
+a teardrop pendant and a spherical bead necklace::::{'teardrop pendant-0': [25, 25, 95, 95], 'spherical bead necklace-0': [160, 60, 240, 180]}
+a round bagel and a square piece of toast::::{'round bagel-0': [30, 30, 145, 145], 'square piece of toast-0': [150, 150, 250, 250]}
+a big elephant and a small cricket::::{'big elephant-0': [20, 20, 180, 220], 'small cricket-0': [200, 50, 220, 70]}
+a cubic ice cube and a cylindrical water bottle::::{'cubic ice cube-0': [30, 30, 90, 90], 'cylindrical water bottle-0': [130, 130, 200, 230]}
+a pentagonal clock and a conical clock face::::{'pentagonal clock-0': [30, 30, 150, 200], 'conical clock face-0': [180, 50, 250, 150]}
+an oblong watermelon and a teardrop pear::::{'oblong watermelon-0': [10, 10, 80, 150], 'teardrop pear-0': [100, 50, 150, 120]}
+a pyramidal paperweight and a conical pen holder::::{'pyramidal paperweight': [20, 20, 100, 150], 'conical pen holder': [130, 80, 200, 200]}
+a big whale and a small dolphin::::{'big whale-0': [20, 20, 200, 200], 'small dolphin-0': [40, 220, 120, 250]}
+a rectangular television and a teardrop remote control::::{'rectangular television-0': [20, 20, 180, 140], 'teardrop remote control-0': [200, 60, 240, 110]}
+an oblong carrot and a teardrop peach::::{'oblong carrot-0': [50, 50, 150, 150], 'teardrop peach-0': [160, 160, 220, 220]}
+a round bagel and a rectangular bacon strip::::{'round bagel-0': [25, 30, 110, 110], 'rectangular bacon strip-0': [130, 40, 220, 100]}
+a pyramidal tomb and a spherical urn::::{'pyramidal tomb-0': [20, 20, 120, 150], 'spherical urn-0': [140, 80, 200, 160]}
+a round bagel and a rectangular piece of toast::::{'round bagel': [20, 40, 120, 140], 'rectangular piece of toast': [140, 30, 240, 120]}
+a pentagonal badge and a pyramidal crystal::::{'pentagonal badge-0': [20, 20, 100, 100], 'pyramidal crystal-0': [130, 130, 200, 200]}
+a spherical snowball and a conical snowman hat::::{'spherical snowball-0': [50, 50, 100, 100], 'conical snowman hat-0': [110, 10, 170, 70]}
+an oval picture frame and a square painting::::{'oval picture frame-0': [30, 30, 160, 200], 'square painting-0': [60, 60, 190, 190]}
+a long bridge and a short fence::::{'long bridge-0': [10, 100, 246, 120], 'short fence-0': [30, 130, 70, 200]}
+a triangular slice of pizza and a pentagonal pizza box::::{'triangular slice of pizza-0': [40, 50, 160, 220], 'pentagonal pizza box-0': [70, 10, 200, 70]}
+a diamond tiara and a round brooch::::{'diamond tiara-0': [30, 30, 150, 150], 'round brooch-0': [160, 160, 230, 230]}
+a circular pendant light and a triangular corner shelf::::{'circular pendant light-0': [20, 20, 120, 120], 'triangular corner shelf-0': [170, 150, 250, 250]}
+a spherical snowball and a conical party hat::::{'spherical snowball-0': [50, 50, 150, 150], 'conical party hat-0': [180, 30, 240, 120]}
+a big bear and a small rabbit::::{'big bear': [30, 30, 150, 200], 'small rabbit': [170, 50, 210, 120]}
+a pentagonal star and a crescent moon::::{'pentagonal star-0': [50, 50, 200, 200], 'crescent moon-0': [100, 100, 250, 250]}
+a cubic block and a cylindrical toothpaste tube::::{'cubic block-0': [10, 10, 100, 100], 'cylindrical toothpaste tube-0': [120, 50, 200, 180]}
+a pyramidal trophy and a spherical trophy stand::::{'pyramidal trophy-0': [25, 25, 125, 175], 'spherical trophy stand-0': [131, 25, 231, 175]}
+a round bagel and a rectangular breakfast sandwich::::{'bagel-0': [50, 50, 150, 150], 'breakfast sandwich-0': [100, 100, 220, 200]}
+a pentagonal traffic sign and a pyramidal paper clip holder::::{'pentagonal traffic sign': [20, 20, 100, 100], 'pyramidal paper clip holder': [120, 120, 200, 200]}
+a big elephant and a small dog::::{'big elephant': [20, 20, 150, 220], 'small dog': [180, 80, 230, 140]}
+a cubic box and a conical party hat::::{'cubic box-0': [25, 30, 110, 180], 'conical party hat-0': [130, 40, 210, 120]}
+a spherical tennis ball and a conical tennis shoe::::{'spherical tennis ball-0': [30, 30, 90, 90], 'conical tennis shoe-0': [120, 120, 200, 220]}
+a pentagonal parking sign and a pyramidal trophy::::{'pentagonal parking sign-0': [30, 30, 120, 220], 'pyramidal trophy-0': [140, 40, 240, 200]}
+a pyramidal bookend and a conical bookstand::::{'pyramidal bookend-0': [50, 30, 120, 180], 'conical bookstand-0': [130, 50, 200, 200]}
+a spherical snow globe and an oblong frame::::{'spherical snow globe-0': [25, 25, 125, 125], 'oblong frame-0': [131, 25, 256, 150]}
+a cubic block and a cylindrical container of markers::::{'cubic block-0': [20, 20, 100, 100], 'cylindrical container-0': [150, 50, 240, 150]}
+a circular dining table and a triangular table runner::::{'circular dining table-0': [30, 30, 226, 226], 'triangular table runner-0': [100, 100, 180, 160]}
+a circular mirror and a triangular shelf unit::::{'circular mirror-0': [25, 25, 125, 125], 'triangular shelf unit-0': [150, 50, 250, 200]}
+a cubic block and a cylindrical tube of toothpaste::::{'cubic block': [40, 40, 120, 120], 'cylindrical tube of toothpaste': [150, 150, 220, 220]}
+an oblong potato and a teardrop grapefruit::::{'oblong potato-0': [50, 50, 150, 120], 'teardrop grapefruit-0': [170, 140, 250, 220]}
+a triangular slice of pizza and a pyramidal pizza box::::{'triangular slice of pizza': [20, 20, 110, 180], 'pyramidal pizza box': [130, 30, 230, 150]}
+a cubic block and a pyramidal puzzle box::::{'cubic block-0': [50, 50, 150, 150], 'pyramidal puzzle box-0': [170, 170, 250, 250]}
+a conical lampshade and a cubic lamp base::::{'conical lampshade': [40, 20, 160, 100], 'cubic lamp base': [100, 120, 200, 200]}
+a round pizza and a square pizza box::::{'round pizza-0': [20, 20, 120, 120], 'square pizza box-0': [130, 130, 230, 230]}
+a pentagonal yield sign and a pyramidal salt shaker::::{'pentagonal yield sign': [40, 40, 160, 160], 'pyramidal salt shaker': [100, 180, 200, 256]}
+an oblong squash and a teardrop nectarine::::{'oblong squash-0': [25, 25, 150, 200], 'teardrop nectarine-0': [175, 50, 250, 150]}
+a cubic dice and a triangular game piece::::{'cubic dice-0': [20, 20, 122, 122], 'triangular game piece-0': [140, 140, 236, 236]}
+a circular pendant light and a triangular wall hook::::{'circular pendant light-0': [50, 50, 150, 150], 'triangular wall hook-0': [200, 200, 250, 250]}
+a small bathtub and a rectangular bath mat::::{'small bathtub-0': [20, 20, 120, 100], 'rectangular bath mat-0': [140, 140, 250, 200]}
+a cubic book and a cylindrical can of soup::::{'cubic book-0': [20, 20, 100, 100], 'cylindrical can of soup-0': [150, 50, 220, 150]}
+a pentagonal pencil sharpener and a spherical pencil eraser::::{'pentagonal pencil sharpener-0': [30, 30, 100, 100], 'spherical pencil eraser-0': [150, 150, 200, 200]}
+a circular mirror and a triangular corner shelf::::{'circular mirror': [20, 20, 100, 100], 'triangular corner shelf': [150, 150, 250, 250]}
+a triangular slice of pie and a rectangular pie dish::::{'triangular slice of pie': [20, 30, 150, 200], 'rectangular pie dish': [100, 100, 220, 180]}
+a cubic block and a cylindrical bottle of water::::{'cubic block-0': [30, 30, 128, 128], 'cylindrical bottle-0': [170, 60, 230, 180]}
+a tall basketball player and a short jockey::::{'basketball player-0': [20, 20, 118, 256], 'jockey-0': [138, 30, 236, 120]}
+a teardrop pendant and a pyramidal gemstone::::{'teardrop pendant-0': [20, 20, 100, 150], 'pyramidal gemstone-0': [140, 50, 220, 180]}
+a big hippopotamus and a small cat::::{'big hippopotamus-0': [30, 30, 180, 200], 'small cat-0': [50, 50, 100, 120]}
+a circular clock and a triangular wall shelf::::{'circular clock': [20, 20, 100, 100], 'triangular wall shelf': [150, 120, 230, 230]}
+a tall lighthouse and a short bench::::{'tall lighthouse-0': [50, 30, 200, 240], 'short bench-0': [20, 200, 120, 250]}
+a round bagel and a square toaster::::{'round bagel-0': [50, 50, 150, 150], 'square toaster-0': [100, 100, 200, 200]}
+a circular clock and a triangular wall art::::{'circular clock-0': [50, 50, 150, 150], 'triangular wall art-0': [170, 170, 250, 250]}
+a pyramidal puzzle box and a cubic puzzle piece::::{'pyramidal puzzle box-0': [50, 50, 150, 150], 'cubic puzzle piece-0': [180, 180, 230, 230]}
+an oblong squash and a teardrop apricot::::{'oblong squash-0': [20, 20, 130, 200], 'teardrop apricot-0': [150, 40, 220, 120]}
+a spherical globe and a conical pencil::::{'spherical globe-0': [30, 30, 130, 130], 'conical pencil-0': [150, 80, 220, 220]}
+an oblong cucumber and a teardrop kiwi::::{'oblong cucumber': [20, 20, 100, 150], 'teardrop kiwi': [120, 50, 190, 130]}
+a spherical beach ball and a conical party hat::::{'spherical beach ball-0': [50, 50, 150, 150], 'conical party hat-0': [170, 50, 250, 150]}
+an oval rug and a square coffee table::::{'oval rug-0': [25, 25, 200, 150], 'square coffee table-0': [20, 160, 150, 240]}
+a diamond engagement ring and a teardrop necklace::::{'diamond engagement ring': [40, 60, 110, 130], 'teardrop necklace': [140, 160, 190, 210]}
+an oblong carrot and a teardrop grape::::{'carrot-0': [60, 40, 160, 150], 'grape-0': [180, 60, 230, 130]}
+a spherical soccer ball and a conical traffic cone::::{'spherical soccer ball-0': [30, 30, 100, 100], 'conical traffic cone-0': [160, 160, 240, 240]}
+a tall skyscraper and a short bush::::{'tall skyscraper-0': [50, 10, 200, 250], 'short bush-0': [210, 100, 240, 150]}
+a small stop sign and a pyramidal paperweight::::{'small stop sign-0': [50, 50, 100, 100], 'pyramidal paperweight-0': [150, 150, 200, 200]}
+a cubic block and a cylindrical jar of honey::::{'cubic block-0': [40, 40, 160, 160], 'cylindrical jar of honey-0': [200, 40, 240, 120]}
+a round pizza and a rectangular slice of bread::::{'round pizza-0': [30, 30, 170, 170], 'rectangular slice of bread-0': [180, 30, 250, 120]}
+a round bagel and a rectangular toaster::::{'round bagel-0': [50, 50, 120, 120], 'rectangular toaster-0': [130, 50, 230, 180]}
+a rectangular table and a pentagonal tablecloth::::{'rectangular table': [20, 20, 120, 100], 'pentagonal tablecloth': [90, 90, 200, 200]}
+a tall palm tree and a short shrub::::{'palm tree-0': [30, 30, 80, 250], 'shrub-0': [150, 100, 200, 200]}
+a big pig and a small mouse::::{'big pig': [20, 20, 120, 200], 'small mouse': [140, 50, 180, 110]}
+an oblong squash and a teardrop peach::::{'oblong squash-0': [30, 30, 190, 220], 'teardrop peach-0': [210, 50, 250, 110]}
+a pentagonal stop sign and a pyramidal monument::::{'pentagonal stop sign-0': [20, 20, 100, 100], 'pyramidal monument-0': [130, 120, 230, 220]}
+a small eraser and a cylindrical pen::::{'small eraser-0': [40, 40, 80, 80], 'cylindrical pen-0': [120, 120, 180, 220]}
+a spherical globe and a conical pencil sharpener::::{'spherical globe-0': [50, 50, 150, 150], 'conical pencil sharpener-0': [170, 50, 230, 150]}
+a pyramidal trophy and a pentagonal trophy base::::{'pyramidal trophy': [20, 30, 120, 180], 'pentagonal trophy base': [130, 50, 230, 100]}
+an oval bathtub and a rectangular soap dish::::{'oval bathtub-0': [50, 50, 206, 206], 'rectangular soap dish-0': [140, 140, 200, 200]}
+a rectangular wallet and a spherical coin purse::::{'rectangular wallet-0': [30, 30, 120, 150], 'spherical coin purse-0': [150, 30, 220, 130]}
+a pentagonal badge and a pyramidal monument::::{'pentagonal badge': [20, 20, 100, 120], 'pyramidal monument': [130, 40, 230, 190]}
+a tall tree and a short bush::::{'tall tree-0': [10, 10, 80, 256], 'short bush-0': [180, 50, 240, 150]}
+a cubic dice and a cylindrical pencil holder::::{'cubic dice-0': [30, 30, 120, 120], 'cylindrical pencil holder-0': [140, 140, 230, 230]}
+a pentagonal street sign and a pyramidal pyramid::::{'pentagonal street sign-0': [50, 50, 150, 150], 'pyramidal pyramid-0': [100, 100, 200, 200]}
+a pyramidal mountain and a conical volcano::::{'pyramidal mountain': [10, 10, 100, 150], 'conical volcano': [150, 50, 220, 160]}
+a diamond ring and a round necklace::::{'diamond ring-0': [50, 50, 150, 150], 'round necklace-0': [170, 50, 250, 150]}
+a pentagonal badge and a pyramidal award statue::::{'pentagonal badge-0': [20, 20, 100, 100], 'pyramidal award statue-0': [120, 120, 200, 220]}
+a spherical golf ball and a conical tee::::{'golf ball-0': [100, 100, 140, 140], 'tee-0': [130, 180, 150, 220]}
+a tall oak tree and a short blade of grass::::{'tall oak tree-0': [10, 10, 80, 256], 'short blade of grass-0': [180, 200, 200, 220]}
+a rectangular table and a round lamp::::{'rectangular table-0': [30, 90, 200, 180], 'round lamp-0': [220, 30, 250, 60]}
+an oval platter and a rectangular tablecloth::::{'oval platter': [20, 20, 100, 100], 'rectangular tablecloth': [120, 120, 240, 200]}
+a teardrop pendant and a diamond brooch pin::::{'teardrop pendant': [20, 20, 100, 150], 'diamond brooch pin': [120, 100, 200, 200]}
+a round doughnut and a square napkin::::{'round doughnut': [20, 20, 100, 100], 'square napkin': [120, 120, 200, 200]}
+a diamond cufflink and a spherical shirt button::::{'diamond cufflink': [20, 20, 80, 80], 'spherical shirt button': [100, 100, 160, 160]}
+a cubic dice and a cylindrical salt shaker::::{'cubic dice-0': [30, 30, 130, 130], 'cylindrical salt shaker-0': [160, 160, 230, 230]}
+an oblong eggplant and a teardrop fig::::{'oblong eggplant': [20, 20, 80, 150], 'teardrop fig': [100, 50, 160, 180]}
+a pentagonal stop sign and a pyramidal sculpture::::{'pentagonal stop sign-0': [50, 50, 150, 150], 'pyramidal sculpture-0': [100, 160, 200, 260]}
+a circular clock and a triangular shelf::::{'circular clock-0': [25, 25, 125, 125], 'triangular shelf-0': [130, 130, 230, 230]}
+a round watermelon and a square cutting board::::{'round watermelon-0': [20, 20, 150, 150], 'square cutting board-0': [100, 180, 220, 220]}
+a circular clock and a triangular bookshelf::::{'circular clock-0': [25, 30, 103, 103], 'triangular bookshelf-0': [150, 30, 250, 200]}
+a big whale and a small shrimp::::{'big whale-0': [20, 20, 200, 200], 'small shrimp-0': [210, 210, 230, 230]}
+an oval picture and a rectangular frame::::{'oval picture-0': [25, 25, 150, 200], 'rectangular frame-0': [100, 50, 225, 200]}
+an oval dining table and a square dining chair::::{'oval dining table-0': [40, 30, 216, 140], 'square dining chair-0': [50, 160, 120, 230]}
+a cubic die and a cylindrical flashlight::::{'cubic die-0': [50, 50, 150, 150], 'cylindrical flashlight-0': [180, 70, 240, 150]}
+a triangular slice of bread and a rectangular bread basket::::{'triangular slice of bread-0': [20, 20, 100, 180], 'rectangular bread basket-0': [120, 40, 220, 200]}
+a pentagonal toolbox and a spherical toolset::::{'pentagonal toolbox-0': [20, 20, 120, 200], 'spherical toolset-0': [140, 40, 240, 220]}
+a small key and a big door::::{'small key-0': [30, 30, 75, 75], 'big door-0': [150, 50, 250, 220]}
+an oval coffee table and a square end table::::{'oval coffee table-0': [20, 20, 180, 150], 'square end table-0': [200, 50, 250, 100]}
+a round balloon and a rectangular party invitation::::{'round balloon-0': [25, 30, 90, 130], 'rectangular party invitation-0': [120, 30, 220, 130]}
+a spherical crystal and a pyramidal crystal holder::::{'spherical crystal': [20, 20, 100, 100], 'pyramidal crystal holder': [140, 60, 220, 180]}
+a cubic box of chocolates and a teardrop chocolate truffle::::{'cubic box of chocolates': [20, 20, 100, 120], 'teardrop chocolate truffle': [130, 40, 180, 90]}
+a pentagonal desk and a diamond desk organizer::::{'pentagonal desk-0': [20, 20, 100, 150], 'diamond desk organizer-0': [120, 50, 200, 120]}
+a big mountain and a small tree::::{'big mountain-0': [20, 20, 200, 150], 'small tree-0': [210, 160, 240, 200]}
+an oval table and a square placemat::::{'oval table-0': [20, 20, 180, 200], 'square placemat-0': [100, 100, 150, 150]}
+a pentagonal chocolate box and a spherical chocolate truffle::::{'pentagonal chocolate box-0': [50, 50, 150, 150], 'spherical chocolate truffle-0': [170, 170, 220, 220]}
+a circular ceiling light and a triangular bookshelf::::{'circular ceiling light-0': [50, 50, 100, 100], 'triangular bookshelf-0': [150, 50, 250, 200]}
+a spherical bowling ball and a conical bowling pin::::{'spherical bowling ball-0': [20, 20, 70, 70], 'conical bowling pin-0': [120, 120, 190, 250]}
+a big gorilla and a small monkey::::{'big gorilla-0': [50, 50, 200, 200], 'small monkey-0': [210, 210, 250, 250]}
+a short book and a long bookmark::::{'short book-0': [25, 30, 103, 80], 'long bookmark-0': [110, 30, 230, 80]}
+a small keychain and a big set of keys::::{'small keychain-0': [20, 30, 60, 80], 'big set of keys-0': [150, 50, 230, 200]}
+a pyramidal gift box and a cubic gift wrap::::{'pyramidal gift box-0': [10, 10, 80, 80], 'cubic gift wrap-0': [100, 100, 200, 200]}
+a cubic Rubik's cube and a pentagonal game box::::{"cubic Rubik's cube": [20, 20, 100, 100], 'pentagonal game box': [120, 120, 220, 220]}
+a big sunflower and a small daisy::::{'big sunflower-0': [30, 30, 180, 230], 'small daisy-0': [190, 40, 240, 90]}
+a cubic Rubik's cube and a cylindrical pencil holder::::{"cubic Rubik's cube-0": [20, 40, 110, 150], 'cylindrical pencil holder-0': [130, 40, 220, 150]}
+a pentagonal handbag and a spherical keychain charm::::{'pentagonal handbag-0': [30, 30, 170, 220], 'spherical keychain charm-0': [190, 50, 230, 90]}
+a big truck and a small car::::{'big truck': [10, 10, 150, 200], 'small car': [100, 50, 160, 110]}
+a long necklace and a short earring::::{'long necklace-0': [20, 20, 120, 200], 'short earring-0': [140, 40, 180, 80]}
+an oval coffee table and a square ottoman::::{'oval coffee table-0': [25, 25, 150, 100], 'square ottoman-0': [100, 150, 225, 225]}
+a rectangular phone and a teardrop phone charm::::{'rectangular phone-0': [30, 30, 150, 220], 'teardrop phone charm-0': [180, 60, 220, 100]}
+a small cup and a big saucer::::{'small cup': [50, 50, 100, 100], 'big saucer': [120, 120, 200, 200]}
+a small pebble and a big rock::::{'small pebble-0': [50, 50, 70, 70], 'big rock-0': [150, 150, 200, 200]}
+a cubic sugar cube and a cylindrical salt shaker::::{'cubic sugar cube-0': [30, 30, 120, 120], 'cylindrical salt shaker-0': [150, 50, 230, 170]}
+a small button and a big zipper::::{'small button': [20, 20, 60, 60], 'big zipper': [100, 100, 200, 200]}
+a spherical balloon and a rectangular banner::::{'spherical balloon-0': [20, 20, 80, 80], 'rectangular banner-0': [150, 40, 230, 120]}
+a big balloon and a small marble::::{'big balloon-0': [50, 50, 200, 200], 'small marble-0': [220, 220, 240, 240]}
+a diamond wine glass and a cylindrical wine bottle::::{'diamond wine glass-0': [30, 30, 120, 180], 'cylindrical wine bottle-0': [140, 50, 220, 200]}
+a round peach and a rectangular bar of soap::::{'round peach-0': [50, 50, 100, 100], 'rectangular bar of soap-0': [150, 150, 200, 200]}
+a triangular slice of bread and a cylindrical loaf::::{'triangular slice of bread-0': [20, 20, 120, 150], 'cylindrical loaf-0': [140, 50, 220, 200]}
+an oblong potato and a teardrop plum::::{'oblong potato-0': [50, 50, 150, 100], 'teardrop plum-0': [170, 130, 210, 180]}
+an oval pizza and a round pizza cutter::::{'oval pizza': [30, 30, 175, 200], 'round pizza cutter': [200, 100, 230, 150]}
+a triangular sign and a small sculpture::::{'triangular sign-0': [50, 50, 150, 200], 'small sculpture-0': [170, 50, 220, 150]}
+an big bathtub and a square showerhead::::{'big bathtub': [20, 20, 150, 200], 'square showerhead': [170, 20, 230, 80]}
+a small lion and a big horse::::{'small lion-0': [10, 20, 80, 120], 'big horse-0': [100, 50, 220, 200]}
+a round cinnamon roll and a round toaster pastry::::{'round cinnamon roll': [30, 30, 120, 120], 'round toaster pastry': [130, 130, 220, 220]}
+The cylindrical water bottle with its square lid and conical base kept hikers hydrated on the triangular trail::::{'cylindrical water bottle': [10, 50, 80, 180], 'square lid': [15, 20, 35, 40], 'conical base': [20, 190, 70, 240], 'hikers': [120, 30, 180, 90], 'triangular trail': [90, 100, 200, 250]}
+The rectangular mirror with its oval reflection and oblong frame hung in the round bathroom::::{'rectangular mirror-0': [70, 60, 190, 150], 'oval reflection-0': [95, 90, 165, 120], 'oblong frame-0': [60, 50, 200, 160], 'round bathroom-0': [10, 10, 230, 230]}
+The teardrop earrings with their triangular studs and spherical pearls sparkled in the diamond jewelry box::::{'teardrop earrings': [20, 20, 100, 100], 'triangular studs': [110, 20, 150, 60], 'spherical pearls': [160, 20, 200, 60], 'diamond jewelry box': [120, 120, 220, 220]}
+The cubic bookshelf with its cylindrical legs and rectangular shelves held books in the oblong study::::{'cubic bookshelf': [40, 40, 160, 160], 'cylindrical legs': [30, 180, 50, 220], 'rectangular shelves': [60, 60, 140, 140], 'books': [70, 70, 130, 130], 'oblong study': [0, 0, 256, 256]}
+The triangular sail with its pentagonal stitching and oblong boom propelled the circular boat on the ocean::::{'triangular sail': [50, 50, 150, 150], 'pentagonal stitching': [85, 85, 115, 115], 'oblong boom': [10, 80, 40, 120], 'circular boat': [10, 10, 250, 250]}
+The crescent sofa with its square cushions and oval back provided seating in the triangular living room::::{'crescent sofa': [50, 50, 200, 150], 'square cushions': [60, 65, 90, 95], 'oval back': [150, 55, 180, 95], 'triangular living room': [0, 0, 256, 256]}
+The oblong vase with its diamond pattern and circular mouth displayed flowers in the conical corner of the room::::{'oblong vase-0': [10, 10, 90, 180], 'flowers-0': [130, 10, 220, 100]}
+The pyramidal pyramid with its triangular base and rectangular entrance attracted tourists to the square desert::::{'pyramidal pyramid': [10, 10, 100, 200], 'triangular base': [5, 200, 105, 250], 'rectangular entrance': [100, 50, 150, 100]}
+The circular steering wheel with its triangular spokes and oblong rim controlled the conical car on the pentagonal road::::{'circular steering wheel': [20, 20, 70, 70], 'triangular spokes': [35, 5, 55, 25], 'oblong rim': [20, 60, 70, 80], 'conical car': [120, 120, 190, 190], 'pentagonal road': [50, 200, 200, 250]}
+The conical ice cream cone with its spherical scoop and triangular cone held a tasty treat in the diamond park::::{'conical ice cream cone': [60, 100, 200, 220], 'spherical scoop': [125, 50, 175, 100], 'triangular cone': [75, 130, 175, 220], 'diamond park': [0, 0, 256, 256]}
+A long rectangular table and a small circular vase were placed in the center of the room::::{'long rectangular table-0': [50, 50, 200, 150], 'small circular vase-0': [100, 100, 150, 150]}
+The cylindrical tower and the spherical dome stood tall against the skyline::::{'cylindrical tower': [20, 20, 120, 200], 'spherical dome': [136, 50, 236, 200]}
+The triangular wedge and the oblong brick were the only pieces left in the construction set::::{'triangular wedge-0': [20, 20, 100, 110], 'oblong brick-0': [130, 130, 230, 190]}
+The round knob and the square plate were attached to the door::::{'round knob': [30, 100, 70, 140], 'square plate': [80, 100, 120, 140]}
+The teardrop pendant and the diamond-studded bracelet were her favorite pieces of jewelry::::{'teardrop pendant': [20, 20, 100, 100], 'diamond-studded bracelet': [120, 120, 200, 200]}
+The conical hat and the crescent moon were the only things visible in the night sky::::{'conical hat-0': [70, 90, 150, 170], 'crescent moon-0': [180, 20, 240, 100]}
+A row of cubic boxes and a pile of pyramidal stones were stacked neatly in the corner of the room::::{'cubic box-0': [30, 30, 92, 92], 'cubic box-1': [100, 30, 162, 92], 'cubic box-2': [170, 30, 232, 92], 'pyramidal stone-0': [180, 150, 230, 200], 'pyramidal stone-1': [150, 200, 200, 250], 'pyramidal stone-2': [120, 250, 170, 300]}
+The oval mirror and the rectangular frame were mounted on the wall::::{'oval mirror': [40, 40, 216, 216], 'rectangular frame': [80, 80, 176, 176]}
+The spherical ball and the pentagonal pyramid were the objects of focus in the geometry lesson::::{'spherical ball-0': [50, 50, 150, 150], 'pentagonal pyramid-0': [200, 50, 350, 250]}
+The triangular sail and the square deck were the defining features of the sailboat::::{'triangular sail': [10, 10, 100, 150], 'square deck': [50, 160, 200, 250]}
+The cylindrical barrel and the conical flask were the only containers left in the laboratory::::{'cylindrical barrel-0': [50, 50, 120, 200], 'conical flask-0': [140, 60, 220, 180]}
+The oblong rug and the circular ottoman were arranged in the center of the living room::::{'oblong rug-0': [64, 64, 192, 128], 'circular ottoman-0': [96, 160, 160, 224]}
+The diamond window and the rectangular door were the only openings in the otherwise blank wall::::{'diamond window': [10, 10, 80, 80], 'rectangular door': [160, 10, 240, 80]}
+The spherical planet and the crescent moon were the celestial bodies that fascinated him the most::::{'spherical planet-0': [50, 50, 150, 150], 'crescent moon-0': [180, 100, 230, 200]}
+The triangular slice and the round pizza were the only options on the menu::::{'triangular slice': [20, 20, 100, 150], 'round pizza': [120, 50, 230, 200]}
+The cubic dice and the cylindrical pencil were the tools of his favorite game::::{'cubic dice': [25, 25, 107, 107], 'cylindrical pencil': [150, 150, 200, 230]}
+The teardrop leaves and the oval petals made up the floral arrangement on the table::::{'teardrop leaves-0': [50, 50, 100, 100], 'oval petals-0': [150, 150, 200, 200]}
+The square room and the oblong hallway were the only spaces in the house::::{'square room-0': [0, 0, 200, 200], 'oblong hallway-0': [210, 0, 256, 200]}
+The pyramidal roof and the triangular archway were the defining features of the ancient temple::::{'pyramidal roof-0': [40, 10, 200, 80], 'triangular archway-0': [80, 120, 170, 220]}
+The circular wreath and the rectangular picture frame hung on the front door::::{'circular wreath-0': [50, 50, 100, 100], 'rectangular picture frame-0': [120, 50, 200, 150]}
+The conical hat and the spherical ball were the objects of attention in the magic show::::{'conical hat-0': [50, 50, 150, 150], 'spherical ball-0': [160, 160, 220, 220]}
+The crescent curve and the diamond pattern were the highlights of the carpet design::::{'crescent curve': [50, 50, 150, 150], 'diamond pattern': [100, 100, 200, 200]}
+The pentagonal prism and the triangular pyramid were the shapes that he struggled with the most in math class::::{'pentagonal prism-0': [50, 50, 150, 200], 'triangular pyramid-0': [100, 100, 200, 250]}
+The cylindrical column and the square pedestal were the only pieces of furniture in the foyer::::{'cylindrical column-0': [25, 25, 75, 225], 'square pedestal-0': [150, 25, 225, 175]}
+The oblong table and the round chairs were arranged for the dinner party::::{'oblong table-0': [50, 50, 206, 156], 'round chair-0': [20, 20, 80, 80], 'round chair-1': [176, 20, 236, 80], 'round chair-2': [20, 126, 80, 186], 'round chair-3': [176, 126, 236, 186]}
+The spherical globe and the teardrop droplet were the symbols of science and nature::::{'spherical globe-0': [30, 30, 160, 160], 'teardrop droplet-0': [180, 180, 250, 250]}
+The triangular roof and the diamond windows were the defining features of the modern architecture::::{'triangular roof-0': [20, 40, 236, 120], 'diamond windows-0': [40, 150, 110, 220], 'diamond windows-1': [140, 150, 210, 220], 'diamond windows-2': [230, 150, 300, 220]}
+The cubic block and the cylindrical tube were the building blocks for his latest invention::::{'cubic block': [15, 15, 95, 95], 'cylindrical tube': [140, 50, 230, 150]}
+The rectangular screen and the oval speakers were the only electronic devices in the room::::{'rectangular screen-0': [20, 20, 150, 200], 'oval speakers-0': [180, 40, 230, 100]}
+The conical mountain and the crescent beach were the contrasting views from the hotel room::::{'conical mountain-0': [10, 10, 180, 256], 'crescent beach-0': [190, 50, 256, 200]}
+The pentagonal star and the square checkerboard were the patterns on the quilt::::{'pentagonal star': [30, 30, 150, 200], 'square checkerboard': [100, 50, 220, 170]}
+The pyramidal shape and the triangular lines were the inspiration for the art project::::{'pyramidal shape-0': [20, 40, 236, 250], 'triangular lines-0': [75, 10, 180, 30]}
+The oblong painting and the circular sculpture were the centerpieces of the art exhibit::::{'oblong painting-0': [50, 50, 150, 200], 'circular sculpture-0': [100, 50, 200, 150]}
+The diamond ring and the teardrop necklace were the precious gifts from her beloved::::{'diamond ring': [50, 50, 100, 100], 'teardrop necklace': [150, 150, 200, 200]}
+The cylindrical tower and the spherical fountain were the landmarks of the city::::{'cylindrical tower-0': [10, 10, 120, 246], 'spherical fountain-0': [136, 10, 246, 200]}
+The triangular flag and the rectangular banner were waving in the wind on the parade::::{'triangular flag-0': [50, 50, 150, 200], 'rectangular banner-0': [170, 50, 250, 200]}
+The cubic room and the conical lampshade were the unique features of the hotel suite::::{'cubic room': [10, 10, 100, 100], 'conical lampshade': [150, 150, 200, 220]}
+The oval platter and the round bowl were used for serving dinner::::{'oval platter-0': [60, 50, 180, 130], 'round bowl-0': [200, 150, 240, 190]}
+The pentagonal prism and the pyramidal tetrahedron were the shapes of the crystals in the museum exhibit::::{'pentagonal prism': [20, 20, 100, 200], 'pyramidal tetrahedron': [120, 30, 220, 150]}
+A triangular plane and a circular hot air balloon floated in the sky::::{'triangular plane-0': [20, 90, 150, 220], 'circular hot air balloon-0': [80, 20, 200, 160]}
+A small kitten and a big dog sat side by side::::{'small kitten': [20, 40, 80, 120], 'big dog': [100, 40, 220, 180]}
+A long road and a short path led to the same destination::::{'long road-0': [10, 100, 246, 130], 'short path-0': [90, 140, 166, 180], 'destination-0': [120, 200, 140, 220]}
+The tall tree and the short shrub created a contrast in the garden::::{'tall tree-0': [20, 20, 80, 220], 'short shrub-0': [120, 50, 180, 150]}
+The big book and the small notepad were both useful for different purposes::::{'big book-0': [20, 20, 120, 220], 'small notepad-0': [136, 40, 200, 100]}
+The long dress and the short skirt were both fashionable choices::::{'long dress-0': [25, 50, 227, 250], 'short skirt-0': [29, 10, 100, 160]}
+The tall tower and the short building dominated the skyline::::{'tall tower-0': [20, 10, 120, 200], 'short building-0': [150, 50, 220, 180]}
+The big elephant and the small mouse made an unlikely pair::::{'big elephant-0': [10, 10, 200, 200], 'small mouse-0': [220, 220, 240, 240]}
+The long river and the short stream flowed through the picturesque valley::::{'long river': [10, 50, 246, 80], 'short stream': [90, 150, 200, 180], 'picturesque valley': [0, 0, 256, 256]}
+The tall ladder and the short stool were both necessary for reaching high places::::{'tall ladder-0': [10, 10, 60, 220], 'short stool-0': [170, 150, 240, 180]}
+The big house and the small cabin provided different types of accommodations::::{'big house-0': [40, 40, 216, 216], 'small cabin-0': [20, 20, 90, 90]}

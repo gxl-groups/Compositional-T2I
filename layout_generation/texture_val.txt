@@ -1,0 +1,300 @@
+a plastic toy and a glass bottle::::{'plastic toy-0': [25, 30, 103, 208], 'glass bottle-0': [150, 25, 225, 200]}
+rubber sole shoes and fluffy clouds::::{'rubber sole shoes-0': [20, 20, 100, 100], 'rubber sole shoes-1': [120, 120, 200, 200], 'fluffy clouds-0': [50, 150, 150, 200], 'fluffy clouds-1': [160, 50, 240, 100]}
+a metallic desk lamp and a fluffy sweater::::{'metallic desk lamp-0': [20, 20, 80, 150], 'fluffy sweater-0': [100, 50, 200, 200]}
+a rubber band and a wooden floor::::{'rubber band-0': [50, 50, 150, 70], 'wooden floor-0': [0, 150, 256, 256]}
+a fabric towel and a glass table::::{'fabric towel-0': [20, 20, 130, 150], 'glass table-0': [140, 100, 240, 200]}
+a metallic car and a fabric dress::::{'metallic car-0': [10, 10, 80, 120], 'fabric dress-0': [150, 30, 220, 200]}
+a rubber ball and a leather wallet::::{'rubber ball-0': [50, 50, 150, 150], 'leather wallet-0': [170, 170, 230, 230]}
+a fabric towel and a leather chair::::{'fabric towel': [20, 20, 100, 150], 'leather chair': [120, 50, 220, 200]}
+a fluffy rug and a leather wallet::::{'fluffy rug-0': [50, 50, 180, 180], 'leather wallet-0': [200, 60, 240, 100]}
+a plastic cutlery and fluffy clouds::::{'plastic cutlery-0': [50, 50, 150, 150], 'fluffy clouds-0': [100, 100, 200, 200]}
+a wooden door and a glass jar::::{'wooden door-0': [25, 50, 180, 240], 'glass jar-0': [200, 30, 240, 100]}
+a fluffy teddy bear and a leather belt::::{'fluffy teddy bear-0': [30, 30, 150, 200], 'leather belt-0': [170, 80, 220, 140]}
+a plastic toy and a fluffy pillow::::{'plastic toy-0': [50, 50, 100, 100], 'fluffy pillow-0': [150, 150, 230, 230]}
+a rubber band and a plastic container::::{'rubber band-0': [20, 40, 110, 80], 'plastic container-0': [140, 120, 240, 220]}
+a leather wallet and a glass window::::{'leather wallet': [20, 20, 100, 150], 'glass window': [120, 20, 220, 200]}
+a wooden desk and a leather jacket::::{'wooden desk-0': [20, 90, 236, 250], 'leather jacket-0': [90, 20, 160, 80]}
+a metallic spoon and a wooden chair::::{'metallic spoon-0': [30, 40, 70, 120], 'wooden chair-0': [150, 60, 220, 180]}
+a leather jacket and a glass vase::::{'leather jacket-0': [30, 30, 160, 220], 'glass vase-0': [190, 30, 240, 150]}
+a wooden spoon and a fabric rug::::{'wooden spoon-0': [20, 20, 80, 150], 'fabric rug-0': [100, 100, 200, 200]}
+a metallic jewelry and a glass bottle::::{'metallic jewelry-0': [20, 20, 120, 120], 'glass bottle-0': [140, 140, 240, 240]}
+a metallic desk lamp and a wooden toy::::{'metallic desk lamp': [20, 20, 80, 150], 'wooden toy': [160, 40, 210, 100]}
+a plastic phone case and a leather chair::::{'plastic phone case-0': [50, 50, 150, 150], 'leather chair-0': [100, 100, 200, 200]}
+a rubber band and a wooden spoon::::{'rubber band-0': [50, 50, 100, 100], 'wooden spoon-0': [150, 150, 200, 200]}
+a metallic key and a fluffy pillow::::{'metallic key-0': [50, 30, 110, 100], 'fluffy pillow-0': [130, 80, 240, 180]}
+a leather shoes and a glass cup::::{'leather shoes-0': [20, 20, 100, 100], 'glass cup-0': [120, 120, 180, 180]}
+a metallic door knob and a wooden floor::::{'metallic door knob-0': [20, 100, 50, 150], 'wooden floor-0': [0, 200, 256, 256]}
+a rubber tire and a metallic key::::{'rubber tire-0': [20, 20, 100, 100], 'metallic key-0': [140, 140, 180, 200]}
+a metallic keychain and wooden chopsticks::::{'metallic keychain': [50, 50, 100, 150], 'wooden chopsticks': [120, 120, 180, 200]}
+a fabric blanket and a leather jacket::::{'fabric blanket-0': [20, 20, 150, 200], 'leather jacket-0': [100, 50, 220, 180]}
+a plastic container and a glass jar::::{'plastic container-0': [30, 30, 120, 150], 'glass jar-0': [140, 30, 220, 150]}
+fluffy clouds and a glass table::::{'fluffy clouds-0': [10, 10, 100, 60], 'fluffy clouds-1': [120, 10, 210, 60], 'glass table-0': [80, 150, 176, 220]}
+a rubber eraser and a metallic door knob::::{'rubber eraser': [20, 20, 80, 80], 'metallic door knob': [150, 150, 200, 200]}
+a rubber tire and a leather chair::::{'rubber tire-0': [30, 30, 130, 130], 'leather chair-0': [150, 50, 250, 200]}
+a fabric bag and a glass vase::::{'fabric bag-0': [30, 30, 140, 200], 'glass vase-0': [160, 50, 240, 180]}
+a plastic container and a fabric blanket::::{'plastic container-0': [30, 30, 150, 150], 'fabric blanket-0': [170, 50, 250, 200]}
+a metallic desk lamp and a fabric curtain::::{'metallic desk lamp': [20, 20, 80, 150], 'fabric curtain': [180, 10, 240, 200]}
+a metallic desk lamp and a glass cup::::{'metallic desk lamp-0': [20, 20, 100, 200], 'glass cup-0': [130, 30, 200, 100]}
+a metallic car and a fluffy sweater::::{'metallic car-0': [30, 30, 180, 150], 'fluffy sweater-0': [200, 50, 250, 200]}
+a metallic door knob and a fabric blanket::::{'metallic door knob-0': [50, 80, 70, 100], 'fabric blanket-0': [150, 150, 230, 210]}
+a rubber ball and a glass vase::::{'rubber ball-0': [25, 25, 91, 91], 'glass vase-0': [165, 80, 240, 220]}
+a wooden toy and a fabric pants::::{'wooden toy-0': [20, 20, 100, 100], 'fabric pants-0': [150, 150, 230, 230]}
+rubber sole shoes and a metallic key::::{'rubber sole shoes-0': [50, 50, 150, 150], 'metallic key-0': [170, 170, 220, 220]}
+a wooden door and a fluffy blanket::::{'wooden door-0': [80, 80, 176, 208], 'fluffy blanket-0': [200, 30, 230, 90]}
+a plastic container and a leather chair::::{'plastic container-0': [20, 20, 100, 150], 'leather chair-0': [130, 50, 230, 200]}
+rubber gloves and a wooden table::::{'rubber gloves': [20, 20, 100, 180], 'wooden table': [120, 50, 240, 220]}
+a fabric shirt and a fluffy teddy bear::::{'fabric shirt-0': [50, 50, 150, 150], 'fluffy teddy bear-0': [170, 50, 250, 150]}
+a wooden floor and a fabric shirt::::{'wooden floor-0': [0, 0, 256, 256], 'fabric shirt-0': [50, 50, 150, 150]}
+a fabric bag and a leather chair::::{'fabric bag-0': [30, 30, 120, 200], 'leather chair-0': [140, 30, 250, 220]}
+a plastic bag and a fabric pants::::{'plastic bag-0': [40, 20, 100, 120], 'fabric pants-0': [140, 50, 240, 200]}
+a fabric pants and a fluffy rug::::{'fabric pants-0': [20, 20, 100, 200], 'fluffy rug-0': [130, 30, 230, 180]}
+a metallic spoon and a glass vase::::{'metallic spoon-0': [30, 30, 100, 100], 'glass vase-0': [130, 130, 200, 230]}
+a rubber eraser and leather gloves::::{'rubber eraser-0': [20, 20, 94, 94], 'leather gloves-0': [160, 140, 250, 220]}
+a rubber tire and a metallic fork::::{'rubber tire-0': [50, 50, 150, 150], 'metallic fork-0': [180, 180, 230, 230]}
+a plastic container and a metallic fork::::{'plastic container-0': [20, 20, 100, 100], 'metallic fork-0': [130, 130, 180, 180]}
+a wooden table and a leather belt::::{'wooden table-0': [50, 50, 200, 150], 'leather belt-0': [100, 160, 180, 180]}
+a wooden floor and a glass bottle::::{'wooden floor-0': [0, 200, 256, 256], 'glass bottle-0': [50, 50, 100, 150]}
+a metallic door knob and a fabric pillow::::{'metallic door knob-0': [30, 30, 80, 80], 'fabric pillow-0': [160, 120, 230, 200]}
+a rubber ball and a fabric curtain::::{'rubber ball-0': [30, 30, 80, 80], 'fabric curtain-0': [150, 50, 250, 200]}
+a wooden table and a fabric blanket::::{'wooden table-0': [50, 50, 200, 200], 'fabric blanket-0': [100, 100, 220, 220]}
+a plastic toy and a leather bag::::{'plastic toy-0': [20, 20, 100, 150], 'leather bag-0': [130, 50, 230, 180]}
+a plastic phone case and a fabric bag::::{'plastic phone case-0': [10, 20, 60, 80], 'fabric bag-0': [70, 40, 160, 100]}
+a metallic watch and a glass bottle::::{'metallic watch-0': [25, 30, 80, 120], 'glass bottle-0': [100, 30, 200, 180]}
+a metallic key and fluffy clouds::::{'metallic key-0': [50, 50, 100, 150], 'fluffy clouds-0': [150, 50, 250, 150]}
+rubber gloves and a metallic watch::::{'rubber gloves-0': [30, 30, 122, 210], 'metallic watch-0': [150, 80, 200, 130]}
+a plastic toy and a wooden table::::{'plastic toy': [20, 30, 80, 80], 'wooden table': [120, 100, 230, 180]}
+a wooden toy and a fabric hat::::{'wooden toy': [20, 20, 80, 80], 'fabric hat': [140, 140, 200, 200]}
+a metallic fork and a fabric dress::::{'metallic fork-0': [30, 30, 80, 200], 'fabric dress-0': [120, 30, 220, 250]}
+a plastic cutlery and a glass mirror::::{'plastic cutlery': [20, 20, 100, 100], 'glass mirror': [130, 50, 220, 180]}
+a fabric rug and a leather belt::::{'fabric rug-0': [20, 20, 236, 182], 'leather belt-0': [100, 190, 200, 210]}
+a plastic container and a fluffy rug::::{'plastic container-0': [20, 20, 100, 150], 'fluffy rug-0': [130, 100, 230, 200]}
+a metallic car and a glass cup::::{'metallic car-0': [20, 20, 150, 100], 'glass cup-0': [170, 120, 230, 200]}
+a rubber tire and a plastic bottle::::{'rubber tire-0': [30, 30, 100, 100], 'plastic bottle-0': [140, 140, 200, 220]}
+a leather chair and a glass cup::::{'leather chair-0': [30, 30, 180, 200], 'glass cup-0': [200, 80, 240, 120]}
+a wooden chair and a fabric hat::::{'wooden chair-0': [30, 30, 130, 180], 'fabric hat-0': [150, 50, 200, 100]}
+a wooden desk and leather gloves::::{'wooden desk-0': [20, 20, 180, 120], 'leather gloves-0': [50, 140, 100, 180]}
+a plastic chair and a fluffy teddy bear::::{'plastic chair-0': [20, 20, 120, 150], 'fluffy teddy bear-0': [140, 30, 240, 180]}
+a fabric pillow and a leather chair::::{'fabric pillow': [20, 20, 100, 100], 'leather chair': [120, 120, 220, 220]}
+a fabric rug and a fluffy pillow::::{'fabric rug-0': [25, 25, 200, 150], 'fluffy pillow-0': [50, 160, 150, 230]}
+a metallic watch and a fluffy sweater::::{'metallic watch-0': [25, 25, 75, 75], 'fluffy sweater-0': [100, 100, 200, 200]}
+a rubber gloves and a fabric hat::::{'rubber gloves-0': [30, 30, 113, 153], 'fabric hat-0': [150, 50, 230, 120]}
+a metallic key and a fabric curtain::::{'metallic key-0': [20, 20, 70, 70], 'fabric curtain-0': [100, 30, 230, 220]}
+a plastic container and a glass window::::{'plastic container-0': [20, 20, 100, 150], 'glass window-0': [130, 50, 230, 200]}
+a fabric hat and a fluffy blanket::::{'fabric hat-0': [35, 35, 95, 95], 'fluffy blanket-0': [150, 150, 230, 230]}
+a metallic spoon and a fluffy blanket::::{'metallic spoon-0': [90, 90, 120, 150], 'fluffy blanket-0': [140, 100, 230, 200]}
+a wooden spoon and a glass bottle::::{'wooden spoon-0': [60, 50, 130, 140], 'glass bottle-0': [160, 60, 220, 160]}
+a metallic desk lamp and a fabric dress::::{'metallic desk lamp': [20, 20, 100, 150], 'fabric dress': [120, 40, 220, 220]}
+a fabric blanket and a fluffy blanket::::{'fabric blanket-0': [20, 30, 150, 120], 'fluffy-0': [100, 130, 230, 220]}
+a metallic door knob and a fabric pants::::{'metallic door knob-0': [50, 50, 80, 80], 'fabric pants-0': [150, 150, 200, 200]}
+a rubber band and wooden chopsticks::::{'rubber band-0': (50, 50, 150, 70),'wooden chopsticks-0': (50, 100, 150, 120)}
+a rubber sole shoes and a fluffy blanket::::{'rubber sole shoes-0': [20, 30, 80, 120], 'fluffy blanket-0': [100, 140, 230, 220]}
+a plastic container and a fluffy teddy bear::::{'plastic container-0': [20, 20, 100, 120], 'fluffy teddy bear-0': [140, 40, 230, 180]}
+a metallic door knob and a wooden desk::::{'metallic door knob-0': [30, 30, 60, 60], 'wooden desk-0': [100, 100, 220, 150]}
+a wooden chair and a fluffy teddy bear::::{'wooden chair-0': [40, 40, 120, 120], 'fluffy teddy bear-0': [140, 140, 200, 200]}
+a metallic jewelry and a fabric dress::::{'metallic jewelry-0': [50, 50, 150, 150], 'fabric dress-0': [160, 50, 250, 150]}
+a rubber ball and a metallic car::::{'rubber ball-0': [50, 50, 100, 100], 'metallic car-0': [150, 150, 200, 200]}
+a fabric rug and fluffy clouds::::{'fabric rug-0': [20, 20, 150, 150], 'fluffy clouds-0': [180, 50, 250, 120]}
+a plastic chair and leather gloves::::{'plastic chair-0': [50, 50, 150, 150], 'leather gloves-0': [180, 180, 230, 230]}
+a wooden door and a fabric dress::::{'wooden door-0': [10, 10, 100, 200], 'fabric dress-0': [150, 50, 220, 170]}
+a plastic bag and a glass jar::::{'plastic bag-0': [50, 50, 170, 170], 'glass jar-0': [180, 180, 230, 230]}
+a rubber band and a glass jar::::{'rubber band-0': [20, 20, 80, 80], 'glass jar-0': [150, 90, 250, 200]}
+a plastic chair and a metallic car::::{'plastic chair-0': [30, 30, 120, 150], 'metallic car-0': [130, 40, 230, 120]}
+a plastic cutlery and a wooden door::::{'plastic cutlery-0': [20, 20, 80, 120], 'wooden door-0': [150, 50, 250, 200]}
+a metallic knife and a glass jar::::{'metallic knife-0': [30, 30, 100, 200], 'glass jar-0': [130, 40, 220, 180]}
+a rubber ball and a leather shoes::::{'rubber ball-0': [40, 50, 90, 100], 'leather shoes-0': [150, 150, 230, 220]}
+rubber gloves and a fluffy pillow::::{'rubber gloves-0': [20, 20, 100, 100], 'fluffy pillow-0': [140, 140, 240, 240]}
+a fabric blanket and a glass jar::::{'fabric blanket-0': [50, 50, 150, 150], 'glass jar-0': [200, 100, 240, 180]}
+a fluffy pillow and a glass window::::{'fluffy pillow-0': [25, 30, 120, 120], 'glass window-0': [136, 30, 256, 225]}
+a metallic key and a wooden jewelry box::::{'metallic key-0': [40, 40, 80, 160], 'wooden jewelry box-0': [120, 60, 200, 180]}
+a metallic keychain and a fluffy teddy bear::::{'metallic keychain': [20, 20, 70, 70], 'fluffy teddy bear': [100, 100, 200, 200]}
+a rubber band and a wooden toy::::{'rubber band-0': [50, 50, 100, 100], 'wooden toy-0': [150, 150, 200, 200]}
+a plastic bottle and a leather jacket::::{'plastic bottle-0': [20, 20, 80, 100], 'leather jacket-0': [150, 150, 250, 230]}
+a plastic phone case and a wooden toy::::{'plastic phone case-0': [20, 20, 130, 200], 'wooden toy-0': [150, 50, 240, 150]}
+rubber sole shoes and a plastic container::::{'rubber sole shoes-0': [20, 20, 100, 150], 'plastic container-0': [130, 40, 220, 180]}
+a fluffy pillow and a leather belt::::{'fluffy pillow-0': [20, 20, 100, 100], 'leather belt-0': [140, 140, 200, 200]}
+a rubber band and a fabric blanket::::{'rubber band': [30, 30, 70, 70], 'fabric blanket': [100, 100, 200, 200]}
+a metallic door knob and a glass mirror::::{'metallic door knob-0': [30, 30, 70, 70], 'glass mirror-0': [120, 30, 250, 220]}
+leather gloves and a glass jar::::{'leather gloves-0': [20, 20, 90, 120], 'glass jar-0': [150, 50, 210, 180]}
+rubber sole shoes and a fluffy teddy bear::::{'rubber sole shoes-0': [30, 30, 125, 150], 'fluffy teddy bear-0': [140, 30, 250, 250]}
+rubber gloves and a metallic knife::::{'rubber gloves-0': [20, 30, 110, 200], 'metallic knife-0': [140, 50, 220, 120]}
+wooden chopsticks and a glass cup::::{'wooden chopsticks-0': [30, 30, 80, 200], 'glass cup-0': [150, 80, 220, 180]}
+a rubber band and a glass window::::{'rubber band-0': [20, 20, 80, 70], 'glass window-0': [120, 100, 240, 220]}
+a metallic desk lamp and a leather jacket::::{'metallic desk lamp-0': [20, 20, 90, 180], 'leather jacket-0': [140, 40, 220, 200]}
+a fabric pillow and a fluffy blanket::::{'fabric pillow-0': [30, 30, 100, 100], 'fluffy blanket-0': [140, 140, 250, 250]}
+a fabric hat and a glass mirror::::{'fabric hat-0': [50, 50, 150, 150], 'glass mirror-0': [180, 50, 250, 150]}
+a rubber ball and a leather belt::::{'rubber ball-0': [40, 50, 85, 95], 'leather belt-0': [160, 160, 230, 210]}
+a plastic phone case and a fabric curtain::::{'plastic phone case-0': [30, 30, 100, 100], 'fabric curtain-0': [120, 50, 220, 200]}
+a rubber band and a fabric curtain::::{'rubber band-0': [40, 40, 70, 70], 'fabric curtain-0': [150, 150, 220, 220]}
+a metallic fork and leather gloves::::{'fork-0': [50, 50, 130, 130], 'leather gloves-0': [140, 140, 220, 220]}
+a metallic spoon and wooden chopsticks::::{'metallic spoon-0': [20, 40, 70, 150], 'wooden chopsticks-0': [100, 50, 150, 200]}
+a rubber ball and a metallic spoon::::{'rubber ball-0': [20, 20, 100, 100], 'metallic spoon-0': [120, 120, 220, 220]}
+a metallic fork and a fabric blanket::::{'metallic fork-0': [20, 20, 70, 100], 'fabric blanket-0': [130, 130, 230, 200]}
+a rubber tire and a fluffy rug::::{'rubber tire-0': [25, 25, 100, 100], 'fluffy rug-0': [130, 130, 230, 230]}
+a metallic jewelry and a wooden spoon::::{'metallic jewelry-0': [20, 20, 100, 100], 'wooden spoon-0': [150, 150, 230, 230]}
+rubber gloves and a wooden spoon::::{'rubber gloves-0': [30, 30, 106, 106], 'wooden spoon-0': [150, 150, 226, 226]}
+a metallic watch and a fluffy towel::::{'metallic watch-0': [50, 50, 100, 100], 'fluffy towel-0': [150, 150, 200, 200]}
+a plastic chair and a glass mirror::::{'plastic chair-0': [30, 30, 120, 150], 'glass mirror-0': [140, 20, 250, 240]}
+a rubber band and a glass table::::{'rubber band-0': [20, 20, 120, 30], 'glass table-0': [80, 80, 220, 220]}
+rubber gloves and a metallic car::::{'rubber gloves-0': [20, 20, 100, 130], 'metallic car-0': [140, 50, 255, 200]}
+rubber gloves and a plastic toy::::{'rubber gloves-0': [30, 30, 110, 120], 'plastic toy-0': [150, 150, 230, 230]}
+a fabric shirt and a leather wallet::::{'fabric shirt-0': [30, 30, 150, 220], 'leather wallet-0': [180, 60, 240, 120]}
+a fabric pants and a fluffy blanket::::{'fabric pants-0': [30, 30, 120, 200], 'fluffy blanket-0': [140, 50, 250, 220]}
+a metallic car and a leather shoes::::{'metallic car-0': [10, 10, 110, 70], 'leather shoes-0': [140, 140, 200, 200]}
+a rubber ball and a glass mirror::::{'rubber ball-0': [50, 50, 100, 100], 'glass mirror-0': [150, 150, 200, 200]}
+rubber gloves and leather gloves::::{'rubber gloves-0': [20, 20, 110, 120], 'leather gloves-0': [140, 50, 230, 150]}
+a metallic desk lamp and a fluffy blanket::::{'metallic desk lamp-0': [25, 25, 75, 175], 'fluffy blanket-0': [100, 50, 225, 200]}
+rubber gloves and a metallic door knob::::{'rubber gloves-0': [20, 20, 80, 120], 'metallic door knob-0': [170, 80, 200, 140]}
+a leather belt and a glass bottle::::{'leather belt-0': [30, 30, 106, 122], 'glass bottle-0': [150, 150, 226, 242]}
+a rubber ball and a plastic phone case::::{'rubber ball-0': [60, 80, 180, 200], 'plastic phone case-0': [30, 10, 150, 40]}
+a wooden jewelry box and a fabric blanket::::{'wooden jewelry box-0': [20, 20, 100, 100], 'fabric blanket-0': [120, 120, 220, 220]}
+a plastic bag and a wooden table::::{'plastic bag-0': [20, 20, 80, 80], 'wooden table-0': [150, 150, 250, 250]}
+a metallic keychain and a wooden jewelry box::::{'metallic keychain-0': [30, 50, 75, 100], 'wooden jewelry box-0': [150, 150, 220, 220]}
+a wooden floor and a fluffy rug::::{'wooden floor-0': [0, 0, 256, 256], 'fluffy rug-0': [50, 50, 206, 206]}
+a plastic chair and a wooden chair::::{'plastic chair': [20, 20, 100, 180], 'wooden chair': [130, 50, 240, 200]}
+a rubber tire and a wooden table::::{'rubber tire-0': [20, 20, 120, 120], 'wooden table-0': [140, 50, 250, 200]}
+a metallic keychain and a fabric pants::::{'metallic keychain-0': [50, 50, 100, 100], 'fabric pants-0': [150, 150, 200, 200]}
+a plastic bag and a fluffy rug::::{'plastic bag': [100, 50, 150, 100], 'fluffy rug': [50, 150, 200, 250]}
+a wooden door and a glass mirror::::{'wooden door-0': [50, 50, 150, 256], 'glass mirror-0': [160, 50, 256, 256]}
+a wooden jewelry box and a fluffy blanket::::{'wooden jewelry box': [20, 20, 100, 120], 'fluffy blanket': [130, 50, 240, 180]}
+a fabric hat and a fluffy sweater::::{'fabric hat-0': [50, 30, 150, 110], 'fluffy sweater-0': [120, 140, 230, 250]}
+a plastic bottle and a leather wallet::::{'plastic bottle-0': [30, 30, 120, 200], 'leather wallet-0': [150, 50, 220, 150]}
+a plastic phone case and a fabric hat::::{'plastic phone case-0': [25, 30, 103, 208], 'fabric hat-0': [120, 140, 241, 250]}
+a metallic spoon and a fluffy towel::::{'metallic spoon-0': [30, 30, 80, 150], 'fluffy towel-0': [100, 50, 220, 200]}
+a rubber eraser and a plastic chair::::{'rubber eraser-0': [20, 20, 60, 60], 'plastic chair-0': [150, 80, 250, 200]}
+a metallic spoon and a glass window::::{'metallic spoon-0': [30, 80, 90, 150], 'glass window-0': [120, 20, 230, 220]}
+a rubber tire and a wooden spoon::::{'rubber tire-0': [50, 50, 150, 150], 'wooden spoon-0': [180, 180, 230, 230]}
+rubber sole shoes and a metallic car::::{'rubber sole shoes-0': [20, 120, 120, 240], 'metallic car-0': [140, 30, 250, 180]}
+a plastic cutlery and a wooden picture frame::::{'plastic cutlery-0': [20, 20, 80, 120], 'wooden picture frame-0': [150, 50, 240, 200]}
+a metallic fork and a fluffy blanket::::{'metallic fork-0': [50, 50, 100, 150], 'fluffy blanket-0': [150, 50, 250, 200]}
+a plastic toy and a metallic jewelry::::{'plastic toy-0': [20, 20, 100, 100], 'metallic jewelry-0': [140, 140, 200, 200]}
+rubber sole shoes and a glass cup::::{'rubber sole shoes-0': [20, 20, 120, 120], 'glass cup-0': [150, 150, 230, 230]}
+a wooden floor and a glass window::::{'wooden floor': [0, 180, 256, 256], 'glass window': [50, 0, 206, 100]}
+a fabric shirt and a glass window::::{'fabric shirt-0': [25, 25, 120, 220], 'glass window-0': [136, 33, 243, 240]}
+a plastic container and a fabric curtain::::{'plastic container-0': [30, 30, 130, 130], 'fabric curtain-0': [150, 50, 256, 220]}
+a plastic container and a metallic jewelry::::{'plastic container-0': [10, 100, 120, 200], 'metallic jewelry-0': [150, 80, 240, 160]}
+a rubber eraser and a metallic keychain::::{'rubber eraser-0': [20, 20, 60, 60], 'metallic keychain-0': [80, 80, 120, 120]}
+a fabric dress and a fluffy towel::::{'fabric dress-0': [20, 20, 120, 220], 'fluffy towel-0': [136, 40, 236, 200]}
+a rubber tire and a plastic container::::{'rubber tire-0': [50, 50, 120, 120], 'plastic container-0': [150, 150, 220, 220]}
+a plastic chair and a fabric shirt::::{'plastic chair-0': [20, 20, 100, 150], 'fabric shirt-0': [120, 50, 200, 150]}
+a metallic fork and a wooden desk::::{'metallic fork-0': [40, 30, 110, 180], 'wooden desk-0': [130, 50, 230, 200]}
+a metallic jewelry and a leather wallet::::{'metallic jewelry': [20, 20, 100, 100], 'leather wallet': [120, 120, 200, 200]}
+a plastic phone case and leather gloves::::{'plastic phone case-0': [50, 50, 150, 150], 'leather gloves-0': [170, 50, 250, 150]}
+a metallic key and a fabric bag::::{'metallic key-0': [50, 50, 100, 100], 'fabric bag-0': [150, 150, 200, 200]}
+a rubber tire and a fabric pillow::::{'rubber tire-0': [50, 50, 150, 150], 'fabric pillow-0': [170, 50, 250, 150]}
+rubber gloves and a wooden floor::::{'rubber gloves-0': [30, 40, 100, 120], 'wooden-0': [50, 130, 200, 250]}
+a plastic bag and a leather chair::::{'plastic bag-0': [40, 40, 120, 120], 'leather chair-0': [130, 130, 220, 220]}
+a metallic car and a leather jacket::::{'metallic car-0': [20, 20, 120, 150], 'leather jacket-0': [136, 20, 236, 150]}
+a rubber eraser and a wooden picture frame::::{'rubber eraser-0': [30, 30, 90, 90], 'wooden picture frame-0': [150, 150, 230, 230]}
+a fluffy towel and a leather belt::::{'fluffy towel-0': [50, 50, 150, 150], 'leather belt-0': [170, 170, 220, 220]}
+a fabric blanket and a glass cup::::{'fabric blanket-0': [30, 30, 150, 180], 'glass cup-0': [180, 50, 220, 100]}
+a plastic container and a fluffy blanket::::{'plastic container-0': [50, 50, 150, 150], 'fluffy blanket-0': [180, 180, 250, 250]}
+a metallic fork and a wooden jewelry box::::{'metallic fork-0': [10, 10, 90, 90], 'wooden jewelry box-0': [150, 150, 230, 230]}
+a fluffy pillow and a leather shoes::::{'fluffy pillow-0': [20, 20, 150, 150], 'leather shoes-0': [100, 170, 220, 240]}
+a fluffy towel and a glass jar::::{'fluffy towel-0': [20, 20, 120, 180], 'glass jar-0': [140, 40, 200, 160]}
+a metallic fork and a wooden spoon::::{'metallic fork-0': [30, 50, 100, 200], 'wooden spoon-0': [150, 70, 220, 180]}
+a rubber ball and a fluffy towel::::{'rubber ball-0': [25, 30, 70, 75], 'fluffy towel-0': [100, 100, 200, 200]}
+a rubber eraser and a leather belt::::{'rubber eraser-0': [20, 20, 80, 80], 'leather belt-0': [120, 120, 220, 220]}
+a plastic phone case and a metallic jewelry::::{'plastic phone case-0': [25, 45, 130, 160], 'metallic jewelry-0': [140, 20, 250, 100]}
+a plastic container and a fluffy sweater::::{'plastic container-0': [20, 20, 100, 150], 'fluffy sweater-0': [120, 50, 220, 200]}
+a rubber band and a fabric towel::::{'rubber band-0': [20, 20, 60, 60], 'fabric towel-0': [140, 140, 220, 220]}
+a fabric dress and a glass vase::::{'fabric dress-0': [20, 20, 120, 220], 'glass vase-0': [140, 30, 200, 180]}
+rubber boots and a glass plate::::{'rubber boots-0': [10, 10, 100, 200], 'glass plate-0': [156, 50, 246, 140]}
+a metallic necklace and a fabric sweater::::{'metallic necklace-0': [20, 20, 80, 130], 'fabric sweater-0': [100, 50, 220, 200]}
+rubber boots and a leather sofa::::{'rubber boots-0': [10, 10, 100, 100], 'leather sofa-0': [120, 120, 240, 240]}
+a plastic cup and a leather hat::::{'plastic cup-0': [30, 40, 90, 100], 'leather hat-0': [150, 150, 220, 220]}
+rubber mat and a glass bowl::::{'rubber mat-0': [10, 10, 200, 200], 'glass bowl-0': [220, 40, 256, 110]}
+a fabric sweater and a fluffy hat::::{'fabric sweater-0': [50, 50, 150, 150], 'fluffy hat-0': [200, 50, 250, 100]}
+a metallic bracelet and a fabric jacket::::{'metallic bracelet-0': [50, 50, 100, 100], 'fabric jacket-0': [150, 150, 250, 250]}
+a wooden fork and a leather sofa::::{'wooden fork-0': [50, 50, 80, 120], 'leather sofa-0': [100, 100, 220, 200]}
+wooden pencils and a fluffy scarf::::{'wooden pencils-0': [20, 20, 70, 150], 'wooden pencils-1': [80, 30, 130, 160], 'fluffy scarf': [150, 50, 200, 180]}
+rubber boots and a plastic cup::::{'rubber boots-0': [20, 20, 100, 120], 'plastic cup-0': [140, 140, 180, 180]}
+a fluffy hat and a glass plate::::{'fluffy hat-0': [20, 20, 120, 120], 'glass plate-0': [150, 80, 250, 180]}
+a plastic cup and a fabric sweater::::{'plastic cup': [20, 20, 80, 120], 'fabric sweater': [100, 50, 200, 200]}
+a metallic bracelet and a wooden knife::::{'metallic bracelet-0': [30, 30, 150, 150], 'wooden knife-0': [180, 40, 240, 120]}
+a metallic necklace and a wooden fork::::{'metallic necklace-0': [20, 20, 100, 100], 'wooden fork-0': [140, 140, 200, 200]}
+a metallic ring and a fluffy hat::::{'metallic ring-0': [30, 30, 80, 80], 'fluffy hat-0': [100, 100, 200, 200]}
+a fabric scarf and a glass bowl::::{'fabric scarf-0': [50, 50, 150, 150], 'glass bowl-0': [170, 50, 250, 150]}
+a fabric scarf and a leather hat::::{'fabric scarf-0': [20, 20, 100, 150], 'leather hat-0': [120, 100, 200, 180]}
+wooden pencils and a leather hat::::{'wooden pencils-0': [10, 40, 60, 220], 'leather hat-0': [150, 30, 200, 120]}
+wooden pencils and a leather sofa::::{'wooden pencil-0': [25, 25, 65, 208], 'wooden pencil-1': [70, 20, 110, 200], 'leather sofa-0': [140, 50, 250, 200]}
+a wooden fork and a glass bowl::::{'wooden fork-0': [20, 30, 70, 150], 'glass bowl-0': [120, 60, 200, 140]}
+a metallic ring and a glass plate::::{'metallic ring-0': [50, 50, 150, 150], 'glass plate-0': [160, 160, 240, 240]}
+a fabric jacket and a glass plate::::{'fabric jacket-0': [20, 20, 120, 200], 'glass plate-0': [136, 30, 230, 160]}
+a metallic bracelet and a leather hat::::{'metallic bracelet-0': [50, 50, 150, 150], 'leather hat-0': [170, 50, 250, 150]}
+a metallic earring and a leather sofa::::{'metallic earring-0': [80, 100, 120, 140], 'leather-0': [50, 170, 200, 230]}
+a fabric sweater and a leather watch::::{'fabric sweater-0': [20, 20, 150, 200], 'leather watch-0': [170, 50, 230, 110]}
+a plastic plate and a fluffy hat::::{'plastic plate-0': [20, 20, 100, 100], 'fluffy hat-0': [120, 120, 200, 200]}
+a metallic ring and a wooden knife::::{'metallic ring-0': [30, 40, 90, 100], 'wooden knife-0': [150, 150, 220, 220]}
+a plastic plate and a fluffy scarf::::{'plastic plate-0': [20, 20, 120, 120], 'fluffy scarf-0': [140, 140, 250, 250]}
+a fabric sweater and a leather sofa::::{'fabric sweater-0': [20, 20, 120, 150], 'leather sofa-0': [130, 50, 250, 200]}
+a plastic cup and a wooden knife::::{'plastic cup-0': [20, 20, 80, 120], 'wooden knife-0': [150, 50, 220, 150]}
+a metallic necklace and a leather hat::::{'metallic necklace-0': [50, 50, 150, 150], 'leather hat-0': [180, 30, 250, 100]}
+rubber mat and a metallic bracelet::::{'rubber mat-0': [10, 10, 120, 170], 'metallic bracelet-0': [150, 40, 190, 80]}
+a fabric scarf and a leather sofa::::{'fabric scarf-0': [50, 50, 150, 150], 'leather sofa-0': [100, 100, 200, 200]}
+a metallic earring and a fabric jacket::::{'metallic earring-0': [40, 20, 70, 70], 'fabric jacket-0': [90, 90, 200, 220]}
+rubber mat and a fluffy scarf::::{'rubber mat-0': [30, 30, 130, 130], 'fluffy scarf-0': [140, 140, 240, 240]}
+a fluffy hat and a leather hat::::{'fluffy hat-0': [50, 50, 120, 120], 'leather hat-0': [150, 150, 220, 220]}
+rubber boots and a leather watch::::{'rubber boots-0': [35, 80, 120, 200], 'leather watch-0': [160, 30, 200, 70]}
+a metallic ring and a fabric sweater::::{'metallic ring': [20, 20, 70, 70], 'fabric sweater': [100, 100, 200, 200]}
+a wooden fork and a leather hat::::{'wooden fork-0': [50, 80, 120, 160], 'leather hat-0': [140, 40, 200, 100]}
+wooden pencils and a glass plate::::{'wooden pencils-0': [15, 20, 70, 160], 'wooden pencils-1': [80, 40, 135, 180], 'glass plate': [150, 70, 220, 200]}
+The glass perfume bottle and metallic cap release the fragrance of the wooden scent on the fabric handkerchief::::{'glass perfume bottle-0': [50, 50, 150, 150], 'metallic cap-0': [160, 50, 200, 90], 'wooden scent-0': [50, 160, 150, 210], 'fabric handkerchief-0': [160, 100, 210, 200]}
+The metallic whisk and wooden bowl mix the fluffy batter for the cake on the plastic counter::::{'metallic whisk-0': [30, 30, 80, 150], 'wooden bowl-0': [90, 40, 180, 100], 'fluffy batter-0': [60, 120, 150, 200], 'plastic counter-0': [10, 10, 220, 220]}
+The leather wallet and fluffy keychain hang on the metallic hook by the wooden door::::{'leather wallet-0': [125, 30, 195, 90], 'fluffy keychain-0': [155, 95, 195, 135], 'metallic hook-0': [100, 75, 110, 85], 'wooden door-0': [0, 0, 256, 256]}
+The wooden ladder and glass jar hold the metallic screws for the shelf on the fabric workbench::::{'wooden ladder-0': [10, 40, 110, 220], 'glass jar-0': [130, 50, 180, 110], 'metallic screws-0': [200, 60, 240, 100], 'shelf-0': [50, 150, 160, 170], 'fabric workbench-0': [0, 0, 256, 256]}
+The metallic chair and plastic table hold the wooden laptop for the fluffy student in the library::::{'metallic chair-0': [20, 30, 100, 150], 'plastic table-0': [120, 40, 220, 130], 'wooden laptop-0': [150, 80, 200, 110], 'fluffy student-0': [30, 160, 100, 220]}
+The fluffy rug and leather ottoman rest on the wooden floor in the cozy reading nook::::{'fluffy rug': [60, 160, 200, 220], 'leather ottoman': [100, 120, 150, 150], 'wooden floor': [0, 0, 256, 256]}
+The glass vase and metallic stand display the wooden flowers on the fabric dresser::::{'glass vase': [20, 20, 80, 130], 'metallic stand': [90, 40, 150, 110], 'wooden flowers': [170, 30, 220, 90], 'fabric dresser': [50, 150, 200, 250]}
+The wooden spoon and metallic ladle serve the fluffy soup in the plastic bowl::::{'wooden spoon': [30, 30, 70, 150], 'metallic ladle': [80, 45, 120, 180], 'plastic bowl': [150, 50, 240, 180], 'fluffy soup': [160, 60, 230, 130]}
+The leather shoes and fluffy socks rest on the metallic rack by the glass door::::{'leather shoes': [10, 150, 80, 200], 'fluffy socks': [90, 160, 120, 190], 'metallic rack': [130, 100, 200, 220], 'glass door': [210, 0, 256, 256]}
+The wooden crate and glass bottle hold the metallic soda on the fabric picnic blanket::::{'wooden crate': [20, 20, 100, 100], 'glass bottle': [110, 20, 160, 90], 'metallic soda': [170, 40, 220, 90], 'fabric picnic blanket': [50, 150, 200, 250]}
+The metallic lamp and wooden desk provide light for the glass computer on the fluffy chair::::{'metallic lamp-0': [20, 20, 95, 165], 'wooden desk-0': [150, 80, 240, 150], 'glass computer-0': [145, 160, 235, 240], 'fluffy chair-0': [40, 180, 130, 240]}
+The leather journal and wooden pen rest on the fabric notebook for the metallic writer::::{'leather journal': [20, 20, 70, 100], 'wooden pen': [80, 30, 110, 90], 'fabric notebook': [120, 40, 200, 180]}
+The wooden cutting board and metallic cheese grater slice the fluffy cheddar for the plastic sandwich::::{'wooden cutting board': [10, 10, 100, 150], 'metallic cheese grater': [110, 10, 160, 90], 'fluffy cheddar': [170, 40, 240, 120], 'plastic sandwich': [90, 170, 200, 230]}
+The glass test tube and metallic clamp hold the wooden pipette for the fluffy experiment::::{'glass test tube-0': [30, 30, 100, 170], 'metallic clamp-0': [110, 60, 160, 120], 'wooden pipette-0': [180, 70, 230, 140]}
+The leather wallet and metallic coin purse hold the plastic credit cards on the fabric counter::::{'leather wallet': [30, 30, 120, 180], 'metallic coin purse': [140, 40, 220, 160], 'plastic credit cards-0': [50, 100, 90, 140], 'plastic credit cards-1': [100, 100, 140, 140], 'fabric counter': [0, 200, 256, 256]}
+The wooden salad bowl and metallic tongs mix the fluffy greens for the glass dinner party::::{'wooden salad bowl': [20, 50, 120, 130], 'metallic tongs': [130, 80, 180, 120], 'fluffy greens': [40, 140, 200, 220], 'glass dinner party': [160, 10, 240, 50]}
+The metallic pot and wooden spoon boil the fluffy noodles on the plastic stove::::{'metallic pot': [20, 60, 100, 140], 'wooden spoon': [110, 70, 140, 100], 'fluffy noodles': [30, 150, 90, 200], 'plastic stove': [150, 50, 230, 170]}
+The glass picture frame and metallic stand display the wooden photo on the fabric nightstand::::{'glass picture frame-0': [15, 15, 125, 205], 'metallic stand-0': [125, 20, 175, 180], 'wooden photo-0': [135, 30, 165, 60], 'fabric nightstand-0': [50, 220, 200, 250]}
+The fluffy cat and leather collar nap on the wooden windowsill next to the glass vase::::{'fluffy cat': [20, 40, 120, 160], 'leather collar': [130, 40, 200, 80], 'nap': [210, 40, 240, 80], 'wooden windowsill': [20, 170, 240, 190], 'glass vase': [20, 200, 50, 240]}
+The wooden bookshelf and metallic bookends hold the plastic books for the fluffy reader::::{'wooden bookshelf-0': [10, 10, 150, 240], 'metallic bookends-0': [160, 10, 180, 240], 'plastic books-0': [190, 10, 210, 80], 'fluffy reader-0': [220, 10, 250, 240]}
+The metallic bicycle and wooden basket hold the fluffy flowers on the plastic handlebar::::{'metallic bicycle': [20, 80, 190, 180], 'wooden basket': [180, 100, 240, 160], 'fluffy flowers': [200, 120, 240, 150], 'plastic handlebar': [160, 160, 240, 170]}
+The glass candle holder and metallic candlestick illuminate the wooden dining table on the fabric tablecloth::::{'glass candle holder': [30, 30, 100, 150], 'metallic candlestick': [110, 30, 180, 150], 'wooden dining table': [20, 160, 230, 240], 'fabric tablecloth': [10, 130, 240, 250]}
+The leather wallet and fluffy coin pouch hold the metallic change for the plastic vending machine::::{'leather wallet': [30, 30, 100, 180], 'fluffy coin pouch': [110, 30, 180, 120], 'metallic change': [200, 80, 240, 120], 'plastic vending machine': [130, 150, 230, 250]}
+The wooden ruler and glass magnifying glass measure the metallic screws on the fabric workbench::::{'wooden ruler': [20, 30, 80, 150], 'glass magnifying glass': [100, 40, 160, 100], 'metallic screws': [200, 50, 220, 70], 'fabric workbench': [50, 160, 200, 220]}
+The metallic pen and plastic notebook write the wooden notes for the fluffy presentation::::{'metallic pen': [20, 20, 70, 150], 'plastic notebook': [100, 50, 200, 180], 'wooden notes': [160, 70, 240, 200], 'fluffy presentation': [30, 160, 120, 240]}
+The fluffy teddy bear and leather collar sit on the glass shelf by the wooden bed::::{'fluffy teddy bear-0': [40, 80, 110, 150], 'leather collar-0': [60, 60, 90, 70], 'glass shelf-0': [150, 40, 190, 110], 'wooden bed-0': [200, 160, 240, 220]}
+The wooden rolling pin and metallic cookie cutter shape the fluffy dough for the plastic cookies::::{'wooden rolling pin': [20, 30, 90, 180], 'metallic cookie cutter': [100, 40, 150, 120], 'fluffy dough': [160, 60, 230, 200], 'plastic cookies': [170, 130, 240, 220]}
+The glass fish tank and metallic filter provide a home for the wooden fish on the fluffy stand::::{'glass fish tank': [10, 10, 120, 150], 'metallic filter': [130, 20, 200, 100], 'wooden fish': [140, 160, 200, 230], 'fluffy stand': [50, 180, 180, 220]}
+The metallic spoon and wooden chopsticks stir the fluffy noodles in the plastic takeout container::::{'metallic spoon-0': [10, 50, 50, 100], 'wooden chopsticks-0': [60, 50, 100, 100], 'fluffy noodles-0': [30, 120, 226, 220], 'plastic takeout container-0': [0, 0, 256, 256]}
+The leather belt and fluffy scarf hang on the metallic hook by the glass mirror::::{'leather belt': [10, 10, 80, 150], 'fluffy scarf': [100, 10, 180, 70], 'metallic hook': [200, 50, 220, 90], 'glass mirror': [130, 100, 230, 200]}
+The wooden birdhouse and glass bird feeder attract the metallic birds on the fabric tree::::{'wooden birdhouse': [20, 20, 80, 120], 'glass bird feeder': [150, 50, 200, 100], 'metallic birds-0': [40, 150, 60, 170], 'metallic birds-1': [80, 160, 100, 180], 'fabric tree': [120, 10, 220, 200]}
+The fluffy towel and plastic soap dish rest on the metallic tray by the wooden bathtub::::{'fluffy towel': [10, 20, 90, 140], 'plastic soap dish': [110, 30, 150, 70], 'metallic tray': [160, 25, 240, 75], 'wooden bathtub': [50, 150, 200, 240]}
+The glass baking dish and wooden spoon bake the metallic lasagna for the fluffy dinner party::::{'glass baking dish': [20, 20, 100, 100], 'wooden spoon': [110, 30, 150, 70], 'metallic lasagna': [170, 120, 230, 200]}
+The metallic stapler and leather portfolio hold the plastic documents on the wooden desk::::{'metallic stapler-0': [30, 50, 70, 90], 'leather portfolio-0': [80, 120, 200, 220], 'plastic documents-0': [110, 80, 140, 180], 'wooden desk-0': [0, 0, 256, 256]}
+The wooden birdhouse and fluffy bird perch on the metallic pole by the glass window::::{'wooden birdhouse': [100, 50, 180, 150], 'fluffy bird perch': [190, 70, 230, 120], 'metallic pole': [50, 40, 60, 200], 'glass window': [200, 30, 250, 200]}
+The glass vase and metallic watering can hold the wooden flowers on the fabric windowsill::::{'glass vase': [20, 20, 80, 150], 'metallic watering can': [90, 30, 150, 100], 'wooden flowers': [30, 160, 70, 210], 'fabric windowsill': [10, 200, 200, 220]}
+The metallic pan and plastic spatula cook the fluffy eggs on the wooden stove::::{'metallic pan-0': [30, 50, 143, 108], 'plastic spatula-0': [100, 75, 170, 130], 'fluffy eggs-0': [70, 130, 186, 210], 'wooden stove-0': [10, 10, 246, 240]}
+The wooden bookshelf and glass bookends hold the metallic books for the fluffy bookworm::::{'wooden bookshelf-0': [20, 20, 120, 220], 'glass bookends-0': [140, 50, 160, 90], 'metallic books-0': [170, 50, 190, 90], 'metallic books-1': [200, 50, 220, 90], 'fluffy bookworm-0': [80, 150, 100, 170]}
+The leather chair and metallic lamp provide comfort and light for the wooden desk on the fluffy rug::::{'leather chair-0': [20, 20, 120, 150], 'metallic lamp-0': [140, 20, 180, 100], 'wooden desk-0': [50, 160, 200, 200], 'fluffy rug-0': [0, 220, 256, 256]}
+The glass terrarium and wooden plant holder display the metallic succulent on the fabric shelf::::{'glass terrarium': [20, 20, 80, 100], 'wooden plant holder': [90, 20, 150, 100], 'metallic succulent': [40, 120, 60, 140], 'fabric shelf': [0, 160, 256, 256]}
+The metallic hammer and wooden mallet pound the fluffy nails into the plastic board::::{'metallic hammer': [30, 30, 100, 150], 'wooden mallet': [130, 30, 200, 150], 'fluffy nails': [100, 100, 150, 200], 'plastic board': [60, 160, 190, 220]}
+The glass vase and metallic frame display the wooden flowers on the fabric mantle::::{'glass vase': [20, 20, 90, 140], 'metallic frame': [140, 20, 220, 140], 'wooden flowers': [60, 150, 200, 220], 'fabric mantle': [0, 240, 256, 256]}
+The leather belt and fluffy hat hang on the metallic hook by the glass door::::{'leather belt': [150, 50, 200, 100], 'fluffy hat': [50, 150, 100, 200], 'metallic hook': [225, 100, 240, 160], 'glass door': [0, 0, 256, 256]}
+The wooden pencil and metallic sharpener write the fluffy notes on the plastic notepad::::{'wooden pencil': [20, 20, 70, 180], 'metallic sharpener': [80, 40, 120, 100], 'fluffy notes': [140, 20, 240, 150], 'plastic notepad': [130, 160, 250, 240]}
+The fluffy pillow and glass lampshade rest on the wooden nightstand by the metallic bed::::{'fluffy pillow': [10, 30, 70, 70], 'glass lampshade': [80, 20, 120, 70], 'wooden nightstand': [5, 5, 90, 90], 'metallic bed': [120, 10, 220, 90]}
+The wooden spoon and plastic measuring cup mix the metallic ingredients for the fluffy cake batter::::{'wooden spoon': [20, 60, 100, 120], 'plastic measuring cup': [30, 130, 110, 190], 'metallic ingredients': [140, 70, 220, 160], 'fluffy cake batter': [150, 200, 230, 240]}
+The leather jacket and metallic zipper keep the fluffy wearer warm on the glass sidewalk::::{'leather jacket': [20, 20, 100, 150], 'metallic zipper': [105, 20, 185, 60], 'fluffy wearer': [70, 100, 180, 220], 'glass sidewalk': [0, 200, 256, 256]}
+The metallic whisk and plastic bowl beat the fluffy egg whites for the wooden meringue::::{'metallic whisk': [20, 20, 80, 120], 'plastic bowl': [100, 60, 200, 160], 'fluffy egg whites': [30, 130, 90, 190], 'wooden meringue': [110, 180, 190, 240]}
+The wooden hanger and fluffy dress hang on the metallic rack by the glass mirror::::{'wooden hanger': [20, 50, 80, 120], 'fluffy dress': [90, 60, 180, 180], 'metallic rack': [200, 30, 240, 200], 'glass mirror': [150, 10, 250, 220]}
+The glass bottle and metallic opener hold the wooden beer for the fluffy party::::{'glass bottle-0': [10, 10, 80, 180], 'metallic opener-0': [85, 80, 120, 120], 'wooden beer-0': [130, 10, 246, 180]}
+The metallic scissors and plastic ruler cut the fluffy paper for the wooden craft project::::{'metallic scissors-0': [10, 10, 80, 80], 'plastic ruler-0': [90, 10, 160, 80], 'fluffy paper-0': [170, 10, 240, 80], 'wooden craft project-0': [10, 90, 240, 240]}
+The wooden clipboard and glass paperweight hold the metallic documents for the fluffy meeting::::{'wooden clipboard-0': [50, 50, 150, 150], 'glass paperweight-0': [170, 50, 230, 110], 'metallic documents-0': [100, 170, 200, 230]}
+The leather couch and fluffy pillow provide comfort on the wooden floor by the glass window::::{'leather couch-0': [20, 120, 180, 220], 'fluffy pillow-0': [90, 150, 140, 190], 'wooden floor-0': [0, 240, 256, 256], 'glass window-0': [190, 0, 256, 256]}
+The metallic kettle and wooden spoon boil the fluffy water for the plastic tea::::{'metallic kettle-0': [20, 50, 120, 150], 'wooden spoon-0': [115, 40, 180, 110], 'fluffy water-0': [60, 130, 200, 240], 'plastic tea-0': [200, 90, 250, 200]}
+The glass jar and fluffy ribbon hold the metallic candy on the wooden table::::{'glass jar': [20, 20, 80, 150], 'fluffy ribbon': [90, 30, 110, 100], 'metallic candy': [150, 50, 200, 120], 'wooden table': [0, 200, 256, 256]}
+The wooden salad bowl and plastic tongs mix the metallic greens for the fluffy salad::::{'wooden salad bowl': [20, 20, 80, 80], 'plastic tongs': [90, 70, 120, 100], 'metallic greens': [140, 30, 200, 90], 'fluffy salad': [160, 150, 240, 230]}
+The leather wallet and metallic keychain hold the plastic keys by the glass door::::{'leather wallet': [10, 10, 70, 50], 'metallic keychain': [80, 20, 110, 40], 'plastic keys': [120, 15, 150, 35], 'glass door': [160, 0, 256, 256]}
+The fluffy towel and metallic hook hang on the wooden hook by the glass shower::::{'fluffy towel': [50, 20, 120, 80], 'metallic hook': [130, 40, 150, 60], 'wooden hook': [160, 30, 180, 50], 'glass shower': [30, 100, 200, 240]}
+The glass ornament and wooden hook decorate the metallic Christmas tree on the fabric skirt::::{'glass ornament-0': [70, 70, 100, 100], 'wooden hook-0': [120, 120, 140, 140], 'metallic Christmas tree-0': [10, 10, 246, 246], 'fabric skirt-0': [0, 220, 256, 256]}
+The metallic pen and fluffy notebook jot down ideas on the wooden desk::::{'metallic pen': [40, 40, 70, 160], 'fluffy notebook': [80, 60, 180, 180], 'wooden desk': [0, 200, 256, 256]}
